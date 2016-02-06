@@ -1,0 +1,2485 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Console"
+msgstr ""
+
+msgid "Create new Virtual Machine"
+msgstr ""
+
+msgid "DNS Management"
+msgstr ""
+
+msgid "Delete VPS"
+msgstr ""
+
+msgid "Destination"
+msgstr ""
+
+msgid "Domain Forwarding"
+msgstr ""
+
+msgid "Email Forwarding"
+msgstr ""
+
+msgid "EPP Code"
+msgstr ""
+
+msgid "Expiring Domains"
+msgstr ""
+
+msgid "Force Power Off"
+msgstr ""
+
+msgid "Graceful Reboot"
+msgstr ""
+
+msgid "Interval:"
+msgstr ""
+
+msgid "Legend"
+msgstr ""
+
+msgid "Licenses"
+msgstr ""
+
+msgid "Login Details"
+msgstr ""
+
+msgid "Manual"
+msgstr ""
+
+msgid "Maximum Deposit"
+msgstr ""
+
+msgid "Minimum Deposit"
+msgstr ""
+
+msgid "List of my virtual machines"
+msgstr ""
+
+msgid "You don't have any virtual machines created"
+msgstr ""
+
+msgid "Register Nameservers"
+msgstr ""
+
+msgid "Re-Install VPS"
+msgstr ""
+
+msgid "Shutdown"
+msgstr ""
+
+msgid "Startup"
+msgstr ""
+
+msgid "Addon has been terminated"
+msgstr ""
+
+msgid "Total due"
+msgstr ""
+
+msgid "Upgrade"
+msgstr ""
+
+msgid "Upgrade / Downgrade"
+msgstr ""
+
+msgid "Virtual Machine details"
+msgstr ""
+
+msgid "Account Addons"
+msgstr ""
+
+msgid "Account Details"
+msgstr ""
+
+msgid "Access Control Panel"
+msgstr ""
+
+msgid "Access using ssh key"
+msgstr ""
+
+msgid "Access using password"
+msgstr ""
+
+msgid "Access WebMail"
+msgstr ""
+
+msgid "Your account details and settings"
+msgstr ""
+
+msgid "Account Info"
+msgstr ""
+
+msgid "Account logs section and history."
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Add new Alias Name"
+msgstr ""
+
+msgid "Add new domain"
+msgstr ""
+
+msgid "Added IP restriction"
+msgstr ""
+
+msgid "Add new Email account"
+msgstr ""
+
+msgid "Add MX entry"
+msgstr ""
+
+msgid "Add new FTP account"
+msgstr ""
+
+msgid ""
+"Add funds for a future use - either for the next orders or for your future "
+"invoices automatic payment."
+msgstr ""
+
+msgid ""
+"Your recent order has been marked as fraud, please settle this case before "
+"adding funds"
+msgstr ""
+
+msgid "You need at least one successfully completed order before adding funds"
+msgstr ""
+
+msgid "Add allowed IP / range"
+msgstr ""
+
+msgid "Additional IPs"
+msgstr ""
+
+msgid "Additional fee may be added to your bill"
+msgstr ""
+
+msgid "Add new"
+msgstr ""
+
+msgid "Add Privacy Protection"
+msgstr ""
+
+msgid "Add Recipe"
+msgstr ""
+
+msgid "Add A record"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Add new schedule"
+msgstr ""
+
+msgid "Add new service"
+msgstr ""
+
+msgid "Add Step"
+msgstr ""
+
+msgid "Add step to recipe"
+msgstr ""
+
+msgid "Add user"
+msgstr ""
+
+msgid "Add new variable"
+msgstr ""
+
+msgid "Add new zone"
+msgstr ""
+
+msgid "Adjust Resource Allocation"
+msgstr ""
+
+msgid "Administrative contact:"
+msgstr ""
+
+msgid ""
+"After adding new zone you will be able to add/edit its contents\" class="
+"\"vtip_description"
+msgstr ""
+
+msgid "Algorithm"
+msgstr ""
+
+msgid "Allow access from all IPs"
+msgstr ""
+
+msgid "Can't alocate IP address"
+msgstr ""
+
+msgid "Altitude"
+msgstr ""
+
+msgid "Amount to apply: "
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "Any"
+msgstr ""
+
+msgid "Apply credit"
+msgstr ""
+
+msgid "Apply to selected VS"
+msgstr ""
+
+msgid "Apply Template"
+msgstr ""
+
+msgid "Apps"
+msgstr ""
+
+msgid "Are you sure to delete this volume"
+msgstr ""
+
+msgid "Are you sure you want to send Ctrl+Alt+Del?"
+msgstr ""
+
+msgid ""
+"Are you sure you wish to enter rescue mode? Server password will temporary "
+"change, and you will be prompted with new password."
+msgstr ""
+
+msgid "Are you sure you wish to remove this domain?"
+msgstr ""
+
+msgid "Are you sure you wish to return this machine to its previous state?"
+msgstr ""
+
+msgid "Are you sure you want to remove this rule?"
+msgstr ""
+
+msgid "Assign New IP Address"
+msgstr ""
+
+msgid "Assign Recepie to event"
+msgstr ""
+
+msgid "Could not associate ip address"
+msgstr ""
+
+msgid "Attach existing volume"
+msgstr ""
+
+msgid "Attach to this VM"
+msgstr ""
+
+msgid "Auth method"
+msgstr ""
+
+msgid "Auto Renew"
+msgstr ""
+
+msgid "Don't lose name of your important domain! Enable Auto Renew option"
+msgstr ""
+
+msgid "Auto-Renewal Options"
+msgstr ""
+
+msgid ""
+"In order to avoid losing domain name due to its expiration you may consider "
+"enabling automatic renewal. You will receive email notifications prior to "
+"domain expiration, but since emails can be missed we recommend setting "
+"automatic renewal on"
+msgstr ""
+
+msgid "Autorenewal invoice will be issued approximately on"
+msgstr ""
+
+msgid "Are you sure? Domain will expire unless manually renewed."
+msgstr ""
+
+msgid "Available DNS Templates"
+msgstr ""
+
+msgid "Back to"
+msgstr ""
+
+msgid "Back to Client Area"
+msgstr ""
+
+msgid "All domains"
+msgstr ""
+
+msgid "All emails"
+msgstr ""
+
+msgid "All services"
+msgstr ""
+
+msgid "Backup"
+msgstr ""
+
+msgid "Backup has been scheduled for removal"
+msgstr ""
+
+msgid ""
+"Backup conversion lets you create a Template from an existing Virtual "
+"Machine configuration, which you can then use to redeploy new Virtual "
+"Machines. To convert your Backup, enter a Label name for your new template "
+"and click the Convert Backup button."
+msgstr ""
+
+msgid "Backup every"
+msgstr ""
+
+msgid ""
+"The list below shows all the backups for your virtual machine, along with "
+"the last time each of these backups were run."
+msgstr ""
+
+msgid "Bandwidth"
+msgstr ""
+
+msgid "Basic informations."
+msgstr ""
+
+msgid "Basic info about your account."
+msgstr ""
+
+msgid "Billing info"
+msgstr ""
+
+msgid "Billing and Resources"
+msgstr ""
+
+msgid "Any changes made here will impact following domains:"
+msgstr ""
+
+msgid "Burstable RAM"
+msgstr ""
+
+msgid ""
+"The charts below show the recent network utilisation of your VPS over "
+"several time periods, with a 1 minute average. These can take up to 5 "
+"minutes to generate for new systems. Your VPS is able to burst at speeds of "
+"up to 1 Gbps."
+msgstr ""
+
+msgid "Bandwidth Charts"
+msgstr ""
+
+msgid "Create new ticket"
+msgstr ""
+
+msgid "Clientarea search"
+msgstr ""
+
+msgid "Please briefly describe your reason for cancellation:"
+msgstr ""
+
+msgid "Requesting Cancellation for: "
+msgstr ""
+
+msgid ""
+"Thank you. Your cancellation request has been submitted. If you have done "
+"this by mistake please open a support ticket to notify us immediately, "
+"otherwise your account may be terminated."
+msgstr ""
+
+msgid "This account has  had a cancellation request submitted."
+msgstr ""
+
+msgid "Cancellation Request"
+msgstr ""
+
+msgid "Request Cancellation"
+msgstr ""
+
+msgid "Cancellation Type: "
+msgstr ""
+
+msgid "Cancel Order"
+msgstr ""
+
+msgid "Cancelation of this service is disabled by staff"
+msgstr ""
+
+msgid "You won't be able to login from %s with current settings"
+msgstr ""
+
+msgid "Welcome to the Client Area, a place where you can manage your account."
+msgstr ""
+
+msgid "Wrong Credit Card expiry date"
+msgstr ""
+
+msgid "Wrong Credit Card number"
+msgstr ""
+
+msgid "Credit Card details removed"
+msgstr ""
+
+msgid "Wrong Credit Card type"
+msgstr ""
+
+msgid "Credit Card details updated"
+msgstr ""
+
+msgid "Expiry Date"
+msgstr ""
+
+msgid "Card Number"
+msgstr ""
+
+msgid "Card Type"
+msgstr ""
+
+msgid "Certificate"
+msgstr ""
+
+msgid "Certification Periods"
+msgstr ""
+
+msgid "Change Details"
+msgstr ""
+
+msgid "Enter new card information below"
+msgstr ""
+
+msgid "Change main account password"
+msgstr ""
+
+msgid "Change my password"
+msgstr ""
+
+msgid "Change Quota"
+msgstr ""
+
+msgid "Checking"
+msgstr ""
+
+msgid "Check your login and password"
+msgstr ""
+
+msgid ""
+"This process will immediately re-install the virtual machine from the "
+"selected template, "
+msgstr ""
+
+msgid "destroying all data on the system."
+msgstr ""
+
+msgid ""
+"We recommend making a custom backup of your system before re-installing. If "
+"you create a custom backup now, then request a re-image, the process will "
+"begin as soon as the backup has been taken, and you can always restore it if "
+"you aren't happy with the new template."
+msgstr ""
+
+msgid "Clean form"
+msgstr ""
+
+msgid "click"
+msgstr ""
+
+msgid ""
+"Click <a href=\"?cmd=cart&amp;cat_id=addons&amp;account_id=%s\">here</"
+"a> to add addons for this account"
+msgstr ""
+
+msgid "Click here to access Control Panel"
+msgstr ""
+
+msgid "Click here to access WebMail"
+msgstr ""
+
+msgid "Click here to add new services and domains"
+msgstr ""
+
+msgid "click to view"
+msgstr ""
+
+msgid "Your details changed"
+msgstr ""
+
+msgid "Clone zone content from:"
+msgstr ""
+
+msgid ""
+"With this option enabled cloned zone contents will be replaced with this "
+"domain name.<br>I.e. original: mail.test.com. IN MX 0 test.com,<br/> new "
+"domain: mail.newdomain.com. IN MX 0 newdomain.com"
+msgstr ""
+
+msgid "Clone entries from other domain"
+msgstr ""
+
+msgid "Clone DNS settings"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Compatible with"
+msgstr ""
+
+msgid "Console unavailable. VPS is not powered on."
+msgstr ""
+
+msgid "Contact Details"
+msgstr ""
+
+msgid "Contact Information"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Convert to template"
+msgstr ""
+
+msgid "Convert Backup"
+msgstr ""
+
+msgid "Convert to volume"
+msgstr ""
+
+msgid ""
+"To convert your Snapshot, enter a Label name for your new template and click "
+"the convert button."
+msgstr ""
+
+msgid ""
+"Copy data below into <code>openrc</code> file, then type <code>source "
+"openrc</code> in the terminal to configure your environment,    to "
+"communicate with OpenStack using CLI tools."
+msgstr ""
+
+msgid "Could not conect to"
+msgstr ""
+
+msgid "Log in to control panel"
+msgstr ""
+
+msgid ""
+"These charts show the CPU utilisation of your VPS over several time periods. "
+"These can take up to 5 minutes to generate for new systems. Each node "
+"represents 600MHz of processor usage over a 1 minute average. The maximum "
+"will be the number of nodes assigned to the VPS."
+msgstr ""
+
+msgid "CPU Usage"
+msgstr ""
+
+msgid "CPUs"
+msgstr ""
+
+msgid "CPU Speed"
+msgstr ""
+
+msgid "CPU usage for this virtual server"
+msgstr ""
+
+msgid "Create new, re-usable contact"
+msgstr ""
+
+msgid "Create new Recipe"
+msgstr ""
+
+msgid "Create new security group"
+msgstr ""
+
+msgid "Create a new snapshot"
+msgstr ""
+
+msgid "Create VM backup"
+msgstr ""
+
+msgid "Create new volume"
+msgstr ""
+
+msgid "Creating root password"
+msgstr ""
+
+msgid ""
+"Creating VM Snapshot will prevent you from attaching new volumes to the VM "
+"or deleting any existing volumes.VM snapshots which include memory state "
+"can't be kept if you upgrade/downgrade VM resources. Any existing VM "
+"snapshots of this type will be discarded."
+msgstr ""
+
+msgid "Creation date"
+msgstr ""
+
+msgid "Current status of your invoices and ballance status."
+msgstr ""
+
+msgid "Current IP Address:  "
+msgstr ""
+
+msgid "Current package:"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Customer Name"
+msgstr ""
+
+msgid "Customer Quote"
+msgstr ""
+
+msgid "Contact us to get help."
+msgstr ""
+
+msgid "Get your services renew automatically, add funds to your account"
+msgstr ""
+
+msgid "Provide additional access to your services and tickets"
+msgstr ""
+
+msgid "Restrict access to your services to certain IP addresses"
+msgstr ""
+
+msgid "Browse articles written by our staff members"
+msgstr ""
+
+msgid "Check our network/servers statuses"
+msgstr ""
+
+msgid "Database"
+msgstr ""
+
+msgid "Database Host"
+msgstr ""
+
+msgid "Database Name"
+msgstr ""
+
+msgid "Database Password"
+msgstr ""
+
+msgid "Database User"
+msgstr ""
+
+msgid "Data Disk"
+msgstr ""
+
+msgid "Date sent"
+msgstr ""
+
+msgid "Date updated"
+msgstr ""
+
+msgid "1 Day Usage"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Default names"
+msgstr ""
+
+msgid "New IP Address: "
+msgstr ""
+
+msgid "Are you sure you want to delete this nameserver?"
+msgstr ""
+
+msgid "Delete NameServer"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Digest"
+msgstr ""
+
+msgid "Digest Type"
+msgstr ""
+
+msgid "Direction"
+msgstr ""
+
+msgid "Directory"
+msgstr ""
+
+msgid "Directory is not empty"
+msgstr ""
+
+msgid "Could not disable Static NAT"
+msgstr ""
+
+msgid "Discount"
+msgstr ""
+
+msgid "Disk Space"
+msgstr ""
+
+msgid "Disk Backup"
+msgstr ""
+
+msgid "Disk &amp; Bandwidth Usage"
+msgstr ""
+
+msgid "Disk has been scheduled for backup"
+msgstr ""
+
+msgid "Disks"
+msgstr ""
+
+msgid "Disk Space Usage"
+msgstr ""
+
+msgid "Can't clone this DNS zone"
+msgstr ""
+
+msgid ""
+"This is not a valid CNAME. Did you assign an MX or NS record to the record?"
+msgstr ""
+
+msgid ""
+"This is not a valid record. There is already exists a CNAME with this name."
+msgstr ""
+
+msgid ""
+"This is not a valid CNAME. There is already exists an A, AAAA or CNAME with "
+"this name."
+msgstr ""
+
+msgid "Your content field doesnt have a legit value."
+msgstr ""
+
+msgid "Invalid value for content field of HINFO record."
+msgstr ""
+
+msgid "A hostname can not start or end with a dash."
+msgstr ""
+
+msgid "You have invalid characters in your hostname."
+msgstr ""
+
+msgid "Given hostname or one of the labels is too short or too long."
+msgstr ""
+
+msgid "Given hostname has too many slashes."
+msgstr ""
+
+msgid "The hostname is too long."
+msgstr ""
+
+msgid "Invalid hostname."
+msgstr ""
+
+msgid "Invalid value for prio field. It should be numeric."
+msgstr ""
+
+msgid "You are using an invalid top level domain."
+msgstr ""
+
+msgid "Invalid value for TTL field. It should be numeric."
+msgstr ""
+
+msgid "This is not a valid IPv4 or IPv6 address."
+msgstr ""
+
+msgid "This is not a valid IPv4 address."
+msgstr ""
+
+msgid "This is not a valid IPv6 address."
+msgstr ""
+
+msgid "A prio field should be numeric."
+msgstr ""
+
+msgid ""
+"You can not point a NS or MX record to a CNAME record. Remove or rame the "
+"CNAME record first, or take another name."
+msgstr ""
+
+msgid "NS records must be a hostnames."
+msgstr ""
+
+msgid "Invalid characters have been used in this record."
+msgstr ""
+
+msgid "Unknown record type."
+msgstr ""
+
+msgid "You have an error in the MNAME field of the SOA record."
+msgstr ""
+
+msgid ""
+"Invalid value for name field of SOA record. It should be the name of the "
+"zone."
+msgstr ""
+
+msgid "Invalid value for name field of SRV record."
+msgstr ""
+
+msgid "Invalid value for the weight field of the SRV record."
+msgstr ""
+
+msgid "Invalid SRV target."
+msgstr ""
+
+msgid "Invalid value for the priority field of the SRV record."
+msgstr ""
+
+msgid "Sign in to your domain registrar backend."
+msgstr ""
+
+msgid ""
+"Navigate to an Nameserver (NS) record maintenance page. They can be located "
+"undersections 'DNS Management' or 'Name Server Management'."
+msgstr ""
+
+msgid "Delete any existing NS records."
+msgstr ""
+
+msgid ""
+"For each NS record, enter information according to the entries in the "
+"followingtable."
+msgstr ""
+
+msgid "Added new %s record"
+msgstr ""
+
+msgid "There was an error while adding new zone"
+msgstr ""
+
+msgid "No Domains selected"
+msgstr ""
+
+msgid "This is not a valid %s record."
+msgstr ""
+
+msgid "IP Address, as a decimal dotted quad string, for example"
+msgstr ""
+
+msgid "Prefix len."
+msgstr ""
+
+msgid "Prefix name"
+msgstr ""
+
+msgid "IPv6 address. An example"
+msgstr ""
+
+msgid "Delegate this domain to use given nameserver"
+msgstr ""
+
+msgid "Specifies the canonical name of a record. An example"
+msgstr ""
+
+msgid "Hardware info"
+msgstr ""
+
+msgid "Software info"
+msgstr ""
+
+msgid "Specifies a mail exchanger host for a domain."
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Regex"
+msgstr ""
+
+msgid "Service"
+msgstr ""
+
+msgid "Target nameserver hostname"
+msgstr ""
+
+msgid "Next Domain Name"
+msgstr ""
+
+msgid "Type Bit Maps"
+msgstr ""
+
+msgid ""
+"Reverse pointer, used to specify the host name belonging to an IP or IPv6 "
+"address. An example"
+msgstr ""
+
+msgid "Email address with no at sign"
+msgstr ""
+
+msgid "TXT pointer for more info"
+msgstr ""
+
+msgid "Signature Expiration"
+msgstr ""
+
+msgid "Signature Inception"
+msgstr ""
+
+msgid "Signer's Name"
+msgstr ""
+
+msgid "Type Covered"
+msgstr ""
+
+msgid "Labels"
+msgstr ""
+
+msgid ""
+"Indicates the time in seconds, when the slave will try to refresh the zone "
+"from the master"
+msgstr ""
+
+msgid ""
+"Defines the time in seconds between retries if the slave (secondary) fails "
+"to contact the master when refresh (above) has expired."
+msgstr ""
+
+msgid "Indicates when the zone data is no longer authoritative in seconds."
+msgstr ""
+
+msgid "Use dot instead of @ sign"
+msgstr ""
+
+msgid "Used to store Sender Permitted From details"
+msgstr ""
+
+msgid "Fp-Type"
+msgstr ""
+
+msgid "The TXT field can be used to attach textual data to a domain"
+msgstr ""
+
+msgid "Record name cannot be empty"
+msgstr ""
+
+msgid "Record updated"
+msgstr ""
+
+msgid "Subtype"
+msgstr ""
+
+msgid "DNS Template"
+msgstr ""
+
+msgid "DNS template has been applied for %s"
+msgstr ""
+
+msgid "DNS Templates"
+msgstr ""
+
+msgid "Zone contents has been cloned"
+msgstr ""
+
+msgid "Domain"
+msgstr ""
+
+msgid ""
+"This domain has expired. You can use renew option to renew this domain - "
+"only if it wasn't registered somewhere else already. Hurry up – don't lose "
+"your domain's name!"
+msgstr ""
+
+msgid ""
+"Domain is pending registration. Once we will receive payment for order it "
+"will be processed automatically - you will be notified about domain "
+"registration progress by email."
+msgstr ""
+
+msgid ""
+"Domain is pending transfer. Once we will receive payment for order it will "
+"be processed automatically - you will be notified about domain registration "
+"progress by email."
+msgstr ""
+
+msgid "Domains count"
+msgstr ""
+
+msgid "Domain details"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Download PDF"
+msgstr ""
+
+msgid "Download CA Bundle"
+msgstr ""
+
+msgid "Downloading latest WordPress"
+msgstr ""
+
+msgid "Invoices Due"
+msgstr ""
+
+msgid "Download Cert"
+msgstr ""
+
+msgid "Edit Label"
+msgstr ""
+
+msgid "Edit record"
+msgstr ""
+
+msgid "Edit rules"
+msgstr ""
+
+msgid "Edit Security Group Rules for"
+msgstr ""
+
+msgid "Edit Step"
+msgstr ""
+
+msgid "Edit your Contacts details"
+msgstr ""
+
+msgid "Edit your Organization details"
+msgstr ""
+
+msgid "Egress"
+msgstr ""
+
+msgid "History of all messages we have sent to you."
+msgstr ""
+
+msgid ""
+"Note: Adding email forwarding rules in bulk will overwrite your current "
+"email forwarding settings for all selected domains"
+msgstr ""
+
+msgid "Emails History"
+msgstr ""
+
+msgid "Reason cannot be empty"
+msgstr ""
+
+msgid ""
+"An email will be sent to this address and you will need to reply to verify "
+"that you have administrative rights to the domain."
+msgstr ""
+
+msgid "Select an approval email for this certificate"
+msgstr ""
+
+msgid "This certificate has been issued. Your settings are no longer editable."
+msgstr ""
+
+msgid "Configure Your SSL Certificate"
+msgstr ""
+
+msgid "Send Configuration Details"
+msgstr ""
+
+msgid "Web Server type"
+msgstr ""
+
+msgid "SSL Certificate Details"
+msgstr ""
+
+msgid "SSL Certificate"
+msgstr ""
+
+msgid "End of Billing Period"
+msgstr ""
+
+msgid "End Port"
+msgstr ""
+
+msgid "Engress"
+msgstr ""
+
+msgid "Your domain name without 'www' or such:"
+msgstr ""
+
+msgid "Month (yyyy-mm):"
+msgstr ""
+
+msgid "Auth Info / EPP Key"
+msgstr ""
+
+msgid ""
+"Requesting Epp code is the first step in domain transfer process. Once you "
+"receive your transfer code, please work with your new registrar in order to "
+"complete the transfer successfully."
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Ether Type"
+msgstr ""
+
+msgid "Exit Code"
+msgstr ""
+
+msgid "Expiration date must be provided"
+msgstr ""
+
+msgid "Expiration date is not valid"
+msgstr ""
+
+msgid "Expire"
+msgstr ""
+
+msgid "Expiry"
+msgstr ""
+
+msgid "Extended Info"
+msgstr ""
+
+msgid "Extracting files"
+msgstr ""
+
+msgid "Fail anything else"
+msgstr ""
+
+msgid "Fail values"
+msgstr ""
+
+msgid "Search your domains..."
+msgstr ""
+
+msgid "Fingerprint"
+msgstr ""
+
+msgid "Selected firewall rule has been scheduled for removal"
+msgstr ""
+
+msgid "First Payment Amount"
+msgstr ""
+
+msgid "Flags"
+msgstr ""
+
+msgid "Flavor"
+msgstr ""
+
+msgid "floating IPs left"
+msgstr ""
+
+msgid "Force Off"
+msgstr ""
+
+msgid "Force reboot"
+msgstr ""
+
+msgid "Components upgrade succeeded"
+msgstr ""
+
+msgid "From Port"
+msgstr ""
+
+msgid "Forward to:"
+msgstr ""
+
+msgid "Gateway"
+msgstr ""
+
+msgid "General settings:"
+msgstr ""
+
+msgid "Generated key"
+msgstr ""
+
+msgid " [ get status ]"
+msgstr ""
+
+msgid "Get EPP Code:"
+msgstr ""
+
+msgid "Go to step"
+msgstr ""
+
+msgid "Go To"
+msgstr ""
+
+msgid "HA-Enabled"
+msgstr ""
+
+msgid "Helth Check"
+msgstr ""
+
+msgid "here"
+msgstr ""
+
+msgid "Home Directory"
+msgstr ""
+
+msgid "Horizontal Precision"
+msgstr ""
+
+msgid "hourly billed, updated daily"
+msgstr ""
+
+msgid "Hourly Usage"
+msgstr ""
+
+msgid "1 Hour Usage"
+msgstr ""
+
+msgid "ICMP code"
+msgstr ""
+
+msgid "ICMP type"
+msgstr ""
+
+msgid ""
+"Current ICANN regulations require to publish your private contact "
+"information trough WHOIS service, which allows anybody to view your "
+"information.             This enables spammers and data thiefs to use this "
+"details.             <br/><br/>             <b>Protect your identity with "
+"WHOIS Privacy Protection service.</b>  With privacy protection enabled your "
+"real WHOIS contact data is hidden.            <br/><br/>"
+msgstr ""
+
+msgid "Manage Privacy"
+msgstr ""
+
+msgid ""
+"If VNC console is not responding to keyboard input: click the grey status "
+"bar below."
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Immediate"
+msgstr ""
+
+msgid "Most important links for your account."
+msgstr ""
+
+msgid "Inbound Firewall"
+msgstr ""
+
+msgid "Ingress"
+msgstr ""
+
+msgid "Initial Root Password"
+msgstr ""
+
+msgid "Install WordPress on"
+msgstr ""
+
+msgid "Instances"
+msgstr ""
+
+msgid "Instance state"
+msgstr ""
+
+msgid "Invalid credit card number"
+msgstr ""
+
+msgid "Invoice History"
+msgstr ""
+
+msgid "Invoice"
+msgstr ""
+
+msgid "Date of Invoice"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Date Paid: "
+msgstr ""
+
+msgid "Due Date"
+msgstr ""
+
+msgid "From:"
+msgstr ""
+
+msgid "Invoice ID"
+msgstr ""
+
+msgid "Status:"
+msgstr ""
+
+msgid "Taxed"
+msgstr ""
+
+msgid "To:"
+msgstr ""
+
+msgid "Invoices Panel"
+msgstr ""
+
+msgid "IOPS for this Disk"
+msgstr ""
+
+msgid "IP Address:"
+msgstr ""
+
+msgid "IPs"
+msgstr ""
+
+msgid "IP access/ Subnet"
+msgstr ""
+
+msgid "Items in cart"
+msgstr ""
+
+msgid "I will add entries manually"
+msgstr ""
+
+msgid "Java is required to run this application"
+msgstr ""
+
+msgid "Key"
+msgstr ""
+
+msgid "Key tag"
+msgstr ""
+
+msgid "Label updated"
+msgstr ""
+
+msgid "Latitude"
+msgstr ""
+
+msgid "Least connections"
+msgstr ""
+
+msgid "Amount you have specified is less than minimum allowed value"
+msgstr ""
+
+msgid "Password should include letters and digits"
+msgstr ""
+
+msgid "Licensing Type"
+msgstr ""
+
+msgid "List My Domains"
+msgstr ""
+
+msgid "List Services"
+msgstr ""
+
+msgid "Load Balancing"
+msgstr ""
+
+msgid "Loading.."
+msgstr ""
+
+msgid "Loading presets.."
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Username / Password"
+msgstr ""
+
+msgid "Longitude"
+msgstr ""
+
+msgid "Not enough disk space"
+msgstr ""
+
+msgid "Main contact:"
+msgstr ""
+
+msgid "Make sure that your machine is switched off"
+msgstr ""
+
+msgid "Manage"
+msgstr ""
+
+msgid "Manage domain"
+msgstr ""
+
+msgid "Manage IPs"
+msgstr ""
+
+msgid "Manage SSH Keys"
+msgstr ""
+
+msgid "Management Functions"
+msgstr ""
+
+msgid "Management Tools"
+msgstr ""
+
+msgid "Max allowed"
+msgstr ""
+
+msgid "Max snapshots"
+msgstr ""
+
+msgid "Memory"
+msgstr ""
+
+msgid "Minimum TTL"
+msgstr ""
+
+msgid "Modify a Nameserver IP:"
+msgstr ""
+
+msgid "Monthly bandwidth used"
+msgstr ""
+
+msgid "Monthly Bandwidth"
+msgstr ""
+
+msgid "1 Month Usage"
+msgstr ""
+
+msgid "Amount you have specified is more than maximum allowed value"
+msgstr ""
+
+msgid "My Account"
+msgstr ""
+
+msgid "My Credit Card"
+msgstr ""
+
+msgid "Nameserver:"
+msgstr ""
+
+msgid "Nameservers"
+msgstr ""
+
+msgid "Manage Nameservers"
+msgstr ""
+
+msgid "Netmask"
+msgstr ""
+
+msgid "Network Usage"
+msgstr ""
+
+msgid "Selected network interface has been updated"
+msgstr ""
+
+msgid "Network Interface Usage"
+msgstr ""
+
+msgid "Selected network interface will be removed shortly"
+msgstr ""
+
+msgid "Add New Credit Card"
+msgstr ""
+
+msgid "New domain zone will contain entries cloned from domain you already own"
+msgstr ""
+
+msgid "New Flavor"
+msgstr ""
+
+msgid "New Installation"
+msgstr ""
+
+msgid "New IP Address:"
+msgstr ""
+
+msgid "New Recipe"
+msgstr ""
+
+msgid "Click here to generate root pasword"
+msgstr ""
+
+msgid "New setting"
+msgstr ""
+
+msgid "New tag"
+msgstr ""
+
+msgid "Next invoice"
+msgstr ""
+
+msgid "Next invoice details"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "There are no Registered Nameservers yet"
+msgstr ""
+
+msgid "This account has no addons"
+msgstr ""
+
+msgid "No available networks"
+msgstr ""
+
+msgid "No backups"
+msgstr ""
+
+msgid ""
+"There are currently no backups for this VPS. To create one, click the button "
+"above."
+msgstr ""
+
+msgid "Backups not available for this VPS"
+msgstr ""
+
+msgid ""
+"You don't have any domains registered with us. Click <a href=\"%s\">here</"
+"a> to register a new domain."
+msgstr ""
+
+msgid "No domains added yet"
+msgstr ""
+
+msgid "No additional IPs available for this machine"
+msgstr ""
+
+msgid "No other security groups are available in your cloud"
+msgstr ""
+
+msgid "No recipes"
+msgstr ""
+
+msgid "No rules set"
+msgstr ""
+
+msgid "No security groups are assigned to this virtual machine yet"
+msgstr ""
+
+msgid "Not built yet"
+msgstr ""
+
+msgid "Notes:"
+msgstr ""
+
+msgid "Note that VM will be rebooted"
+msgstr ""
+
+msgid "Could not obitain associated ip address"
+msgstr ""
+
+msgid "Old Password"
+msgstr ""
+
+msgid "Your old password is incorrect"
+msgstr ""
+
+msgid "Current setting"
+msgstr ""
+
+msgid "Access CP"
+msgstr ""
+
+msgid "1 Day"
+msgstr ""
+
+msgid "1 Hour"
+msgstr ""
+
+msgid "On failure"
+msgstr ""
+
+msgid "Please ensure that you enter only numbers"
+msgstr ""
+
+msgid "On success"
+msgstr ""
+
+msgid ""
+"On this page you can select Virtual Servers that are currently running and "
+"run the Recipe once on selected."
+msgstr ""
+
+msgid "OpenStack API"
+msgstr ""
+
+msgid "Your order number is: "
+msgstr ""
+
+msgid "Order Confirmation"
+msgstr ""
+
+msgid ""
+"Thank you for your order. You will receive a confirmation email shortly."
+msgstr ""
+
+msgid ""
+"If you have any questions about your order, please open a support ticket "
+"from your client area and quote your order number."
+msgstr ""
+
+msgid "Order more"
+msgstr ""
+
+msgid "Order New IP"
+msgstr ""
+
+msgid "Organization Details"
+msgstr ""
+
+msgid "Original TTL"
+msgstr ""
+
+msgid "Invoice for %s has been created"
+msgstr ""
+
+msgid "Unable to list templates. Please contact administrator."
+msgstr ""
+
+msgid "Other available security groups"
+msgstr ""
+
+msgid "Our nameservers"
+msgstr ""
+
+msgid "Outbound Firewall"
+msgstr ""
+
+msgid "Package changed. From \"%s\" to \"%s\""
+msgstr ""
+
+msgid "Pass anything else"
+msgstr ""
+
+msgid "Password is too short (minimum is %d characters)"
+msgstr ""
+
+msgid "Pass values"
+msgstr ""
+
+msgid "Password change failed, try again later or contact our support team"
+msgstr ""
+
+msgid "You have received an email with your new password"
+msgstr ""
+
+msgid "An email was sent to:"
+msgstr ""
+
+msgid "Password changed"
+msgstr ""
+
+msgid "Path"
+msgstr ""
+
+msgid "Pay all"
+msgstr ""
+
+msgid "Payment failed. Please contact administrator"
+msgstr ""
+
+msgid "Pay Now!"
+msgstr ""
+
+msgid "Pay all due invoices"
+msgstr ""
+
+msgid "Pay and search your invoices here."
+msgstr ""
+
+msgid "Pay selected invoices"
+msgstr ""
+
+msgid ""
+"Your account is pending upgrade, you can't create new VMs until it is "
+"completed"
+msgstr ""
+
+msgid "Per Hour"
+msgstr ""
+
+msgid "Pick VM first"
+msgstr ""
+
+msgid "Please select an IP"
+msgstr ""
+
+msgid "Please select how you'd like to access your VPS"
+msgstr ""
+
+msgid "Port forwarding"
+msgstr ""
+
+msgid "Port Range"
+msgstr ""
+
+msgid "Prefix:"
+msgstr ""
+
+msgid "Presets"
+msgstr ""
+
+msgid "Primary"
+msgstr ""
+
+msgid "Primary NS"
+msgstr ""
+
+msgid "Print Invoice"
+msgstr ""
+
+msgid ""
+"Priority settings for mail exchanger record, the lower preference number is "
+"the higher priority."
+msgstr ""
+
+msgid "Privacy"
+msgstr ""
+
+msgid ""
+"With privacy protection enabled your private information will be hidden in "
+"WHOIS database"
+msgstr ""
+
+msgid "private"
+msgstr ""
+
+msgid "Private port"
+msgstr ""
+
+msgid "Proceed to Control Panel"
+msgstr ""
+
+msgid "Public Key"
+msgstr ""
+
+msgid "Public port"
+msgstr ""
+
+msgid "Quick Links"
+msgstr ""
+
+msgid "Quota"
+msgstr ""
+
+msgid "R1Soft Backups"
+msgstr ""
+
+msgid "Reboot"
+msgstr ""
+
+msgid "Rebuild"
+msgstr ""
+
+msgid "Choose new OS Template:"
+msgstr ""
+
+msgid "Enter new OS Template Name:"
+msgstr ""
+
+msgid "Rebuilding  will destroy all data on the machine."
+msgstr ""
+
+msgid "Recurring Amount"
+msgstr ""
+
+msgid "Recent News"
+msgstr ""
+
+msgid "Recipe"
+msgstr ""
+
+msgid "Recipes"
+msgstr ""
+
+msgid "Recipe Variables"
+msgstr ""
+
+msgid "record"
+msgstr ""
+
+msgid "Records"
+msgstr ""
+
+msgid "Record Type"
+msgstr ""
+
+msgid "Ref"
+msgstr ""
+
+msgid "Register existing public key"
+msgstr ""
+
+msgid "Register Key"
+msgstr ""
+
+msgid "Register a Nameserver Name:"
+msgstr ""
+
+msgid "Register Name Servers"
+msgstr ""
+
+msgid "Registration Date"
+msgstr ""
+
+msgid "Registrar Lock"
+msgstr ""
+
+msgid "Enable domain lock to protect from unauthorized transfers"
+msgstr ""
+
+msgid "Domain Lock Settings"
+msgstr ""
+
+msgid ""
+"<b>What is domain lock?</b><br/> When a domain is unlocked it can be "
+"transferred to a different registrar.  We recommend setting all domains as "
+"locked and only unlocking them  before transfer to avoid unauthorized "
+"transfers. <br/><br/>"
+msgstr ""
+
+msgid "Registration Period"
+msgstr ""
+
+msgid "Reinstall"
+msgstr ""
+
+msgid "Reinstall using original template"
+msgstr ""
+
+msgid "Reinstall with new template"
+msgstr ""
+
+msgid "Reissue"
+msgstr ""
+
+msgid "Related transactions:"
+msgstr ""
+
+msgid "Reload OS"
+msgstr ""
+
+msgid "Remote"
+msgstr ""
+
+msgid "Could not remove ip address"
+msgstr ""
+
+msgid "Remove Credit Card"
+msgstr ""
+
+msgid "Do you really want to remove your credit card details?"
+msgstr ""
+
+msgid "Removed IP restriction"
+msgstr ""
+
+msgid "Add Years / Renew"
+msgstr ""
+
+msgid "Renew Domain"
+msgstr ""
+
+msgid "Replace record content (i.e. CNAME's) as well"
+msgstr ""
+
+msgid "Request Auth Info / Epp code"
+msgstr ""
+
+msgid "Required startup"
+msgstr ""
+
+msgid "Rescue"
+msgstr ""
+
+msgid "Resend Approve Email"
+msgstr ""
+
+msgid "Resend Certificate Email"
+msgstr ""
+
+msgid "Reset Root Password"
+msgstr ""
+
+msgid "Reset Password"
+msgstr ""
+
+msgid "Do you really want to reset your password?"
+msgstr ""
+
+msgid "Resize instance"
+msgstr ""
+
+msgid "Resource limit reached"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Result source"
+msgstr ""
+
+msgid "Retry"
+msgstr ""
+
+msgid "Click here to show password"
+msgstr ""
+
+msgid "Reverse DNS"
+msgstr ""
+
+msgid "Revert to this snapshot"
+msgstr ""
+
+msgid "Root password"
+msgstr ""
+
+msgid "Round-robin"
+msgstr ""
+
+msgid "RSync Backups"
+msgstr ""
+
+msgid "Rule has been scheduled for creation"
+msgstr ""
+
+msgid "Selected rule has been scheduled for removal"
+msgstr ""
+
+msgid "Run Recipe once on Virtual Server(s)"
+msgstr ""
+
+msgid "Run on VS"
+msgstr ""
+
+msgid "The same as registrant"
+msgstr ""
+
+msgid "Save this private key into a file on your machine"
+msgstr ""
+
+msgid "Script type"
+msgstr ""
+
+msgid "Search e-mails..."
+msgstr ""
+
+msgid "Security Group"
+msgstr ""
+
+msgid "Security groups"
+msgstr ""
+
+msgid "Security groups attached to this machine"
+msgstr ""
+
+msgid "Select interface first"
+msgstr ""
+
+msgid ""
+"Select one of available DNS templates from the left. <br />If you will "
+"choose to add template, its records will be automatically added to your zone."
+msgstr ""
+
+msgid "Select which network interface this IP address should be assigned to."
+msgstr ""
+
+msgid "Sent: "
+msgstr ""
+
+msgid "Serial"
+msgstr ""
+
+msgid "Serial number"
+msgstr ""
+
+msgid "Service Details"
+msgstr ""
+
+msgid "Service Label"
+msgstr ""
+
+msgid "Enter new label for your service"
+msgstr ""
+
+msgid "Service Panel"
+msgstr ""
+
+msgid "Setup"
+msgstr ""
+
+msgid "Setup VPN"
+msgstr ""
+
+msgid "Signature"
+msgstr ""
+
+msgid "Snapshot"
+msgstr ""
+
+msgid "Snapshot scheduled for creation"
+msgstr ""
+
+msgid "Snapshot scheduled for removal"
+msgstr ""
+
+msgid "Snapshot limit reached"
+msgstr ""
+
+msgid "VM will be reverted to selected snapshot"
+msgstr ""
+
+msgid ""
+"Snapshot conversion lets you create a Template from an existing Virtual "
+"Machine configuration, which you can then use to redeploy new Virtual "
+"Machines. To convert your Backup, enter a Label name for your new template "
+"and click the Convert Backup button."
+msgstr ""
+
+msgid ""
+"Snapshot conversion lets you create a Template from an existing Virtual "
+"Machine configuration, which you can then use to redeploy new Virtual "
+"Machines."
+msgstr ""
+
+msgid ""
+"Snapshot conversion lets you create new volume from an existing snapshot, "
+"which you can then attach to existing Virtual Machines."
+msgstr ""
+
+msgid "Snapshot to keep"
+msgstr ""
+
+msgid "Snapshot memory"
+msgstr ""
+
+msgid "Snapshots"
+msgstr ""
+
+msgid "Snapshot Schedule"
+msgstr ""
+
+msgid "SOA Record"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Special FTP Accounts"
+msgstr ""
+
+msgid "Password should include special characters"
+msgstr ""
+
+msgid "SSH Key"
+msgstr ""
+
+msgid "SSH Keypair"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Start Port"
+msgstr ""
+
+msgid "Static NAT"
+msgstr ""
+
+msgid "Stickiness"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "Storage type"
+msgstr ""
+
+msgid "Sub domain Forwarding"
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "Supplier Order ID"
+msgstr ""
+
+msgid "Are you sure you want to destroy this VM"
+msgstr ""
+
+msgid "Are you sure you want to Power ON this VM"
+msgstr ""
+
+msgid "Are you sure you want to Power off this VM"
+msgstr ""
+
+msgid "Are you sure you want to reboot this VM"
+msgstr ""
+
+msgid "Are you sure you want to shutdown this VM"
+msgstr ""
+
+msgid "Are you sure you wish to create new backup?"
+msgstr ""
+
+msgid "Are you sure you wish to create new snapshot?"
+msgstr ""
+
+msgid "Are you sure you wish to delete this backup?"
+msgstr ""
+
+msgid "Are you sure you want to remove this IP?"
+msgstr ""
+
+msgid "Disable autobackup?"
+msgstr ""
+
+msgid "Enable autobackup?"
+msgstr ""
+
+msgid "Are you sure you wish to reset root password"
+msgstr ""
+
+msgid "Are you sure you wish to restore this backup?"
+msgstr ""
+
+msgid "VM has to be switched off before you can scale it."
+msgstr ""
+
+msgid "Synchronize"
+msgstr ""
+
+msgid "Tax"
+msgstr ""
+
+msgid ""
+"TCP/UDP: Enter integer value between 1 and 65535. ICMP: enter a value for "
+"ICMP type in the range (-1: 255)"
+msgstr ""
+
+msgid ""
+"TCP/UDP: Enter integer value between 1 and 65535. ICMP: enter a value for "
+"ICMP code in the range (-1: 255)"
+msgstr ""
+
+msgid "Template creation has been scheduled"
+msgstr ""
+
+msgid "Template is scheduled for removal"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid ""
+"The top chart shows bandwidth used in the last 24 hours accurate to within "
+"one min. The bottom chart shows hourly usage.You can zoom into a specific "
+"time period by clicking and dragging in a chart."
+msgstr ""
+
+msgid ""
+"The top chart shows instant CPU utilization accurate to within one min in "
+"the last 24 hours.The bottom chart shows hourly utilization. You can zoom "
+"into a specific time period by clicking and dragging in a chart."
+msgstr ""
+
+msgid "All of your tickets can be managed from here."
+msgstr ""
+
+msgid "to send reboot signal to this VPS."
+msgstr ""
+
+msgid "To Port"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Balance"
+msgstr ""
+
+msgid "Transaction Date"
+msgstr ""
+
+msgid "Transaction ID"
+msgstr ""
+
+msgid "Trust History and Notes"
+msgstr ""
+
+msgid "TTL settings define the frequency of website content updates."
+msgstr ""
+
+msgid "VM has to be switched off before you can reset password."
+msgstr ""
+
+msgid ""
+"This service have some unpaid invoices, cancellation is not possible, please "
+"contact support"
+msgstr ""
+
+msgid "Un-Rescue"
+msgstr ""
+
+msgid "Unsupported credit card type"
+msgstr ""
+
+msgid "Updated Hourly"
+msgstr ""
+
+msgid "Update Label"
+msgstr ""
+
+msgid "Update step"
+msgstr ""
+
+msgid "Update your domain registrar's nameservers"
+msgstr ""
+
+msgid "Upgrade / Downgrade to: "
+msgstr ""
+
+msgid ""
+"Before upgrading/dowgrading you need to pay all <a href=\"?"
+"cmd=clientarea&action=invoices\">outstanding invoices</a> for this service."
+msgstr ""
+
+msgid ""
+"It's not possible to upgrade this package at this moment. Please contact us "
+"to change your resource limits."
+msgstr ""
+
+msgid "Upgrade order failed"
+msgstr ""
+
+msgid "Account upgrade order placed"
+msgstr ""
+
+msgid "Upgrade your resources to"
+msgstr ""
+
+msgid "Upgrade Info"
+msgstr ""
+
+msgid "Upgrade VPS"
+msgstr ""
+
+msgid "Upgrade your VPS to"
+msgstr ""
+
+msgid "Password should include uppercase and lowercase characters"
+msgstr ""
+
+msgid "URL masking"
+msgstr ""
+
+msgid "Usage"
+msgstr ""
+
+msgid "Usage details"
+msgstr ""
+
+msgid "Use one of following contacts:"
+msgstr ""
+
+msgid "Use one of available, pre-configured DNS templates"
+msgstr ""
+
+msgid "Use premade DNS template"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid ""
+"Using SSH key is a recommended security measure. Provide your Public Key "
+"below.<br />            You will then be able to use your private key to "
+"access this server. Use OpenSSH format."
+msgstr ""
+
+msgid "Validation Email"
+msgstr ""
+
+msgid "Variable name"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Vertical Precision"
+msgstr ""
+
+msgid "View all tickets"
+msgstr ""
+
+msgid "to get available OS templates"
+msgstr ""
+
+msgid "to reset root password."
+msgstr ""
+
+msgid "VM Assigment"
+msgstr ""
+
+msgid "VM Backup"
+msgstr ""
+
+msgid "Virtual machine will be stopped shortly"
+msgstr ""
+
+msgid "VM has been scheduled for destruction."
+msgstr ""
+
+msgid "VM has been scheduled for reboot."
+msgstr ""
+
+msgid "VM has been scheduled for startup."
+msgstr ""
+
+msgid "VM Rebuild has been scheduled"
+msgstr ""
+
+msgid "VM Recipes"
+msgstr ""
+
+msgid ""
+"VPN allows to connect securely from your home or office network to a private "
+"network in the cloud."
+msgstr ""
+
+msgid "Your VPN access is currently enabled and can be accessed via the IP"
+msgstr ""
+
+msgid "Disable VPN for"
+msgstr ""
+
+msgid "Enable VPN for"
+msgstr ""
+
+msgid "Your IPSec pre-shared key is"
+msgstr ""
+
+msgid "At least one Public IP is required to setup VPN"
+msgstr ""
+
+msgid "VPN User"
+msgstr ""
+
+msgid ""
+"Please note: If you have ordered IP it will be shown on the list once it is "
+"activated."
+msgstr ""
+
+msgid "VPS limit"
+msgstr ""
+
+msgid ""
+"Your VPS console is shown below. If nothing is displayed, click the black "
+"area and press enter to activate. Please note that the paste function is "
+"unavailable in some browsers. Unless you have changed it, your root password "
+"for this VPS is "
+msgstr ""
+
+msgid "VPS is currently running a task.."
+msgstr ""
+
+msgid "VS Disk added"
+msgstr ""
+
+msgid "VS Disk resized"
+msgstr ""
+
+msgid "VS Network Interface added"
+msgstr ""
+
+msgid "VS Network rebuild"
+msgstr ""
+
+msgid "VS Provisioning"
+msgstr ""
+
+msgid "VS Resize"
+msgstr ""
+
+msgid "Web Server"
+msgstr ""
+
+msgid "1 Week Usage"
+msgstr ""
+
+msgid "Weight"
+msgstr ""
+
+msgid "wildcard is allowed"
+msgstr ""
+
+msgid "With selected domains:"
+msgstr ""
+
+msgid "WordPress Version"
+msgstr ""
+
+msgid "1 Year Usage"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Hour"
+msgstr ""
+
+msgid "Hours"
+msgstr ""
+
+msgid ""
+"By checking fields you agree to remove related resources even if these are "
+"used by other users or applications."
+msgstr ""
+
+msgid "You don't have any WordPress installed"
+msgstr ""
+
+msgid "You have credit available!"
+msgstr ""
+
+msgid "Click here to apply it to this invoice"
+msgstr ""
+
+msgid "You have to stop this virtual machine before detaching volumes"
+msgstr ""
+
+msgid ""
+"You must have the private SSH key of the key pair (and passphrase, if it has "
+"one)."
+msgstr ""
+
+msgid "Your backups are located in"
+msgstr ""
+
+msgid "Your browser is not supported"
+msgstr ""
+
+msgid "Your current price for next domain is"
+msgstr ""
+
+msgid "You're here"
+msgstr ""
+
+msgid "Your own license"
+msgstr ""
+
+msgid "Your main IP:"
+msgstr ""
+
+msgid "Your random-generated root password will be accessible in next step."
+msgstr ""
+
+msgid "You've reached your domains limit"
+msgstr ""
+
+msgid ""
+"You can zoom into a specific time period by clicking and dragging in a chart."
+msgstr ""
+
+msgid "Zone content"
+msgstr ""
+
+msgid "Zones"
+msgstr ""

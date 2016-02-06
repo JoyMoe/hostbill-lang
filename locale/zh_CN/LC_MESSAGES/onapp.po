@@ -1,0 +1,340 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Autobackup"
+msgstr ""
+
+msgid "Billing"
+msgstr ""
+
+msgid "Built"
+msgstr ""
+
+msgid "Disk"
+msgstr ""
+
+msgid "Firewall"
+msgstr ""
+
+msgid "Interval:"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "List Servers"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "RAM"
+msgstr ""
+
+msgid "Total due"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Usage"
+msgstr ""
+
+msgid "Zone"
+msgstr ""
+
+msgid "Add new network interface"
+msgstr ""
+
+msgid "Add new server"
+msgstr ""
+
+msgid "All servers"
+msgstr ""
+
+msgid "Assign automatically"
+msgstr ""
+
+msgid "Autoscaling"
+msgstr ""
+
+msgid "Available resources:"
+msgstr ""
+
+msgid "Backup every"
+msgstr ""
+
+msgid "Backups"
+msgstr ""
+
+msgid "Backup schedule"
+msgstr ""
+
+msgid "Bandwidth used"
+msgstr ""
+
+msgid "Cancel VPS"
+msgstr ""
+
+msgid "Your cloud servers"
+msgstr ""
+
+msgid "Console"
+msgstr ""
+
+msgid "CPU Cores"
+msgstr ""
+
+msgid "CPU Priority"
+msgstr ""
+
+msgid "CPU Usage"
+msgstr ""
+
+msgid "Create new server"
+msgstr ""
+
+msgid "Date updated"
+msgstr ""
+
+msgid "The virtual machine will be rebooted after any changes to Disk settings. Are you sure you want to continue?"
+msgstr ""
+
+msgid "Disks"
+msgstr ""
+
+msgid "Disk Space"
+msgstr ""
+
+msgid "Month (yyyy-mm):"
+msgstr ""
+
+msgid "First Available"
+msgstr ""
+
+msgid "Free IPs left"
+msgstr ""
+
+msgid "You have"
+msgstr ""
+
+msgid "if CPU usage"
+msgstr ""
+
+msgid " if disk usage"
+msgstr ""
+
+msgid "if memory usage"
+msgstr ""
+
+msgid "Interface"
+msgstr ""
+
+msgid "Interfaces"
+msgstr ""
+
+msgid "IP Addresses"
+msgstr ""
+
+msgid "is above"
+msgstr ""
+
+msgid "Locked"
+msgstr ""
+
+msgid "minutes"
+msgstr ""
+
+msgid "Network Interfaces"
+msgstr ""
+
+msgid "The following IP addresses are allocated to this virtual machine. When the machine is built, these will be automatically configured. However, if they are allocated after the machine was built, you will need to additionally configure a network by yourself. To do so, click 'Rebuild Network' button at the bottom of the page."
+msgstr ""
+
+msgid "Network speed:"
+msgstr ""
+
+msgid "Network Usage"
+msgstr ""
+
+msgid "Network"
+msgstr ""
+
+msgid "Create new schedule"
+msgstr ""
+
+msgid "Next backup"
+msgstr ""
+
+msgid "Next invoice details"
+msgstr ""
+
+msgid "You don't have any Virtual Machines yet"
+msgstr ""
+
+msgid "not built yet"
+msgstr ""
+
+msgid "1 Day"
+msgstr ""
+
+msgid "1 Hour"
+msgstr ""
+
+msgid "Order extra disk space"
+msgstr ""
+
+msgid "Order IP Address"
+msgstr ""
+
+msgid "Distribution"
+msgstr ""
+
+msgid "per 24h"
+msgstr ""
+
+msgid "Per Hour"
+msgstr ""
+
+msgid "Port Speed"
+msgstr ""
+
+msgid "Price per hour"
+msgstr ""
+
+msgid "Primary"
+msgstr ""
+
+msgid "Share percentage of CPU per 1 core"
+msgstr ""
+
+msgid "Reboot"
+msgstr ""
+
+msgid "Are you sure you want to reboot in recovery mode? Please note: In recovery mode the login is (root) and the password is (recovery)"
+msgstr ""
+
+msgid "Rebuild"
+msgstr ""
+
+msgid "Are you sure? Note: VM will be rebooted."
+msgstr ""
+
+msgid "Rebuild Network"
+msgstr ""
+
+msgid "Recovery"
+msgstr ""
+
+msgid "refresh"
+msgstr ""
+
+msgid "Resources"
+msgstr ""
+
+msgid " Below you can find list of resources available. Use upgrade/downgrade option to scale them to your needs at any time"
+msgstr ""
+
+msgid "Resource upgrades"
+msgstr ""
+
+msgid "Scale"
+msgstr ""
+
+msgid "add"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "for"
+msgstr ""
+
+msgid "up to"
+msgstr ""
+
+msgid "Scale VM"
+msgstr ""
+
+msgid "Server details"
+msgstr ""
+
+msgid "Server is performing task,"
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "Standard (primary)"
+msgstr ""
+
+msgid "Are you sure you wish to power ON in recovery mode? Please note: in recovery mode the login is (root) and the password is (recovery)"
+msgstr ""
+
+msgid "Storage"
+msgstr ""
+
+msgid "Storage DC"
+msgstr ""
+
+msgid "Are you sure you wish to remove this backup schedule?"
+msgstr ""
+
+msgid "Are you sure you wish to remove this interface? Note: VM will be rebooted."
+msgstr ""
+
+msgid "Swap DC"
+msgstr ""
+
+msgid "Swap Disk Size"
+msgstr ""
+
+msgid "Swap"
+msgstr ""
+
+msgid " Note: To free more resources you can scale down your virtual machines in their overview section."
+msgstr ""
+
+msgid "Updated hourly"
+msgstr ""
+
+msgid "Upgrade / Downgrade"
+msgstr ""
+
+msgid "Upgrade"
+msgstr ""
+
+msgid "Upgrade package"
+msgstr ""
+
+msgid " After automatic upgrade/downgrade your disk will be resized. Your virtual machine will be automatically restarted"
+msgstr ""
+
+msgid "Usage details"
+msgstr ""
+
+msgid "Note: any action on interface will reboot this virtual machine"
+msgstr ""
+
+msgid "day"
+msgstr ""
+
+msgid "month"
+msgstr ""
+
+msgid "week"
+msgstr ""
+
+msgid "year"
+msgstr ""

@@ -1,0 +1,1827 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "ACCEPT"
+msgstr "接受"
+
+msgid "eCheck/ACH"
+msgstr ""
+
+msgid "Accepted"
+msgstr ""
+
+msgid "Accounting"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Annually"
+msgstr ""
+
+msgid "Answered"
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "Biennially"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Click"
+msgstr ""
+
+msgid "Client Reply"
+msgstr ""
+
+msgid "Closed"
+msgstr ""
+
+msgid "Organization"
+msgstr ""
+
+msgid "Completed"
+msgstr ""
+
+msgid "Client Information"
+msgstr ""
+
+msgid "Credit Note"
+msgstr ""
+
+msgid "Credit Notes"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "DROP"
+msgstr ""
+
+msgid "Daily"
+msgstr ""
+
+msgid "Dead"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Estimate"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Fraud"
+msgstr ""
+
+msgid "Free"
+msgstr ""
+
+msgid "Full Privileges"
+msgstr ""
+
+msgid "Go"
+msgstr ""
+
+msgid "Hourly"
+msgstr ""
+
+msgid "In Progress"
+msgstr ""
+
+msgid "Incomplete"
+msgstr ""
+
+msgid "Invoiced"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Based on usage"
+msgstr ""
+
+msgid "Monthly"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "One Time"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Paid"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Pending Register"
+msgstr ""
+
+msgid "Pending Registration"
+msgstr ""
+
+msgid "Pending Transfer"
+msgstr ""
+
+msgid "Pre-Paid"
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+msgid "Quarterly"
+msgstr ""
+
+msgid "Refunded"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Semi-Annually"
+msgstr ""
+
+msgid "Sent"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Suspended"
+msgstr ""
+
+msgid "Technical Staff"
+msgstr ""
+
+msgid "Terminated"
+msgstr ""
+
+msgid "Ticket"
+msgstr ""
+
+msgid "Triennially"
+msgstr ""
+
+msgid "click here to turn Off"
+msgstr ""
+
+msgid "click here to turn On"
+msgstr ""
+
+msgid "Unpaid"
+msgstr ""
+
+msgid "Upgrade"
+msgstr ""
+
+msgid "Viewed"
+msgstr ""
+
+msgid "Weekly"
+msgstr ""
+
+msgid "You don't have access to this section"
+msgstr ""
+
+msgid "Account"
+msgstr ""
+
+msgid "Account created"
+msgstr ""
+
+msgid "In order to log in you must activate your account"
+msgstr ""
+
+msgid "Account History"
+msgstr ""
+
+msgid "Account Information"
+msgstr ""
+
+msgid "Accounts"
+msgstr ""
+
+msgid "Account Number"
+msgstr ""
+
+msgid "Bank Account Information"
+msgstr ""
+
+msgid "Routing Number"
+msgstr ""
+
+msgid "Your account activated."
+msgstr ""
+
+msgid "Add domain"
+msgstr ""
+
+msgid "Add Funds"
+msgstr ""
+
+msgid "adding"
+msgstr ""
+
+msgid "Add key"
+msgstr ""
+
+msgid "Addon"
+msgstr ""
+
+msgid "Address 1"
+msgstr ""
+
+msgid "Address 2"
+msgstr ""
+
+msgid "You did not enter your full address"
+msgstr ""
+
+msgid "Add new rule"
+msgstr ""
+
+msgid "Add this contact to my account"
+msgstr ""
+
+msgid "Admin contact:"
+msgstr ""
+
+msgid "Logged in as Administrator"
+msgstr ""
+
+msgid "Return to Admin Area"
+msgstr ""
+
+msgid "Affiliate"
+msgstr ""
+
+msgid "Center of built-in comprehensive affiliate system."
+msgstr ""
+
+msgid "Affiliate center"
+msgstr ""
+
+msgid "Affiliates"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "All servers"
+msgstr ""
+
+msgid "Already have"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "You must accept the Terms of Service / Acceptable Use Policy"
+msgstr ""
+
+msgid "Apply Firewall Rules"
+msgstr ""
+
+msgid "???????"
+msgstr ""
+
+msgid "Articles"
+msgstr ""
+
+msgid "Article was viewed"
+msgstr ""
+
+msgid "Assign"
+msgstr ""
+
+msgid "Attach"
+msgstr ""
+
+msgid "Save Credit Card"
+msgstr ""
+
+msgid "Store Credit Card details for future use"
+msgstr ""
+
+msgid "Avg"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Back to service details"
+msgstr ""
+
+msgid "Backups"
+msgstr ""
+
+msgid "Balance"
+msgstr ""
+
+msgid "Bandwidth limit"
+msgstr ""
+
+msgid "Ban Expires"
+msgstr ""
+
+msgid "Your email is on our banned list - signup rejected"
+msgstr ""
+
+msgid "Your IP %s banned"
+msgstr ""
+
+msgid "Your IP address is on our banned list - order rejected"
+msgstr ""
+
+msgid "Your IP address is on our banned list - login rejected"
+msgstr ""
+
+msgid "Ban Reason"
+msgstr ""
+
+msgid "Billing Cycle"
+msgstr ""
+
+msgid "Best selling"
+msgstr ""
+
+msgid "Billing"
+msgstr ""
+
+msgid "Billing contact:"
+msgstr ""
+
+msgid "Body"
+msgstr ""
+
+msgid "Browse downloads library"
+msgstr ""
+
+msgid "Bulk Register"
+msgstr ""
+
+msgid "Business Checking"
+msgstr ""
+
+msgid "Buy Now!"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel Changes"
+msgstr ""
+
+msgid "Image Verification"
+msgstr ""
+
+msgid ""
+"Unable to process your request due to security reasons, you should use "
+"alternate credit card."
+msgstr ""
+
+msgid ""
+"Your credit card details are locked, please wait some time for the lock to "
+"expire or contact an administrator"
+msgstr ""
+
+msgid "Cart"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "CVV/CVC2 Number"
+msgstr ""
+
+msgid "Credit Card"
+msgstr ""
+
+msgid " Credit Card details: "
+msgstr ""
+
+msgid "Use Existing Card"
+msgstr ""
+
+msgid "Expiry Date"
+msgstr ""
+
+msgid "Enter New Card Information"
+msgstr ""
+
+msgid "Card Number"
+msgstr ""
+
+msgid "Card Type"
+msgstr ""
+
+msgid "We accept"
+msgstr ""
+
+msgid "Update ACH details"
+msgstr ""
+
+msgid "Please provide your bank details below"
+msgstr ""
+
+msgid "Change language"
+msgstr ""
+
+msgid "Change password"
+msgstr ""
+
+msgid "Live Chat"
+msgstr ""
+
+msgid ""
+"No operator is available at the moment, please open a support ticket "
+"describing your issue"
+msgstr ""
+
+msgid "Chat is only available for registered customers"
+msgstr ""
+
+msgid "Check"
+msgstr ""
+
+msgid "Check Domain Availability"
+msgstr ""
+
+msgid "Checking"
+msgstr ""
+
+msgid "Checking status..."
+msgstr ""
+
+msgid "Check our amazing offers"
+msgstr ""
+
+msgid "??"
+msgstr ""
+
+msgid "Please choose period"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "You did not enter your town or city"
+msgstr ""
+
+msgid "Account type"
+msgstr ""
+
+msgid "Your Client Area account has been created"
+msgstr ""
+
+msgid "Client Area"
+msgstr ""
+
+msgid "Client Login"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close issue"
+msgstr ""
+
+msgid "Command"
+msgstr ""
+
+msgid "Organization Name"
+msgstr ""
+
+msgid "You did not enter your company name"
+msgstr ""
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Configure"
+msgstr ""
+
+msgid "Confirm Password"
+msgstr ""
+
+msgid "Contact Us"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Contnue"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Create Account"
+msgstr ""
+
+msgid "Create new"
+msgstr ""
+
+msgid "Create new voucher"
+msgstr ""
+
+msgid "Credit"
+msgstr ""
+
+msgid "Credit card on file"
+msgstr ""
+
+msgid "Credit left"
+msgstr ""
+
+msgid "Date issued"
+msgstr ""
+
+msgid "Current balance"
+msgstr ""
+
+msgid "Current overage charge"
+msgstr ""
+
+msgid "Dansk"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Wrong Parameter"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Date of sale"
+msgstr ""
+
+msgid "day"
+msgstr ""
+
+msgid "Day of month"
+msgstr ""
+
+msgid "days"
+msgstr ""
+
+msgid "Day of week"
+msgstr ""
+
+msgid "dedicated server"
+msgstr ""
+
+msgid "Define new"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete selected"
+msgstr ""
+
+msgid "Department"
+msgstr ""
+
+msgid "Destination"
+msgstr ""
+
+msgid "Destination port"
+msgstr ""
+
+msgid "Detach"
+msgstr ""
+
+msgid "Edit Details"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Distribution"
+msgstr ""
+
+msgid "Selected Domains has been removed"
+msgstr ""
+
+msgid "This zone is already taken"
+msgstr ""
+
+msgid "Domain"
+msgstr ""
+
+msgid "The domain you entered is in the wrong format"
+msgstr ""
+
+msgid "Domain Availability Checker"
+msgstr ""
+
+msgid "Domain Registration"
+msgstr ""
+
+msgid "Domain Renewal"
+msgstr ""
+
+msgid "Domains"
+msgstr ""
+
+msgid "Domain Transfer"
+msgstr ""
+
+msgid "Domain contacts"
+msgstr ""
+
+msgid "... more"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Downloads"
+msgstr ""
+
+msgid "Due date"
+msgstr ""
+
+msgid "Nederlands"
+msgstr ""
+
+msgid "Earn money with us!"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Elements"
+msgstr ""
+
+msgid "Email Address"
+msgstr ""
+
+msgid "You did not enter your email address"
+msgstr ""
+
+msgid "Email sent."
+msgstr ""
+
+msgid "The email address you entered is invalid"
+msgstr ""
+
+msgid "Emails"
+msgstr ""
+
+msgid "Domain name cannot be empty"
+msgstr ""
+
+msgid "Domain TLD cannot be empty"
+msgstr ""
+
+msgid "Name field cannot be empty"
+msgstr ""
+
+msgid "Admin Contact"
+msgstr ""
+
+msgid "Approval email"
+msgstr ""
+
+msgid "Copy Admin contact for Billing and Tech contacts."
+msgstr ""
+
+msgid "Job Title"
+msgstr ""
+
+msgid "Select server software:"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Enable autobackup"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "An error occurred"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "Estimate ID"
+msgstr ""
+
+msgid "Example rules"
+msgstr ""
+
+msgid "Fail"
+msgstr ""
+
+msgid "?????"
+msgstr ""
+
+msgid "Fax"
+msgstr ""
+
+msgid "Field %s is in wrong format"
+msgstr ""
+
+msgid "Fields marked with asterisk (*) are required "
+msgstr ""
+
+msgid "Find related invoices"
+msgstr ""
+
+msgid "Default firewall rule"
+msgstr ""
+
+msgid "First Name"
+msgstr ""
+
+msgid "You did not enter your first name"
+msgstr ""
+
+msgid "for"
+msgstr ""
+
+msgid ""
+"Your new password was sent to the email you provided. Please check your "
+"mailbox."
+msgstr ""
+
+msgid ""
+"Password confirmation was sent to the email you have provided, please check "
+"your mailbox."
+msgstr ""
+
+msgid "Forgot password?"
+msgstr ""
+
+msgid "FREE!"
+msgstr ""
+
+msgid " + Free domain!"
+msgstr ""
+
+msgid "FranÃ§ais"
+msgstr ""
+
+msgid "from"
+msgstr ""
+
+msgid "Function has been scheduled for execution"
+msgstr ""
+
+msgid "GB"
+msgstr ""
+
+msgid "Deutsch"
+msgstr ""
+
+msgid "Total gross price"
+msgstr ""
+
+msgid "Account is pending upgrade from another order"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "Portal Home"
+msgstr ""
+
+msgid "Hostname"
+msgstr ""
+
+msgid "Including"
+msgstr ""
+
+msgid "Supplied TLD is incorrect"
+msgstr ""
+
+msgid "Increase limits"
+msgstr ""
+
+msgid "Bahasa Indonesia"
+msgstr ""
+
+msgid "Interface"
+msgstr ""
+
+msgid "Account number is invalid"
+msgstr ""
+
+msgid "Invalid hostname"
+msgstr ""
+
+msgid "Routing number provided is invalid"
+msgstr ""
+
+msgid "Invalid OS template"
+msgstr ""
+
+msgid "Invoice date"
+msgstr ""
+
+msgid "Total due"
+msgstr ""
+
+msgid "Invoice generated"
+msgstr ""
+
+msgid "Invoice #"
+msgstr ""
+
+msgid "Invoices"
+msgstr ""
+
+msgid "Allowed IP Access"
+msgstr ""
+
+msgid "IP with Mask in CIDR format"
+msgstr ""
+
+msgid "IP with Mask in dotted quad format"
+msgstr ""
+
+msgid "This account IP restrictions don't allow to login from your IP"
+msgstr ""
+
+msgid "Are you sure you want to remove this item from order?"
+msgstr ""
+
+msgid "???"
+msgstr ""
+
+msgid "keyword matching all IPs"
+msgstr ""
+
+msgid "Knowledgebase"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Lastest Answer"
+msgstr ""
+
+msgid "Last logged in at: "
+msgstr ""
+
+msgid "from: "
+msgstr ""
+
+msgid "Last Name"
+msgstr ""
+
+msgid "You did not enter your last name"
+msgstr ""
+
+msgid "Late fee"
+msgstr ""
+
+msgid "Latest News"
+msgstr ""
+
+msgid "Left to pay"
+msgstr ""
+
+msgid "License Key"
+msgstr ""
+
+msgid "List of all yours domains. "
+msgstr ""
+
+msgid "Locality"
+msgstr ""
+
+msgid "Logged in as: "
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Unable to continue - your account has been closed"
+msgstr ""
+
+msgid "Unable to continue - your account is not active"
+msgstr ""
+
+msgid "Login Details"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Logs"
+msgstr ""
+
+msgid "Main account"
+msgstr ""
+
+msgid "main menu"
+msgstr ""
+
+msgid ""
+"Maintenance mode is currently activated, your clients are not able to access "
+"HostBill"
+msgstr ""
+
+msgid ""
+"Sorry, our site is currently under maintenance.Our system is being upgraded "
+"in order to improve and provide you with a better service .Please come back "
+"soon"
+msgstr ""
+
+msgid "Manage account"
+msgstr ""
+
+msgid "Manage contacts"
+msgstr ""
+
+msgid "Manage your account details"
+msgstr ""
+
+msgid "Manage vouchers"
+msgstr ""
+
+msgid "max"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "min"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "More Info"
+msgstr ""
+
+msgid "My services"
+msgstr ""
+
+msgid "Your current services with us"
+msgstr ""
+
+msgid "My Commissions"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "DNS Management"
+msgstr ""
+
+msgid "My History"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "Database Connection Error. Check configuration"
+msgstr ""
+
+msgid "Tickets"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Nameserver"
+msgstr ""
+
+msgid "Nameservers"
+msgstr ""
+
+msgid "Navigation"
+msgstr ""
+
+msgid "Need help?"
+msgstr ""
+
+msgid ""
+"Your account has been created, but it requires verification. Please check "
+"your email for details."
+msgstr ""
+
+msgid "Total net price"
+msgstr ""
+
+msgid "Server status"
+msgstr ""
+
+msgid "Information about our servers at a glance"
+msgstr ""
+
+msgid "Network"
+msgstr ""
+
+msgid ""
+"Using this section you can check current server statuses we host your "
+"websites on"
+msgstr ""
+
+msgid "Store ACH details"
+msgstr ""
+
+msgid "New Password"
+msgstr ""
+
+msgid "Add New Record"
+msgstr ""
+
+msgid "Add new tag"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Next Due Date"
+msgstr ""
+
+msgid "Next invoice total"
+msgstr ""
+
+msgid "You did not stored your Bank account details yet"
+msgstr ""
+
+msgid "No credit card has been submitted yet"
+msgstr ""
+
+msgid "No IPs are assigned for this account yet"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Your access privileges do not allow you to perform this action"
+msgstr ""
+
+msgid "No services yet"
+msgstr ""
+
+msgid "No tags defined"
+msgstr ""
+
+msgid "Nothing to display"
+msgstr ""
+
+msgid "You are not logged in"
+msgstr ""
+
+msgid "-"
+msgstr ""
+
+msgid "Once"
+msgstr ""
+
+msgid "Opened Support Tickets"
+msgstr ""
+
+msgid "Open New Support Ticket"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Or"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Order Now!"
+msgstr ""
+
+msgid "Order Renewal"
+msgstr ""
+
+msgid "Original"
+msgstr ""
+
+msgid "Operating System"
+msgstr ""
+
+msgid "OS Template"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Overage"
+msgstr ""
+
+msgid "Overage rate"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "Quadrennially"
+msgstr ""
+
+msgid "Quinquennially"
+msgstr ""
+
+msgid "Page:"
+msgstr ""
+
+msgid "of:"
+msgstr ""
+
+msgid "Password requires at least one lowercase character"
+msgstr ""
+
+msgid "Password requires at least one numeric character"
+msgstr ""
+
+msgid "Password requires at least one symbol character"
+msgstr ""
+
+msgid "Password requires at least one uppercase character"
+msgstr ""
+
+msgid "Forgot your password?"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Repeat Password"
+msgstr ""
+
+msgid "You did not enter a password"
+msgstr ""
+
+msgid "Your password changed"
+msgstr ""
+
+msgid "Password cannot be empty"
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr ""
+
+msgid "Payment"
+msgstr ""
+
+msgid "Payment Fee"
+msgstr ""
+
+msgid "Payment details"
+msgstr ""
+
+msgid "Payment succesfull"
+msgstr ""
+
+msgid "Payment Method"
+msgstr ""
+
+msgid "Payouts"
+msgstr ""
+
+msgid "Sent in PDF form, as agreed in Terms and Conditions"
+msgstr ""
+
+msgid "Period"
+msgstr ""
+
+msgid "per"
+msgstr ""
+
+msgid "year"
+msgstr ""
+
+msgid "years"
+msgstr ""
+
+msgid "Phone Number"
+msgstr ""
+
+msgid "You did not enter your phone number"
+msgstr ""
+
+msgid "Phone Country Code"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Place new Order"
+msgstr ""
+
+msgid "Please login to your account"
+msgstr ""
+
+msgid "Polski"
+msgstr ""
+
+msgid "Popular categories"
+msgstr ""
+
+msgid "Port"
+msgstr ""
+
+msgid "Portugues"
+msgstr ""
+
+msgid "Postal Code"
+msgstr ""
+
+msgid "You did not enter your postal code"
+msgstr ""
+
+msgid "Over-usage Fee"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Priority"
+msgstr ""
+
+msgid "Proceed"
+msgstr ""
+
+msgid "Proceed to cart"
+msgstr ""
+
+msgid "Contacts "
+msgstr ""
+
+msgid "Pro Forma Invoice"
+msgstr ""
+
+msgid "Projected overage"
+msgstr ""
+
+msgid "Projected overage charge"
+msgstr ""
+
+msgid "Projected usage"
+msgstr ""
+
+msgid "Pro Rata"
+msgstr ""
+
+msgid "Protocol"
+msgstr ""
+
+msgid "public"
+msgstr ""
+
+msgid "Public IP"
+msgstr ""
+
+msgid "Published: "
+msgstr ""
+
+msgid "Qty"
+msgstr ""
+
+msgid "Read entire entry &raquo;"
+msgstr ""
+
+msgid "Re-connect"
+msgstr ""
+
+msgid "Recovery"
+msgstr ""
+
+msgid "Reference Number"
+msgstr ""
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Register Domain"
+msgstr ""
+
+msgid ""
+"Enter a domain names below to see if they are available for registration."
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Registered"
+msgstr ""
+
+msgid "Registrant"
+msgstr ""
+
+msgid "Registrant contact:"
+msgstr ""
+
+msgid "Related invoice"
+msgstr ""
+
+msgid "Related service"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove ACH details"
+msgstr ""
+
+msgid "Are you sure you wish to remove ACH details?"
+msgstr ""
+
+msgid "Renew"
+msgstr ""
+
+msgid "Renew not available."
+msgstr ""
+
+msgid "Reply Added"
+msgstr ""
+
+msgid "Reseller"
+msgstr ""
+
+msgid "Registered Clients Only"
+msgstr ""
+
+msgid ""
+"You must log in to access this page. These login details differ from your "
+"website control panel username and password."
+msgstr ""
+
+msgid "Unable to load related .in-addr.arpa zone"
+msgstr ""
+
+msgid "No matching .in-addr.arpa zone has been found in DNS records"
+msgstr ""
+
+msgid "DNS module did not return any in-addr.arpa zones"
+msgstr ""
+
+msgid "rDNS app is not configured in IPAM"
+msgstr ""
+
+msgid "Unable to load DNS App"
+msgstr ""
+
+msgid "Reverse DNS settings has been updated"
+msgstr ""
+
+msgid "Recommended names"
+msgstr ""
+
+msgid "Main"
+msgstr ""
+
+msgid "Rule"
+msgstr ""
+
+msgid ""
+"<strong>120.123.123.57/28</strong> matches IP from 120.123.123.48 to "
+"120.123.123.63"
+msgstr ""
+
+msgid ""
+"<strong>120.123.123.57/16</strong> matches IP from 120.123.0.0 to "
+"120.123.255.255"
+msgstr ""
+
+msgid "Rule formats"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Savings"
+msgstr ""
+
+msgid "Script"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search our knowledgebase"
+msgstr ""
+
+msgid "Search yor services.."
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "Send me my password"
+msgstr ""
+
+msgid "Servers"
+msgstr ""
+
+msgid "Product/Service"
+msgstr ""
+
+msgid "Service Management"
+msgstr ""
+
+msgid ""
+"You currently don't have any services with us. Make sure to check our "
+"amazing offers in order section"
+msgstr ""
+
+msgid "Service upgrade"
+msgstr ""
+
+msgid "Setup Fee"
+msgstr ""
+
+msgid "Setup Your Plan"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "show"
+msgstr ""
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Single IP"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Solved"
+msgstr ""
+
+msgid "Source NAT"
+msgstr ""
+
+msgid "Espanol"
+msgstr ""
+
+msgid "Source Address"
+msgstr ""
+
+msgid "SSH Keys"
+msgstr ""
+
+msgid "%s is required for %s contact"
+msgstr ""
+
+msgid "%s is required for Organization Details"
+msgstr ""
+
+msgid "Start a Chat"
+msgstr ""
+
+msgid "State"
+msgstr ""
+
+msgid "You did not enter your state"
+msgstr ""
+
+msgid "Statistics since"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Step"
+msgstr ""
+
+msgid "Steps"
+msgstr ""
+
+msgid "Subdomain"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Subtotal:"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Changes saved "
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "Find answer to your questions"
+msgstr ""
+
+msgid "Support Home"
+msgstr ""
+
+msgid "Support Panel"
+msgstr ""
+
+msgid "Support's most important links."
+msgstr ""
+
+msgid "Support Resources"
+msgstr ""
+
+msgid "Svenska"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Tax Amount"
+msgstr ""
+
+msgid "Technical contact:"
+msgstr ""
+
+msgid ""
+"This value length is invalid. It should be between %s and %s characters long."
+msgstr ""
+
+msgid "This value is required."
+msgstr ""
+
+msgid "This value seems to be invalid."
+msgstr ""
+
+msgid "This value should be alphanumeric."
+msgstr ""
+
+msgid "This value should be a valid email."
+msgstr ""
+
+msgid "This value should be a valid integer."
+msgstr ""
+
+msgid "This value should be a valid number."
+msgstr ""
+
+msgid "This value should be a valid url."
+msgstr ""
+
+msgid "This value should be between %s and %s."
+msgstr ""
+
+msgid "This value should be digits."
+msgstr ""
+
+msgid "This value should be greater than or equal to %s."
+msgstr ""
+
+msgid "This value should be lower than or equal to %s."
+msgstr ""
+
+msgid "This value should not be blank."
+msgstr ""
+
+msgid "This value should be the same."
+msgstr ""
+
+msgid "This value is too long. It should have %s characters or fewer."
+msgstr ""
+
+msgid "This value is too short. It should have %s characters or more."
+msgstr ""
+
+msgid "Tickets Archive"
+msgstr ""
+
+msgid "Department does not exist"
+msgstr ""
+
+msgid "Support Tickets"
+msgstr ""
+
+msgid "Tickets closed:"
+msgstr ""
+
+msgid "Tickets opened:"
+msgstr ""
+
+msgid "tickets"
+msgstr ""
+
+msgid "Ticket status"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "times"
+msgstr ""
+
+msgid "Time zone"
+msgstr ""
+
+msgid "to"
+msgstr ""
+
+msgid "to expire"
+msgstr ""
+
+msgid "to manage"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Total Recurring:"
+msgstr ""
+
+msgid "Total Due Today:"
+msgstr ""
+
+msgid "Register this domain now?"
+msgstr ""
+
+msgid "Domain is not registered. Check the spelling and try again."
+msgstr ""
+
+msgid "Transfer Domain"
+msgstr ""
+
+msgid "Transfer"
+msgstr ""
+
+msgid "If you want to move your domain to us, enter it below to begin."
+msgstr ""
+
+msgid "Try again later or contact our support team"
+msgstr ""
+
+msgid "TÃ¼rk"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type the characters you can see in the image below"
+msgstr ""
+
+msgid "Unanswered"
+msgstr ""
+
+msgid "Unassign"
+msgstr ""
+
+msgid "Under Maintenance"
+msgstr ""
+
+msgid "Unit"
+msgstr ""
+
+msgid "Unit cost"
+msgstr ""
+
+msgid "unknown"
+msgstr ""
+
+msgid "Unlimited"
+msgstr ""
+
+msgid "Used"
+msgstr ""
+
+msgid "An user with this email exists"
+msgstr ""
+
+msgid "An user with this first and last name exists"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "VAT"
+msgstr ""
+
+msgid "view"
+msgstr ""
+
+msgid "View All"
+msgstr ""
+
+msgid "View Invoice"
+msgstr ""
+
+msgid "View pricing"
+msgstr ""
+
+msgid "Vouchers"
+msgstr ""
+
+msgid "VPS"
+msgstr ""
+
+msgid "View / Search Articles"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Was This article useful for You?"
+msgstr ""
+
+msgid "was useful"
+msgstr ""
+
+msgid "Welcome back"
+msgstr ""
+
+msgid "Welcome to"
+msgstr ""
+
+msgid "We're here to help you."
+msgstr ""
+
+msgid "Write a message"
+msgstr ""
+
+msgid "Wrong characters in image verification"
+msgstr ""
+
+msgid "E-mail and/or password is incorrect"
+msgstr ""
+
+msgid "Year/s"
+msgstr ""
+
+msgid "You may also be interested in"
+msgstr ""
+
+msgid "you are here"
+msgstr ""
+
+msgid "You must select between %s and %s choices."
+msgstr ""
+
+msgid "You must select at least %s choices."
+msgstr ""
+
+msgid "You must select %s choices or fewer."
+msgstr ""
+
+msgid " Your Information: "
+msgstr ""

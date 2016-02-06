@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-02-05 13:47+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Account"
+msgstr "帐户"
+
+msgid "Commission"
+msgstr "佣金"
+
+msgid "Commissions"
+msgstr "佣金"
+
+msgid "Domain"
+msgstr "域"
+
+msgid "Home"
+msgstr "首页"
+
+msgid "Recurring"
+msgstr "重复"
+
+msgid "Add Voucher"
+msgstr "添加优惠券"
+
+msgid "Affiliates Panel"
+msgstr "合伙人"
+
+msgid "All customers"
+msgstr "所有客户"
+
+msgid "Applies to"
+msgstr "应用到"
+
+msgid "Apply Once"
+msgstr "应用"
+
+msgid "Approved"
+msgstr "已批淮"
+
+msgid "Mailed Check"
+msgstr "检查邮箱"
+
+msgid "Account Credit"
+msgstr "账户余额"
+
+msgid "Audience"
+msgstr "受众"
+
+msgid "Basic affilliates informations."
+msgstr "基础合伙人信息"
+
+msgid "Become an affiliate"
+msgstr "成为合伙人"
+
+msgid "You will earn this from referred order"
+msgstr "你将从从每个推广销售中赚取"
+
+msgid "Discount"
+msgstr "折扣"
+
+msgid "Referred client will receive this discount"
+msgstr "被邀请的客户将会获取这些"
+
+msgid "Discount type"
+msgstr "折扣类型"
+
+msgid "Email me once a month with commissions summary"
+msgstr ""
+
+msgid "Enter new landing page url, it needs to be accesible within our domain"
+msgstr ""
+
+msgid "Existing customers"
+msgstr "现有客户"
+
+msgid "Expiration date"
+msgstr "失效日期"
+
+msgid "Expires"
+msgstr "有效期"
+
+msgid "Get "
+msgstr "取得 "
+
+msgid "Integration codes"
+msgstr "代码整合"
+
+msgid " just for signing up!"
+msgstr "立即注册"
+
+msgid "Landing page"
+msgstr "着陆页"
+
+msgid "Landing page url"
+msgstr "着陆页 URL"
+
+msgid ""
+"Redirect visitors to this page after visiting your affiliate link. Click on "
+"link to edit."
+msgstr ""
+
+msgid "Margin"
+msgstr ""
+
+msgid "Maximum usage"
+msgstr ""
+
+msgid "Affiliates most important links."
+msgstr ""
+
+msgid "Affiliates most important links.s}s."
+msgstr ""
+
+msgid "My Commissions"
+msgstr "我的佣金"
+
+msgid "My Vouchers"
+msgstr "我的票券"
+
+msgid "New customers"
+msgstr "新客户"
+
+msgid "New promotion code"
+msgstr "新的促销代码"
+
+msgid "New Voucher"
+msgstr "新票券"
+
+msgid "There are no commission plans that allow creating vouchers"
+msgstr ""
+
+msgid ""
+"Sign up for our generous affiliate program today, and earn extra revenue by "
+"promoting us!"
+msgstr ""
+
+msgid "Note"
+msgstr "注释"
+
+msgid "Request withdrawal"
+msgstr "请求提现"
+
+msgid "Payouts"
+msgstr ""
+
+msgid "per sale!"
+msgstr ""
+
+msgid "Promotion codes"
+msgstr "促销代码"
+
+msgid "Receive commissions automaticaly"
+msgstr ""
+
+msgid "Below is list of signups you've refered"
+msgstr ""
+
+msgid "Visitors referred"
+msgstr ""
+
+msgid "Your referral link"
+msgstr ""
+
+msgid "Registration date"
+msgstr ""
+
+msgid "Select Commission Plan"
+msgstr ""
+
+msgid "Signup date"
+msgstr ""
+
+msgid "Signups referred"
+msgstr ""
+
+msgid "This month"
+msgstr "本月"
+
+msgid "Unpaid commisions (approved / pending)"
+msgstr ""
+
+msgid "Unpaid commissions"
+msgstr ""
+
+msgid "Used"
+msgstr "已使用"
+
+msgid "Voucher code"
+msgstr ""
+
+msgid "Are you sure you want to remove this Voucher?"
+msgstr ""
+
+msgid "Create discounts to attract more clients and earn more!"
+msgstr ""
+
+msgid "Withdrawal log"
+msgstr ""
+
+msgid "Your current affiliate balance allows payout"
+msgstr ""
+
+msgid "Withdrawn amount"
+msgstr ""
+
+msgid "You can make "
+msgstr "你可以 "
+
+msgid "Your referrals"
+msgstr "你的推广"
