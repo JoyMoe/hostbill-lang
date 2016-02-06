@@ -1,0 +1,24 @@
+#
+msgid ""
+msgstr ""
+
+msgid "Your chat is closed"
+msgstr ""
+
+msgid "Connecting to chat server... OK"
+msgstr ""
+
+msgid "Operator picked up your call"
+msgstr ""
+
+msgid "Waiting for operator to accept..."
+msgstr ""
+
+msgid "There are no free operators at the time, please open a support ticket and describe your problem."
+msgstr ""
+
+msgid "If you do not have pop-ups enabled in your browser, you may be uanable to continue."
+msgstr ""
+
+msgid "Try enabling pop-ups in yor browser and refreash this page."
+msgstr ""

@@ -1,0 +1,68 @@
+#
+msgid ""
+msgstr ""
+
+msgid "Not Available"
+msgstr ""
+
+msgid "Available! Order Now."
+msgstr ""
+
+msgid "Bulk Domain Search"
+msgstr ""
+
+msgid "Check Availability"
+msgstr ""
+
+msgid "View Domain Pricing"
+msgstr ""
+
+msgid "Enter domain\'s names to check if they are available for registration."
+msgstr ""
+
+msgid "Please use only letters, numbers or dashes [-]"
+msgstr ""
+
+msgid "Enter few domains to search.
+
+Example:
+yourdomain-search
+seconddomain
+third-domain"
+msgstr ""
+
+msgid "Enter a domain\'s names and select the TLDs to see if the domain is available."
+msgstr ""
+
+msgid "Min. Years"
+msgstr ""
+
+msgid "Register selected"
+msgstr ""
+
+msgid "Single domain search"
+msgstr ""
+
+msgid "Start your domain search here..."
+msgstr ""
+
+msgid "Starting at"
+msgstr ""
+
+msgid "Supported TLDs"
+msgstr ""
+
+msgid "TLD"
+msgstr ""
+
+msgid "Transfer your domains from just"
+msgstr ""
+
+msgid "Transfer selected"
+msgstr ""
+
+msgid "Unavailable!"
+msgstr ""
+
+msgid "yourdomain"
+msgstr ""

@@ -1,0 +1,30 @@
+#
+msgid ""
+msgstr ""
+
+msgid "Articles under"
+msgstr ""
+
+msgid "Categories under"
+msgstr ""
+
+msgid "Current categories:"
+msgstr ""
+
+msgid "The knowledgebase provides documentation written by our team. Please select a category or search for answers."
+msgstr ""
+
+msgid "Search Articles"
+msgstr ""
+
+msgid "Sorry, nothing was found."
+msgstr ""
+
+msgid "Search Results:"
+msgstr ""
+
+msgid "Still can\'t find what you\'re looking for? Please <a href=\"tickets/new/\" class=\"bold\">send us a message."
+msgstr ""
+
+msgid "Welcome to our <strong>Knowledgebase</strong>"
+msgstr ""

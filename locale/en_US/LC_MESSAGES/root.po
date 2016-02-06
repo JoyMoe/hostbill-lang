@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+
+msgid "View our latest news and announcements"
+msgstr ""
+
+msgid "View and update your account details"
+msgstr ""
+
+msgid "Did you forget your password?"
+msgstr ""
+
+msgid "Check the domain availability"
+msgstr ""
+
+msgid "Browse and download useful files"
+msgstr ""
+
+msgid "Enter your email address:"
+msgstr ""
+
+msgid "Enter your email address below to receive a password change confirmation email."
+msgstr ""
+
+msgid "Request password change"
+msgstr ""
+
+msgid "Browse our Knowledgebase for answers to FAQs"
+msgstr ""
+
+msgid "News Archive"
+msgstr ""
+
+msgid "There is no active support departments at the moment"
+msgstr ""
+
+msgid "That email is not in our database - please make sure it is correct."
+msgstr ""
+
+msgid "Submit a ticket"
+msgstr ""
+
+msgid "Place a new order"
+msgstr ""
+
+msgid "A note about spam filters"
+msgstr ""
+
+msgid "If you don\'t receive any email from us within the next 5 minutes, please check your spam filter."
+msgstr ""
+
+msgid "The email will be sent from"
+msgstr ""
+
+msgid "Welcome to our Client Portal"
+msgstr ""

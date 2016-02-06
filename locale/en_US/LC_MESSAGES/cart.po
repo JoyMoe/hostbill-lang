@@ -1,0 +1,727 @@
+#
+msgid ""
+msgstr ""
+
+msgid "About company"
+msgstr ""
+
+msgid "About plan"
+msgstr ""
+
+msgid "Automatic account creation failed, you will be notified once your account will be created"
+msgstr ""
+
+msgid "Add Coupon Code"
+msgstr ""
+
+msgid "Additional features"
+msgstr ""
+
+msgid "Additional services"
+msgstr ""
+
+msgid "Additional details"
+msgstr ""
+
+msgid "Addons"
+msgstr ""
+
+msgid "The following addons are available for this product."
+msgstr ""
+
+msgid "Add to order"
+msgstr ""
+
+msgid "After server selection, product configuration will appear for more options to choose"
+msgstr ""
+
+msgid "Already registered"
+msgstr ""
+
+msgid "Amount to return to you as credit"
+msgstr ""
+
+msgid "Apply to: "
+msgstr ""
+
+msgid "back to"
+msgstr ""
+
+msgid "Bandwidth"
+msgstr ""
+
+msgid "Best"
+msgstr ""
+
+msgid "Billing cycle"
+msgstr ""
+
+msgid "Billing Options"
+msgstr ""
+
+msgid "Browse Products and Services"
+msgstr ""
+
+msgid "Bulk Domain Transfer"
+msgstr ""
+
+msgid "Here, you can enter additional notes that will be included in your order."
+msgstr ""
+
+msgid "Click on Click here to add to get our amazing offers you can get with your domains!"
+msgstr ""
+
+msgid "If you register/transfer muliple domains you can easily set all periods using this option"
+msgstr ""
+
+msgid "By default all registrations are set to use our NameServers, or nameservers of hosting account you purchase (if any)."
+msgstr ""
+
+msgid "Set nameservers"
+msgstr ""
+
+msgid "Set all years to "
+msgstr ""
+
+msgid "Notes / Additional Information"
+msgstr ""
+
+msgid "Cart summary"
+msgstr ""
+
+msgid "Cart subtotal today: "
+msgstr ""
+
+msgid "Processing Payment"
+msgstr ""
+
+msgid "Please wait while your payment is being processed, if you are not redirected in 5 seconds please refresh this page."
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Change billing cycle"
+msgstr ""
+
+msgid "Change currency"
+msgstr ""
+
+msgid "Check Availability"
+msgstr ""
+
+msgid "Checkout"
+msgstr ""
+
+msgid "Choose payment method"
+msgstr ""
+
+msgid "Choose your certificate"
+msgstr ""
+
+msgid "Choose your plan"
+msgstr ""
+
+msgid "Clear Cart"
+msgstr ""
+
+msgid "Click here to add"
+msgstr ""
+
+msgid "cloud server"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "This product/service has the following configuration options."
+msgstr ""
+
+msgid "Configure Domain Extras"
+msgstr ""
+
+msgid "Product Configuration"
+msgstr ""
+
+msgid "Confiure your choosen server, then proceed to checkout"
+msgstr ""
+
+msgid "Confirmation"
+msgstr ""
+
+msgid "Contact information"
+msgstr ""
+
+msgid "Continue to Step 2"
+msgstr ""
+
+msgid "Continue to step"
+msgstr ""
+
+msgid "Coupon Code"
+msgstr ""
+
+msgid "This coupon cannot be applied to your order"
+msgstr ""
+
+msgid "The promotion code you have entered doesn\'t exist"
+msgstr ""
+
+msgid "You must log in to validate this coupon"
+msgstr ""
+
+msgid "Current Selection"
+msgstr ""
+
+msgid "Current total"
+msgstr ""
+
+msgid "Customer info"
+msgstr ""
+
+msgid "Customize"
+msgstr ""
+
+msgid "Discount:"
+msgstr ""
+
+msgid "DNS Management"
+msgstr ""
+
+msgid "This domain exists in our system. Please try with a  different name"
+msgstr ""
+
+msgid "Domain Register"
+msgstr ""
+
+msgid "Domain Transfer"
+msgstr ""
+
+msgid "Use main contact details I’ll provide during checkout "
+msgstr ""
+
+msgid "Use my details as domain contacts"
+msgstr ""
+
+msgid "Don\'t have an account"
+msgstr ""
+
+msgid "Edit Configuration"
+msgstr ""
+
+msgid "Email Forwarding"
+msgstr ""
+
+msgid "A certificate approval email will be sent to address specified below."
+msgstr ""
+
+msgid "Billing contact"
+msgstr ""
+
+msgid "Billing &amp; Tech contacts"
+msgstr ""
+
+msgid "Certificate Type"
+msgstr ""
+
+msgid "Common name"
+msgstr ""
+
+msgid "The Common Name is a domain name like example.com.
+To secure https://www.example.com your common name must be www.example.com"
+msgstr ""
+
+msgid "Common Name:"
+msgstr ""
+
+msgid "Contacts"
+msgstr ""
+
+msgid "CSR"
+msgstr ""
+
+msgid "Here is an example of CSR generation:"
+msgstr ""
+
+msgid "Yes, I have CSR ready."
+msgstr ""
+
+msgid "I don\'t have my CSR ready. I will submit it after I place the order."
+msgstr ""
+
+msgid "Optional"
+msgstr ""
+
+msgid "Organization Details"
+msgstr ""
+
+msgid "Organization name"
+msgstr ""
+
+msgid "Organization unit"
+msgstr ""
+
+msgid "Paste your CSR here:"
+msgstr ""
+
+msgid "Payment"
+msgstr ""
+
+msgid "Step 1: Choose your certificate"
+msgstr ""
+
+msgid "Step 2: Submit Certificate Signing Request"
+msgstr ""
+
+msgid "Before we can issue a certificate, you will need to generate a Certificate Signing Request (CSR)."
+msgstr ""
+
+msgid "Please enter the domain name in order to proceed"
+msgstr ""
+
+msgid "Step 2: Common Name"
+msgstr ""
+
+msgid "Step 3: Contacts"
+msgstr ""
+
+msgid "Tech Contact"
+msgstr ""
+
+msgid "The full legal name of your organization. Example: ExampleCorp, Inc.<br/> Enter details of the organization that owns the domain. If you are purchasing this certificate for another company, do not use your own company details here"
+msgstr ""
+
+msgid "The organization unit that you wish to register this certificate for."
+msgstr ""
+
+msgid "The street address where your organization is legally located. We will need to validate this."
+msgstr ""
+
+msgid "The city where your organization is legally located. "
+msgstr ""
+
+msgid "State / Province / Region where your organization is located"
+msgstr ""
+
+msgid "Where your organization is legally located."
+msgstr ""
+
+msgid "to fill contact info with your details."
+msgstr ""
+
+msgid "What is a Certificate Signing Request (CSR)?"
+msgstr ""
+
+msgid "Certificate signing request (also CSR or certification request) is a message sent from an applicant to a certificate authority in order to apply for a digital identity certificate.<br /><br /> It contains information that will be included in your certificate such as:<br /> - Organization name<br /> - Common name (domain name)<br /> - Location<br /> - Country <br />"
+msgstr ""
+
+msgid "Enter domain names you wish to transfer, 1 name per line"
+msgstr ""
+
+msgid "In order to transfer your domain, you must provide the EPP Code"
+msgstr ""
+
+msgid "Epp Code:"
+msgstr ""
+
+msgid "Example"
+msgstr ""
+
+msgid "Existing customer?"
+msgstr ""
+
+msgid "All extra fields for the Domain are required"
+msgstr ""
+
+msgid "Domain you\'ve selected requires providing additional information:"
+msgstr ""
+
+msgid "extra features"
+msgstr ""
+
+msgid "Fields in <strong>bold</strong> are required."
+msgstr ""
+
+msgid "Field \"%s\" cannot be blank"
+msgstr ""
+
+msgid "Field \"%s\" contains wrong value"
+msgstr ""
+
+msgid "Finish Order"
+msgstr ""
+
+msgid "Get in touch"
+msgstr ""
+
+msgid "Hardware settings"
+msgstr ""
+
+msgid "Still haven\'t found what are you looking for"
+msgstr ""
+
+msgid "Hot Features"
+msgstr ""
+
+msgid "ID Protection"
+msgstr ""
+
+msgid "I have <span>a domain name</span>"
+msgstr ""
+
+msgid "I need <span>a domain name</span>"
+msgstr ""
+
+msgid "Don\'t need a domain at this time?"
+msgstr ""
+
+msgid "IPs & bandwidth"
+msgstr ""
+
+msgid "Are you sure you wish to remove this item from order?"
+msgstr ""
+
+msgid "I want to use my nameservers"
+msgstr ""
+
+msgid "I want %s to register a new domain for me."
+msgstr ""
+
+msgid "I will use a free sub domain"
+msgstr ""
+
+msgid "I want to transfer my domain to %s"
+msgstr ""
+
+msgid "I will update the nameservers on my existing domain"
+msgstr ""
+
+msgid "Leave us a message"
+msgstr ""
+
+msgid "Login to your account"
+msgstr ""
+
+msgid "maximum"
+msgstr ""
+
+msgid "minimum"
+msgstr ""
+
+msgid "modify"
+msgstr ""
+
+msgid "More services"
+msgstr ""
+
+msgid "Select your plan by moving slider"
+msgstr ""
+
+msgid "Network Configuration"
+msgstr ""
+
+msgid "New Client"
+msgstr ""
+
+msgid "New customer?"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Go to <a href=\"admin/index.php?cmd=managemodules&action=payment\" target=\"_blank\">Admin Settings: Modules</a> and activate payment gateway "
+msgstr ""
+
+msgid "There are no customization options"
+msgstr ""
+
+msgid "No hosting! - "
+msgstr ""
+
+msgid "Sorry, there are no services avaible yet"
+msgstr ""
+
+msgid "You will need to setup an order page and some products, before clients will be able to purchase services from you. <br>To add new:<ul><li>Hosting producst</li><li>Domain registration form</li><li>Other product and services</li></ul> Go to:"
+msgstr ""
+
+msgid "Not included"
+msgstr ""
+
+msgid "optimal choice for"
+msgstr ""
+
+msgid "Option"
+msgstr ""
+
+msgid "Your order status is now Active"
+msgstr ""
+
+msgid "Your Invoice has been marked Paid"
+msgstr ""
+
+msgid "Your Order Number is: "
+msgstr ""
+
+msgid "Order Confirmation"
+msgstr ""
+
+msgid "Thank you for your order. You will receive a confirmation email shortly."
+msgstr ""
+
+msgid "If you have any questions about your order, please open a support ticket from your client area and refer to your order number."
+msgstr ""
+
+msgid "Order steps"
+msgstr ""
+
+msgid "Order Summary"
+msgstr ""
+
+msgid "Order your plan"
+msgstr ""
+
+msgid "OS & Control Panel"
+msgstr ""
+
+msgid "PayPal Email"
+msgstr ""
+
+msgid "Please provide your PayPal email"
+msgstr ""
+
+msgid "Choose billing cycle:"
+msgstr ""
+
+msgid "Plan Configuration"
+msgstr ""
+
+msgid "Plan Details"
+msgstr ""
+
+msgid "Plan Includes"
+msgstr ""
+
+msgid "Plan name"
+msgstr ""
+
+msgid "plans"
+msgstr ""
+
+msgid "Plan Select"
+msgstr ""
+
+msgid "Plan Selection"
+msgstr ""
+
+msgid "Predefinied plans"
+msgstr ""
+
+msgid "Premade Packages"
+msgstr ""
+
+msgid "Pricing info"
+msgstr ""
+
+msgid "Product addons"
+msgstr ""
+
+msgid "You are not allowed to order more of this product, please contact us to order more"
+msgstr ""
+
+msgid "Product Configuration"
+msgstr ""
+
+msgid "Choose Product Domain"
+msgstr ""
+
+msgid "The product or service you have chosen requires a domain name."
+msgstr ""
+
+msgid "Domain Configuration"
+msgstr ""
+
+msgid "The domain has the following configuration options."
+msgstr ""
+
+msgid "The product or service has the following configuration options."
+msgstr ""
+
+msgid "The product or service you have chosen requires a domain name"
+msgstr ""
+
+msgid "Promotional code"
+msgstr ""
+
+msgid "Provide billing informations"
+msgstr ""
+
+msgid "Please select billing options"
+msgstr ""
+
+msgid "Quick links"
+msgstr ""
+
+msgid "Quick and easy setup"
+msgstr ""
+
+msgid "Send Request"
+msgstr ""
+
+msgid "Request Quote"
+msgstr ""
+
+msgid "Quote Request Summary"
+msgstr ""
+
+msgid "Ram"
+msgstr ""
+
+msgid "Read about us"
+msgstr ""
+
+msgid "Please wait while you are redirected to the selected payment gateway."
+msgstr ""
+
+msgid "Register Domain"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove coupon"
+msgstr ""
+
+msgid "Remove discount code"
+msgstr ""
+
+msgid "Remove this addon"
+msgstr ""
+
+msgid "Remove this product"
+msgstr ""
+
+msgid "Return to home"
+msgstr ""
+
+msgid "Returning customer?"
+msgstr ""
+
+msgid "see more options"
+msgstr ""
+
+msgid "Select 12 months or more and save!"
+msgstr ""
+
+msgid "Select Domain Name"
+msgstr ""
+
+msgid "Select Category"
+msgstr ""
+
+msgid "Select this plan"
+msgstr ""
+
+msgid "Select your plan"
+msgstr ""
+
+msgid "Server"
+msgstr ""
+
+msgid "Server Addons"
+msgstr ""
+
+msgid "Server Configuration"
+msgstr ""
+
+msgid "Server Details"
+msgstr ""
+
+msgid "Server & Pricing"
+msgstr ""
+
+msgid "Service Configuration"
+msgstr ""
+
+msgid "Set billing cycle, addons and you\'re done!"
+msgstr ""
+
+msgid "Setup Your"
+msgstr ""
+
+msgid "Sign Up"
+msgstr ""
+
+msgid "Software"
+msgstr ""
+
+msgid "Starting at"
+msgstr ""
+
+msgid "Step"
+msgstr ""
+
+msgid "Step 1"
+msgstr ""
+
+msgid "Step 2"
+msgstr ""
+
+msgid "Storage Space"
+msgstr ""
+
+msgid "Submit Certificate Signing Request"
+msgstr ""
+
+msgid "Submit Order"
+msgstr ""
+
+msgid "Submit your order"
+msgstr ""
+
+msgid "Sub-product"
+msgstr ""
+
+msgid "Tell me more"
+msgstr ""
+
+msgid "Thank you for choosing"
+msgstr ""
+
+msgid "I have read and accepted"
+msgstr ""
+
+msgid "Terms of Service"
+msgstr ""
+
+msgid "Total price"
+msgstr ""
+
+msgid "Transfer Domain"
+msgstr ""
+
+msgid "Use promotional code"
+msgstr ""
+
+msgid "Use our default nameservers"
+msgstr ""
+
+msgid "Use registrant information"
+msgstr ""
+
+msgid "Why Us"
+msgstr ""
+
+msgid "Year/s"
+msgstr ""
+
+msgid "Your cart is empty"
+msgstr ""
+
+msgid "your cart total"
+msgstr ""
+
+msgid "Your configuration"
+msgstr ""
+
+msgid "Your total price"
+msgstr ""

@@ -1,0 +1,78 @@
+#
+msgid ""
+msgstr ""
+
+msgid "Add domain"
+msgstr ""
+
+msgid "Back to DNS domain list"
+msgstr ""
+
+msgid "Do you really want to delete this domain?"
+msgstr ""
+
+msgid "Do you really want to delete this record?"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "Use different IP"
+msgstr ""
+
+msgid "Domain added"
+msgstr ""
+
+msgid "Domain  exists in the system"
+msgstr ""
+
+msgid "Domain removed"
+msgstr ""
+
+msgid "Edit DNS Zone"
+msgstr ""
+
+msgid "Record added"
+msgstr ""
+
+msgid "Record changed"
+msgstr ""
+
+msgid "Record deleted"
+msgstr ""
+
+msgid "IP"
+msgstr ""
+
+msgid "DNS Management"
+msgstr ""
+
+msgid "Domain"
+msgstr ""
+
+msgid "Couldn\'t get DNS records from server"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Add new domain"
+msgstr ""
+
+msgid "Please change your name servers to:"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Service Unavailable"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Domain cannot be empty"
+msgstr ""
+
+msgid "Wrong IP"
+msgstr ""

@@ -1,0 +1,114 @@
+#
+msgid ""
+msgstr ""
+
+msgid "An agent will be with you shortly"
+msgstr ""
+
+msgid "Type in your message..."
+msgstr ""
+
+msgid "This field cannot be blank"
+msgstr ""
+
+msgid "Email address needs to be valid"
+msgstr ""
+
+msgid "Question cannot be empty"
+msgstr ""
+
+msgid "Full name"
+msgstr ""
+
+msgid "Chat Invitation Timed out"
+msgstr ""
+
+msgid " Chat invitation has been received"
+msgstr ""
+
+msgid "No active operators found"
+msgstr ""
+
+msgid "Live chat is currently offline, please try contacting us later."
+msgstr ""
+
+msgid "Chat offline"
+msgstr ""
+
+msgid "Operator disconnected"
+msgstr ""
+
+msgid "Print conversation transcript"
+msgstr ""
+
+msgid "Question: %s"
+msgstr ""
+
+msgid "Question"
+msgstr ""
+
+msgid " Chat request rejected by Staff #%s - %s"
+msgstr ""
+
+msgid "Visitor rejected chat request"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send Email"
+msgstr ""
+
+msgid "Chat conversation was ended by staff member"
+msgstr ""
+
+msgid "New support ticket #%s has been opened"
+msgstr ""
+
+msgid "Chat Request Timed out"
+msgstr ""
+
+msgid "Chat transfer has been accepted"
+msgstr ""
+
+msgid "Chat transfer has been rejected"
+msgstr ""
+
+msgid "Visitor disconnected"
+msgstr ""
+
+msgid "Welcome to Live Chat"
+msgstr ""
+
+msgid "To start chat please provide information below. All fields are required."
+msgstr ""
+
+msgid "You\'re now chatting with %s"
+msgstr ""
+
+msgid "Email transcript"
+msgstr ""
+
+msgid "Send conversation transcript"
+msgstr ""
+
+msgid "Could not send conversation transcript"
+msgstr ""
+
+msgid "Conversation transcript sent to %s"
+msgstr ""
+
+msgid "Please leave your message and contact details, we will get back to you later. Thank you."
+msgstr ""
+
+msgid "Live Chat"
+msgstr ""
+
+msgid "Thank you for leaving the message, we will get back to you as soon as possible"
+msgstr ""
+
+msgid "Please leave message"
+msgstr ""
+
+msgid "Start Chat"
+msgstr ""

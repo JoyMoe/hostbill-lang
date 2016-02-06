@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+
+msgid "&laquo; back to all categories"
+msgstr ""
+
+msgid "Categories:"
+msgstr ""
+
+msgid "Files"
+msgstr ""
+
+msgid "Files listed under category: "
+msgstr ""
+
+msgid "My files"
+msgstr ""
+
+msgid "Popular downloads"
+msgstr ""

@@ -1,0 +1,216 @@
+#
+msgid ""
+msgstr ""
+
+msgid "Account"
+msgstr ""
+
+msgid "Commission"
+msgstr ""
+
+msgid "Commissions"
+msgstr ""
+
+msgid "Domain"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Recurring"
+msgstr ""
+
+msgid "Add Voucher"
+msgstr ""
+
+msgid "Affiliates Panel"
+msgstr ""
+
+msgid "All customers"
+msgstr ""
+
+msgid "Applies to"
+msgstr ""
+
+msgid "Apply Once"
+msgstr ""
+
+msgid "Approved"
+msgstr ""
+
+msgid "Mailed Check"
+msgstr ""
+
+msgid "Account Credit"
+msgstr ""
+
+msgid "Audience"
+msgstr ""
+
+msgid "Basic affilliates informations."
+msgstr ""
+
+msgid "Become an affiliate"
+msgstr ""
+
+msgid "Mailed Check"
+msgstr ""
+
+msgid "Commission"
+msgstr ""
+
+msgid "You will earn this from referred order"
+msgstr ""
+
+msgid "Account Credit"
+msgstr ""
+
+msgid "Discount"
+msgstr ""
+
+msgid "Referred client will receive this discount"
+msgstr ""
+
+msgid "Discount type"
+msgstr ""
+
+msgid "Email me once a month with commissions summary"
+msgstr ""
+
+msgid "Enter new landing page url, it needs to be accesible within our domain"
+msgstr ""
+
+msgid "Existing customers"
+msgstr ""
+
+msgid "Expiration date"
+msgstr ""
+
+msgid "Expires"
+msgstr ""
+
+msgid "Get "
+msgstr ""
+
+msgid "Integration codes"
+msgstr ""
+
+msgid " just for signing up!"
+msgstr ""
+
+msgid "Landing page"
+msgstr ""
+
+msgid "Landing page url"
+msgstr ""
+
+msgid "Redirect visitors to this page after visiting your affiliate link. Click on link to edit."
+msgstr ""
+
+msgid "Margin"
+msgstr ""
+
+msgid "Maximum usage"
+msgstr ""
+
+msgid "Affiliates most important links."
+msgstr ""
+
+msgid "Affiliates most important links.s}s."
+msgstr ""
+
+msgid "My Commissions"
+msgstr ""
+
+msgid "My Vouchers"
+msgstr ""
+
+msgid "New customers"
+msgstr ""
+
+msgid "New promotion code"
+msgstr ""
+
+msgid "New Voucher"
+msgstr ""
+
+msgid "There are no commission plans that allow creating vouchers"
+msgstr ""
+
+msgid "Sign up for our generous affiliate program today, and earn extra revenue by promoting us!"
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid "Request withdrawal"
+msgstr ""
+
+msgid "Payouts"
+msgstr ""
+
+msgid "per sale!"
+msgstr ""
+
+msgid "Promotion codes"
+msgstr ""
+
+msgid "Receive commissions automaticaly"
+msgstr ""
+
+msgid "Below is list of signups you\'ve refered"
+msgstr ""
+
+msgid "Visitors referred"
+msgstr ""
+
+msgid "Your referral link"
+msgstr ""
+
+msgid "Registration date"
+msgstr ""
+
+msgid "Select Commission Plan"
+msgstr ""
+
+msgid "Signup date"
+msgstr ""
+
+msgid "Signups referred"
+msgstr ""
+
+msgid "This month"
+msgstr ""
+
+msgid "Unpaid commisions (approved / pending)"
+msgstr ""
+
+msgid "Unpaid commissions"
+msgstr ""
+
+msgid "Used"
+msgstr ""
+
+msgid "Voucher code"
+msgstr ""
+
+msgid "Are you sure you want to remove this Voucher?"
+msgstr ""
+
+msgid "Create discounts to attract more clients and earn more!"
+msgstr ""
+
+msgid "Withdrawal log"
+msgstr ""
+
+msgid "Your current affiliate balance allows payout"
+msgstr ""
+
+msgid "Withdrawn amount"
+msgstr ""
+
+msgid "You can make "
+msgstr ""
+
+msgid "Your referrals"
+msgstr ""

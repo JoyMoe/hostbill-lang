@@ -1,0 +1,129 @@
+#
+msgid ""
+msgstr ""
+
+msgid "Add new contact"
+msgstr ""
+
+msgid "Are you sure you want to delete this contact/profile?"
+msgstr ""
+
+msgid "Add funds "
+msgstr ""
+
+msgid "View current balance"
+msgstr ""
+
+msgid "Edit Credit Card details"
+msgstr ""
+
+msgid "Receive billing notifications"
+msgstr ""
+
+msgid "Billing"
+msgstr ""
+
+msgid "Place new orders"
+msgstr ""
+
+msgid "Allow to view/pay invoices"
+msgstr ""
+
+msgid "Contact Details"
+msgstr ""
+
+msgid "Current contacts"
+msgstr ""
+
+msgid "View basic details"
+msgstr ""
+
+msgid "Full control over domains"
+msgstr ""
+
+msgid "Modify nameservers"
+msgstr ""
+
+msgid "Renew domain"
+msgstr ""
+
+msgid "Edit contact"
+msgstr ""
+
+msgid "Privileges cannot be empty"
+msgstr ""
+
+msgid "Login as this contact"
+msgstr ""
+
+msgid "Access affiliates section"
+msgstr ""
+
+msgid "Edit allowed IP access"
+msgstr ""
+
+msgid "Modify main profile details"
+msgstr ""
+
+msgid "View emails history"
+msgstr ""
+
+msgid "Misc"
+msgstr ""
+
+msgid "Add / Edit  contacts"
+msgstr ""
+
+msgid "Pre-made privileges:"
+msgstr ""
+
+msgid "Privileges"
+msgstr ""
+
+msgid "New contact / profile has been added"
+msgstr ""
+
+msgid "Contact has been removed"
+msgstr ""
+
+msgid "Contact has been updated"
+msgstr ""
+
+msgid "Contact details"
+msgstr ""
+
+msgid "Enable access to your resources with us - allow to pay invoices, manage services &amp; more"
+msgstr ""
+
+msgid "View basic details"
+msgstr ""
+
+msgid "View billing info"
+msgstr ""
+
+msgid "Request cancellation"
+msgstr ""
+
+msgid "Full control over services"
+msgstr ""
+
+msgid "Receive related email notifications"
+msgstr ""
+
+msgid "Upgrade / Downgrade"
+msgstr ""
+
+msgid "Close tickets"
+msgstr ""
+
+msgid "Receive email notifications"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "Open new tickets"
+msgstr ""
+
+msgid "View current tickets"
+msgstr ""

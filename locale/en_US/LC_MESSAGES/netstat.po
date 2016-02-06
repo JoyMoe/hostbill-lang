@@ -1,0 +1,36 @@
+#
+msgid ""
+msgstr ""
+
+msgid "FTP"
+msgstr ""
+
+msgid "HTTP"
+msgstr ""
+
+msgid "IMAP"
+msgstr ""
+
+msgid "Server load"
+msgstr ""
+
+msgid "MYSQL"
+msgstr ""
+
+msgid "Enable monitoring"
+msgstr ""
+
+msgid "POP3"
+msgstr ""
+
+msgid "SSH"
+msgstr ""
+
+msgid "Server uptime"
+msgstr ""
+
+msgid "Unavailable"
+msgstr ""
+
+msgid "Shows current status of your servers."
+msgstr ""
