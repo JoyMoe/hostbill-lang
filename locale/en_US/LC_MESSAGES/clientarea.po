@@ -300,7 +300,7 @@ msgid ""
 "In order to avoid losing domain name due to its expiration you may consider "
 "enabling automatic renewal. You will receive email notifications prior to "
 "domain expiration, but since emails can be missed we recommend setting "
-"automatic renewal on"
+"automatic renewal on."
 msgstr ""
 
 msgid "Autorenewal invoice will be issued approximately on"

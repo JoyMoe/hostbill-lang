@@ -451,6 +451,9 @@ msgstr ""
 msgid "We accept"
 msgstr ""
 
+msgid "Certificate"
+msgstr ""
+
 msgid "Update ACH details"
 msgstr ""
 
@@ -1499,6 +1502,9 @@ msgid "Single IP"
 msgstr ""
 
 msgid "Size"
+msgstr ""
+
+msgid "Software"
 msgstr ""
 
 msgid "Solved"
