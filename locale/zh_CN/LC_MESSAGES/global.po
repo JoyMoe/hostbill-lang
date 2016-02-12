@@ -1,12 +1,13 @@
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: HostBill\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-02-12 03:57+0000\n"
+"PO-Revision-Date: 2016-02-12 15:11+0800\n"
 "Last-Translator: \n"
-"Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/hostbill/language/zh_CN/)\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/"
+"hostbill/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,397 +16,397 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 
 msgid "ACCEPT"
-msgstr ""
+msgstr "接受"
 
 msgid "eCheck/ACH"
-msgstr ""
+msgstr "电子支票/ACH"
 
 msgid "Accepted"
-msgstr ""
+msgstr "已接受"
 
 msgid "Accounting"
-msgstr ""
+msgstr "帐户"
 
 msgid "Active"
-msgstr ""
+msgstr "启用"
 
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 msgid "Annually"
-msgstr ""
+msgstr "年度"
 
 msgid "Answered"
-msgstr ""
+msgstr "已回复"
 
 msgid "Available"
-msgstr ""
+msgstr "可用"
 
 msgid "Biennially"
-msgstr ""
+msgstr "两年一次"
 
 msgid "Cancelled"
-msgstr ""
+msgstr "已取消"
 
 msgid "Click"
-msgstr ""
+msgstr "点击"
 
 msgid "Client Reply"
-msgstr ""
+msgstr "客户回复"
 
 msgid "Closed"
-msgstr ""
+msgstr "已关闭"
 
 msgid "Organization"
-msgstr ""
+msgstr "机构"
 
 msgid "Completed"
-msgstr ""
+msgstr "已完成"
 
 msgid "Client Information"
-msgstr ""
+msgstr "客户信息"
 
 msgid "Credit Note"
-msgstr ""
+msgstr "注释"
 
 msgid "Credit Notes"
-msgstr ""
+msgstr "注释"
 
 msgid "Currency"
-msgstr ""
+msgstr "货币"
 
 msgid "DROP"
-msgstr ""
+msgstr "丢弃"
 
 msgid "Daily"
-msgstr ""
+msgstr "每天"
 
 msgid "Dead"
-msgstr ""
+msgstr "完结"
 
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 msgid "Draft"
-msgstr ""
+msgstr "草稿"
 
 msgid "Estimate"
-msgstr ""
+msgstr "预算"
 
 msgid "Expired"
-msgstr ""
+msgstr "已过期"
 
 msgid "Fraud"
-msgstr ""
+msgstr "欺诈"
 
 msgid "Free"
-msgstr ""
+msgstr "免费"
 
 msgid "Full Privileges"
-msgstr ""
+msgstr "完全权限"
 
 msgid "Go"
-msgstr ""
+msgstr "继续"
 
 msgid "Hourly"
-msgstr ""
+msgstr "每小时"
 
 msgid "In Progress"
-msgstr ""
+msgstr "处理中"
 
 msgid "Incomplete"
-msgstr ""
+msgstr "未完成"
 
 msgid "Invoiced"
-msgstr ""
+msgstr "已出票"
 
 msgid "Location"
-msgstr ""
+msgstr "地区"
 
 msgid "Based on usage"
-msgstr ""
+msgstr "基于使用情况"
 
 msgid "Monthly"
-msgstr ""
+msgstr "毎月"
 
 msgid "Off"
-msgstr ""
+msgstr "关"
 
 msgid "On"
-msgstr ""
+msgstr "开"
 
 msgid "One Time"
-msgstr ""
+msgstr "一次性"
 
 msgid "Open"
-msgstr ""
+msgstr "开放"
 
 msgid "Paid"
-msgstr ""
+msgstr "已支付"
 
 msgid "Pending"
-msgstr ""
+msgstr "待处理"
 
 msgid "Pending Register"
-msgstr ""
+msgstr "待处理"
 
 msgid "Pending Registration"
-msgstr ""
+msgstr "待处理"
 
 msgid "Pending Transfer"
-msgstr ""
+msgstr "待处理"
 
 msgid "Pre-Paid"
-msgstr ""
+msgstr "预付费"
 
 msgid "Personal"
-msgstr ""
+msgstr "个人"
 
 msgid "Quarterly"
-msgstr ""
+msgstr "每季度"
 
 msgid "Refunded"
-msgstr ""
+msgstr "已退款"
 
 msgid "Reset"
-msgstr ""
+msgstr "重置"
 
 msgid "Semi-Annually"
-msgstr ""
+msgstr "每半年"
 
 msgid "Sent"
-msgstr ""
+msgstr "已发送"
 
 msgid "Statistics"
-msgstr ""
+msgstr "统计"
 
 msgid "Suspended"
-msgstr ""
+msgstr "已暂停"
 
 msgid "Technical Staff"
-msgstr ""
+msgstr "技术人员"
 
 msgid "Terminated"
-msgstr ""
+msgstr "已终止"
 
 msgid "Ticket"
-msgstr ""
+msgstr "工单"
 
 msgid "Triennially"
-msgstr ""
+msgstr "每三年"
 
 msgid "click here to turn Off"
-msgstr ""
+msgstr "点击此处关闭"
 
 msgid "click here to turn On"
-msgstr ""
+msgstr "点击此处打开"
 
 msgid "Unpaid"
-msgstr ""
+msgstr "未支付"
 
 msgid "Upgrade"
-msgstr ""
+msgstr "升级"
 
 msgid "Viewed"
-msgstr ""
+msgstr "已查看"
 
 msgid "Weekly"
-msgstr ""
+msgstr "每周"
 
 msgid "You don't have access to this section"
-msgstr ""
+msgstr "你没有权限访问此页面"
 
 msgid "Account"
 msgstr "帐户"
 
 msgid "Account created"
-msgstr ""
+msgstr "帐户已创建"
 
 msgid "In order to log in you must activate your account"
 msgstr ""
 
 msgid "Account History"
-msgstr ""
+msgstr "帐户历史"
 
 msgid "Account Information"
-msgstr ""
+msgstr "帐户信息"
 
 msgid "Accounts"
-msgstr ""
+msgstr "帐户"
 
 msgid "Account Number"
-msgstr ""
+msgstr "帐户号码"
 
 msgid "Bank Account Information"
-msgstr ""
+msgstr "银行帐户信息"
 
 msgid "Routing Number"
-msgstr ""
+msgstr "Routing Number"
 
 msgid "Your account activated."
-msgstr ""
+msgstr "您的帐户已激活"
 
 msgid "Add domain"
-msgstr ""
+msgstr "新域名"
 
 msgid "Add Funds"
-msgstr ""
+msgstr "新增资金"
 
 msgid "adding"
-msgstr ""
+msgstr "添加"
 
 msgid "Add key"
-msgstr ""
+msgstr "添加密钥"
 
 msgid "Addon"
-msgstr ""
+msgstr "插件"
 
 msgid "Address 1"
-msgstr ""
+msgstr "地址1 (门牌号)"
 
 msgid "Address 2"
-msgstr ""
+msgstr "地址2 (街道)"
 
 msgid "You did not enter your full address"
-msgstr ""
+msgstr "您没有输入您的详细地址"
 
 msgid "Add new rule"
-msgstr ""
+msgstr "添加新规则"
 
 msgid "Add this contact to my account"
-msgstr ""
+msgstr "将此联系人添加到我的账户"
 
 msgid "Admin contact:"
-msgstr ""
+msgstr "管理联系人："
 
 msgid "Logged in as Administrator"
-msgstr ""
+msgstr "以管理员身份登录"
 
 msgid "Return to Admin Area"
-msgstr ""
+msgstr "返回后台"
 
 msgid "Affiliate"
-msgstr ""
+msgstr "加盟"
 
 msgid "Center of built-in comprehensive affiliate system."
 msgstr ""
 
 msgid "Affiliate center"
-msgstr ""
+msgstr "合伙人中心"
 
 msgid "Affiliates"
-msgstr ""
+msgstr "合伙人"
 
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 msgid "All servers"
-msgstr ""
+msgstr "全部服务器"
 
 msgid "Already have"
-msgstr ""
+msgstr "已有"
 
 msgid "News"
-msgstr ""
+msgstr "动态"
 
 msgid "You must accept the Terms of Service / Acceptable Use Policy"
 msgstr ""
 
 msgid "Apply Firewall Rules"
-msgstr ""
+msgstr "应用防火墙规则"
 
 msgid "???????"
 msgstr ""
 
 msgid "Articles"
-msgstr ""
+msgstr "文章"
 
 msgid "Article was viewed"
-msgstr ""
+msgstr "文章已查看"
 
 msgid "Assign"
-msgstr ""
+msgstr "指定"
 
 msgid "Attach"
-msgstr ""
+msgstr "附件"
 
 msgid "Save Credit Card"
-msgstr ""
+msgstr "保存信用卡"
 
 msgid "Store Credit Card details for future use"
-msgstr ""
+msgstr "保存信用卡以备将来使用"
 
 msgid "Avg"
-msgstr ""
+msgstr "平均"
 
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 msgid "Back to service details"
-msgstr ""
+msgstr "返回到服务详细信息"
 
 msgid "Backups"
-msgstr ""
+msgstr "备份"
 
 msgid "Balance"
-msgstr ""
+msgstr "余额"
 
 msgid "Bandwidth limit"
-msgstr ""
+msgstr "带宽限制"
 
 msgid "Ban Expires"
-msgstr ""
+msgstr "封禁到"
 
 msgid "Your email is on our banned list - signup rejected"
 msgstr ""
 
 msgid "Your IP %s banned"
-msgstr ""
+msgstr "您的 IP %s 已被封禁"
 
 msgid "Your IP address is on our banned list - order rejected"
-msgstr ""
+msgstr "您的 IP 地址在我们的黑名单中 - 订单被拒"
 
 msgid "Your IP address is on our banned list - login rejected"
-msgstr ""
+msgstr "您的 IP 地址在我们的黑名单中 - 禁止登录"
 
 msgid "Ban Reason"
-msgstr ""
+msgstr "封禁原因"
 
 msgid "Billing Cycle"
-msgstr ""
+msgstr "账单周期"
 
 msgid "Best selling"
-msgstr ""
+msgstr "热卖"
 
 msgid "Billing"
-msgstr ""
+msgstr "账单"
 
 msgid "Billing contact:"
-msgstr ""
+msgstr "账单联系人："
 
 msgid "Body"
-msgstr ""
+msgstr "内容"
 
 msgid "Browse downloads library"
-msgstr ""
+msgstr "浏览下载库"
 
 msgid "Bulk Register"
-msgstr ""
+msgstr "批量注册"
 
 msgid "Business Checking"
-msgstr ""
+msgstr "商务合作"
 
 msgid "Buy Now!"
-msgstr ""
+msgstr "现在购买！"
 
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 msgid "Cancel Changes"
-msgstr ""
+msgstr "取消更改"
 
 msgid "Image Verification"
-msgstr ""
+msgstr "图片验证码"
 
 msgid ""
 "Unable to process your request due to security reasons, you should use "
@@ -418,55 +419,55 @@ msgid ""
 msgstr ""
 
 msgid "Cart"
-msgstr ""
+msgstr "购物车"
 
 msgid "Categories"
-msgstr ""
+msgstr "分类"
 
 msgid "Category"
-msgstr ""
+msgstr "分类"
 
 msgid "CVV/CVC2 Number"
-msgstr ""
+msgstr "CVV 号码"
 
 msgid "Credit Card"
-msgstr ""
+msgstr "信用卡"
 
 msgid " Credit Card details: "
-msgstr ""
+msgstr "信用卡详细信息："
 
 msgid "Use Existing Card"
-msgstr ""
+msgstr "使用现有卡"
 
 msgid "Expiry Date"
-msgstr ""
+msgstr "到期日"
 
 msgid "Enter New Card Information"
-msgstr ""
+msgstr "输入新的卡信息"
 
 msgid "Card Number"
-msgstr ""
+msgstr "卡号"
 
 msgid "Card Type"
-msgstr ""
+msgstr "卡类型"
 
 msgid "We accept"
-msgstr ""
+msgstr "我们接受"
 
 msgid "Update ACH details"
-msgstr ""
+msgstr "更新 ACH 信息"
 
 msgid "Please provide your bank details below"
-msgstr ""
+msgstr "请在下面填写您的银行账户信息"
 
 msgid "Change language"
-msgstr ""
+msgstr "更改语言"
 
 msgid "Change password"
-msgstr ""
+msgstr "修改密码"
 
 msgid "Live Chat"
-msgstr ""
+msgstr "在线聊天"
 
 msgid ""
 "No operator is available at the moment, please open a support ticket "
@@ -477,166 +478,166 @@ msgid "Chat is only available for registered customers"
 msgstr ""
 
 msgid "Check"
-msgstr ""
+msgstr "检查"
 
 msgid "Check Domain Availability"
-msgstr ""
+msgstr "检查域名可用性"
 
 msgid "Checking"
-msgstr ""
+msgstr "检查中..."
 
 msgid "Checking status..."
-msgstr ""
+msgstr "检查状态......"
 
 msgid "Check our amazing offers"
-msgstr ""
+msgstr "立即察看我们的最新优惠"
 
 msgid "??"
 msgstr ""
 
 msgid "Please choose period"
-msgstr ""
+msgstr "请选择周期"
 
 msgid "City"
-msgstr ""
+msgstr "城市"
 
 msgid "You did not enter your town or city"
 msgstr ""
 
 msgid "Account type"
-msgstr ""
+msgstr "帐户类型"
 
 msgid "Your Client Area account has been created"
 msgstr ""
 
 msgid "Client Area"
-msgstr ""
+msgstr "客户专区"
 
 msgid "Client Login"
-msgstr ""
+msgstr "客户登录"
 
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 msgid "Close issue"
-msgstr ""
+msgstr "关闭问题"
 
 msgid "Command"
-msgstr ""
+msgstr "命令"
 
 msgid "Organization Name"
-msgstr ""
+msgstr "组织名"
 
 msgid "You did not enter your company name"
 msgstr ""
 
 msgid "Configuration"
-msgstr ""
+msgstr "配置"
 
 msgid "Configure"
-msgstr ""
+msgstr "配置"
 
 msgid "Confirm Password"
-msgstr ""
+msgstr "确认密码"
 
 msgid "Contact Us"
-msgstr ""
+msgstr "联系我们"
 
 msgid "Continue"
-msgstr ""
+msgstr "继续"
 
 msgid "Contnue"
-msgstr ""
+msgstr "继续"
 
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 msgid "Country"
-msgstr ""
+msgstr "国家"
 
 msgid "Create Account"
-msgstr ""
+msgstr "创建账户"
 
 msgid "Create new"
-msgstr ""
+msgstr "新建"
 
 msgid "Create new voucher"
-msgstr ""
+msgstr "新票券"
 
 msgid "Credit"
-msgstr ""
+msgstr "信用"
 
 msgid "Credit card on file"
-msgstr ""
+msgstr "信用卡"
 
 msgid "Credit left"
-msgstr ""
+msgstr "余额"
 
 msgid "Date issued"
-msgstr ""
+msgstr "颁发日期"
 
 msgid "Current balance"
-msgstr ""
+msgstr "当前余额"
 
 msgid "Current overage charge"
-msgstr ""
+msgstr "当前的超额费用"
 
 msgid "Dansk"
 msgstr ""
 
 msgid "Dashboard"
-msgstr ""
+msgstr "仪表盘"
 
 msgid "Wrong Parameter"
-msgstr ""
+msgstr "参数错误"
 
 msgid "Date"
-msgstr ""
+msgstr "日期"
 
 msgid "Date of sale"
-msgstr ""
+msgstr "销售日期"
 
 msgid "day"
-msgstr ""
+msgstr "日"
 
 msgid "Day of month"
-msgstr ""
+msgstr "本月"
 
 msgid "days"
-msgstr ""
+msgstr "天"
 
 msgid "Day of week"
-msgstr ""
+msgstr "本周"
 
 msgid "dedicated server"
-msgstr ""
+msgstr "独立服务器"
 
 msgid "Define new"
-msgstr ""
+msgstr "定义"
 
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 msgid "Delete selected"
-msgstr ""
+msgstr "删除已选"
 
 msgid "Department"
-msgstr ""
+msgstr "部门"
 
 msgid "Destination"
-msgstr ""
+msgstr "目标话题"
 
 msgid "Destination port"
-msgstr ""
+msgstr "目标端口"
 
 msgid "Detach"
-msgstr ""
+msgstr "分离"
 
 msgid "Edit Details"
-msgstr ""
+msgstr "编辑详情"
 
 msgid "Disable"
-msgstr ""
+msgstr "禁用"
 
 msgid "Distribution"
 msgstr ""
@@ -654,34 +655,34 @@ msgid "The domain you entered is in the wrong format"
 msgstr ""
 
 msgid "Domain Availability Checker"
-msgstr ""
+msgstr "检查域名可用性"
 
 msgid "Domain Registration"
-msgstr ""
+msgstr "域名注册"
 
 msgid "Domain Renewal"
-msgstr ""
+msgstr "域名续费"
 
 msgid "Domains"
-msgstr ""
+msgstr "域名"
 
 msgid "Domain Transfer"
 msgstr "域名转移"
 
 msgid "Domain contacts"
-msgstr ""
+msgstr "域名联系人"
 
 msgid "... more"
-msgstr ""
+msgstr "更多…"
 
 msgid "Download"
-msgstr ""
+msgstr "下载"
 
 msgid "Downloads"
-msgstr ""
+msgstr "下载"
 
 msgid "Due date"
-msgstr ""
+msgstr "到期日期"
 
 msgid "Nederlands"
 msgstr ""
@@ -690,25 +691,25 @@ msgid "Earn money with us!"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 msgid "Elements"
-msgstr ""
+msgstr "元素"
 
 msgid "Email Address"
-msgstr ""
+msgstr "电子邮箱地址"
 
 msgid "You did not enter your email address"
 msgstr ""
 
 msgid "Email sent."
-msgstr ""
+msgstr "邮件已发送"
 
 msgid "The email address you entered is invalid"
 msgstr ""
 
 msgid "Emails"
-msgstr ""
+msgstr "邮件"
 
 msgid "Domain name cannot be empty"
 msgstr ""
@@ -720,34 +721,34 @@ msgid "Name field cannot be empty"
 msgstr ""
 
 msgid "Admin Contact"
-msgstr ""
+msgstr "管理联系人："
 
 msgid "Approval email"
-msgstr ""
+msgstr "批准邮件"
 
 msgid "Copy Admin contact for Billing and Tech contacts."
 msgstr ""
 
 msgid "Job Title"
-msgstr ""
+msgstr "职务"
 
 msgid "Select server software:"
 msgstr ""
 
 msgid "Enable"
-msgstr ""
+msgstr "启用"
 
 msgid "Enable autobackup"
 msgstr ""
 
 msgid "English"
-msgstr ""
+msgstr "英语"
 
 msgid "An error occurred"
 msgstr ""
 
 msgid "Created"
-msgstr ""
+msgstr "已创建"
 
 msgid "Estimate ID"
 msgstr ""
@@ -756,13 +757,13 @@ msgid "Example rules"
 msgstr ""
 
 msgid "Fail"
-msgstr ""
+msgstr "失败"
 
 msgid "?????"
 msgstr ""
 
 msgid "Fax"
-msgstr ""
+msgstr "传真"
 
 msgid "Field %s is in wrong format"
 msgstr ""
@@ -777,7 +778,7 @@ msgid "Default firewall rule"
 msgstr ""
 
 msgid "First Name"
-msgstr ""
+msgstr "名字"
 
 msgid "You did not enter your first name"
 msgstr ""
@@ -796,10 +797,10 @@ msgid ""
 msgstr ""
 
 msgid "Forgot password?"
-msgstr ""
+msgstr "忘记密码？"
 
 msgid "FREE!"
-msgstr ""
+msgstr "免费！"
 
 msgid " + Free domain!"
 msgstr ""
@@ -808,7 +809,7 @@ msgid "Français"
 msgstr ""
 
 msgid "from"
-msgstr ""
+msgstr "从"
 
 msgid "Function has been scheduled for execution"
 msgstr ""
@@ -826,28 +827,28 @@ msgid "Account is pending upgrade from another order"
 msgstr ""
 
 msgid "Hide"
-msgstr ""
+msgstr "隐藏"
 
 msgid "Portal Home"
-msgstr ""
+msgstr "门户"
 
 msgid "Hostname"
-msgstr ""
+msgstr "主机名"
 
 msgid "Including"
-msgstr ""
+msgstr "包括"
 
 msgid "Supplied TLD is incorrect"
 msgstr ""
 
 msgid "Increase limits"
-msgstr ""
+msgstr "提高限额"
 
 msgid "Bahasa Indonesia"
 msgstr ""
 
 msgid "Interface"
-msgstr ""
+msgstr "界面"
 
 msgid "Account number is invalid"
 msgstr ""
@@ -874,10 +875,10 @@ msgid "Invoice #"
 msgstr ""
 
 msgid "Invoices"
-msgstr ""
+msgstr "账单"
 
 msgid "Allowed IP Access"
-msgstr ""
+msgstr "IP 访问许可"
 
 msgid "IP with Mask in CIDR format"
 msgstr ""
@@ -907,13 +908,13 @@ msgid "Lastest Answer"
 msgstr ""
 
 msgid "Last logged in at: "
-msgstr ""
+msgstr "上次登录："
 
 msgid "from: "
 msgstr ""
 
 msgid "Last Name"
-msgstr ""
+msgstr "姓氏"
 
 msgid "You did not enter your last name"
 msgstr ""
@@ -940,7 +941,7 @@ msgid "Logged in as: "
 msgstr ""
 
 msgid "Login"
-msgstr ""
+msgstr "登录"
 
 msgid "Unable to continue - your account has been closed"
 msgstr ""
@@ -952,20 +953,20 @@ msgid "Login Details"
 msgstr ""
 
 msgid "Logout"
-msgstr ""
+msgstr "注销"
 
 msgid "Logs"
-msgstr ""
+msgstr "日志"
 
 msgid "Main account"
 msgstr ""
 
 msgid "main menu"
-msgstr ""
+msgstr "主菜单"
 
 msgid ""
-"Maintenance mode is currently activated, your clients are not able to access"
-" HostBill"
+"Maintenance mode is currently activated, your clients are not able to "
+"access HostBill"
 msgstr ""
 
 msgid ""
@@ -978,7 +979,7 @@ msgid "Manage account"
 msgstr ""
 
 msgid "Manage contacts"
-msgstr ""
+msgstr "管理联系人"
 
 msgid "Manage your account details"
 msgstr ""
@@ -987,25 +988,25 @@ msgid "Manage vouchers"
 msgstr ""
 
 msgid "max"
-msgstr ""
+msgstr "最大"
 
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 msgid "Menu"
-msgstr ""
+msgstr "菜单"
 
 msgid "min"
-msgstr ""
+msgstr "最小"
 
 msgid "More"
-msgstr ""
+msgstr "更多"
 
 msgid "More Info"
-msgstr ""
+msgstr "更多信息"
 
 msgid "My services"
-msgstr ""
+msgstr "我的服务"
 
 msgid "Your current services with us"
 msgstr ""
@@ -1014,7 +1015,7 @@ msgid "My Commissions"
 msgstr "我的佣金"
 
 msgid "Details"
-msgstr ""
+msgstr "详细信息"
 
 msgid "DNS Management"
 msgstr "DNS 管理"
@@ -1023,28 +1024,28 @@ msgid "My History"
 msgstr ""
 
 msgid "Services"
-msgstr ""
+msgstr "服务"
 
 msgid "Database Connection Error. Check configuration"
 msgstr ""
 
 msgid "Tickets"
-msgstr ""
+msgstr "工单"
 
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 msgid "Nameserver"
-msgstr ""
+msgstr "DNS 服务器"
 
 msgid "Nameservers"
-msgstr ""
+msgstr "DNS 服务器"
 
 msgid "Navigation"
-msgstr ""
+msgstr "导航"
 
 msgid "Need help?"
-msgstr ""
+msgstr "需要帮助？"
 
 msgid ""
 "Your account has been created, but it requires verification. Please check "
@@ -1055,13 +1056,13 @@ msgid "Total net price"
 msgstr ""
 
 msgid "Server status"
-msgstr ""
+msgstr "服务状态"
 
 msgid "Information about our servers at a glance"
 msgstr ""
 
 msgid "Network"
-msgstr ""
+msgstr "网络"
 
 msgid ""
 "Using this section you can check current server statuses we host your "
@@ -1069,13 +1070,13 @@ msgid ""
 msgstr ""
 
 msgid "Store ACH details"
-msgstr ""
+msgstr "保存 ACH 信息"
 
 msgid "New Password"
-msgstr ""
+msgstr "新密码"
 
 msgid "Add New Record"
-msgstr ""
+msgstr "添加新记录"
 
 msgid "Add new tag"
 msgstr ""
@@ -1084,10 +1085,10 @@ msgid "Next"
 msgstr "下一步"
 
 msgid "Next Due Date"
-msgstr ""
+msgstr "下个到期日"
 
 msgid "Next invoice total"
-msgstr ""
+msgstr "下次发票合计"
 
 msgid "You did not stored your Bank account details yet"
 msgstr ""
@@ -1099,19 +1100,19 @@ msgid "No IPs are assigned for this account yet"
 msgstr ""
 
 msgid "None"
-msgstr ""
+msgstr "无"
 
 msgid "Your access privileges do not allow you to perform this action"
 msgstr ""
 
 msgid "No services yet"
-msgstr ""
+msgstr "无服务"
 
 msgid "No tags defined"
 msgstr ""
 
 msgid "Nothing to display"
-msgstr ""
+msgstr "没有要显示的内容"
 
 msgid "You are not logged in"
 msgstr ""
@@ -1120,40 +1121,40 @@ msgid "-"
 msgstr ""
 
 msgid "Once"
-msgstr ""
+msgstr "一次"
 
 msgid "Opened Support Tickets"
 msgstr ""
 
 msgid "Open New Support Ticket"
-msgstr ""
+msgstr "新工单"
 
 msgid "Options"
-msgstr ""
+msgstr "选择"
 
 msgid "Or"
 msgstr ""
 
 msgid "Order"
-msgstr ""
+msgstr "订购"
 
 msgid "Order Now!"
-msgstr ""
+msgstr "立即订购！"
 
 msgid "Order Renewal"
-msgstr ""
+msgstr "续费"
 
 msgid "Original"
-msgstr ""
+msgstr "原始"
 
 msgid "Operating System"
-msgstr ""
+msgstr "操作系统"
 
 msgid "OS Template"
-msgstr ""
+msgstr "操作系統樣式"
 
 msgid "Other"
-msgstr ""
+msgstr "其他"
 
 msgid "Overage"
 msgstr ""
@@ -1162,13 +1163,13 @@ msgid "Overage rate"
 msgstr ""
 
 msgid "Overview"
-msgstr ""
+msgstr "概述"
 
 msgid "Quadrennially"
-msgstr ""
+msgstr "每四年"
 
 msgid "Quinquennially"
-msgstr ""
+msgstr "每五年"
 
 msgid "Page:"
 msgstr ""
@@ -1189,40 +1190,40 @@ msgid "Password requires at least one uppercase character"
 msgstr ""
 
 msgid "Forgot your password?"
-msgstr ""
+msgstr "忘记密码？"
 
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 msgid "Repeat Password"
-msgstr ""
+msgstr "重复密码"
 
 msgid "You did not enter a password"
-msgstr ""
+msgstr "您没有输入密码"
 
 msgid "Your password changed"
-msgstr ""
+msgstr "密码已修改"
 
 msgid "Password cannot be empty"
-msgstr ""
+msgstr "密码不能为空"
 
 msgid "Passwords do not match"
-msgstr ""
+msgstr "两次输入的密码不符"
 
 msgid "Payment"
 msgstr "支付"
 
 msgid "Payment Fee"
-msgstr ""
+msgstr "付款费用"
 
 msgid "Payment details"
-msgstr ""
+msgstr "付款详情"
 
 msgid "Payment succesfull"
-msgstr ""
+msgstr "支付成功"
 
 msgid "Payment Method"
-msgstr ""
+msgstr "支付方式"
 
 msgid "Payouts"
 msgstr ""
@@ -1231,19 +1232,19 @@ msgid "Sent in PDF form, as agreed in Terms and Conditions"
 msgstr ""
 
 msgid "Period"
-msgstr ""
+msgstr "周期"
 
 msgid "per"
-msgstr ""
+msgstr "每"
 
 msgid "year"
-msgstr ""
+msgstr "年"
 
 msgid "years"
-msgstr ""
+msgstr "年"
 
 msgid "Phone Number"
-msgstr ""
+msgstr "电话号码"
 
 msgid "You did not enter your phone number"
 msgstr ""
@@ -1252,10 +1253,10 @@ msgid "Phone Country Code"
 msgstr ""
 
 msgid "Phone"
-msgstr ""
+msgstr "电话"
 
 msgid "Place new Order"
-msgstr ""
+msgstr "新订单"
 
 msgid "Please login to your account"
 msgstr ""
@@ -1267,40 +1268,40 @@ msgid "Popular categories"
 msgstr ""
 
 msgid "Port"
-msgstr ""
+msgstr "端口"
 
 msgid "Portugues"
 msgstr ""
 
 msgid "Postal Code"
-msgstr ""
+msgstr "邮政编码"
 
 msgid "You did not enter your postal code"
 msgstr ""
 
 msgid "Over-usage Fee"
-msgstr ""
+msgstr "超额费用"
 
 msgid "Preview"
-msgstr ""
+msgstr "预览"
 
 msgid "Previous"
-msgstr ""
+msgstr "上一个"
 
 msgid "Price"
-msgstr ""
+msgstr "售价"
 
 msgid "Priority"
-msgstr ""
+msgstr "优先级"
 
 msgid "Proceed"
-msgstr ""
+msgstr "继续"
 
 msgid "Proceed to cart"
-msgstr ""
+msgstr "到购物车"
 
 msgid "Contacts "
-msgstr ""
+msgstr "联系人"
 
 msgid "Pro Forma Invoice"
 msgstr ""
@@ -1318,19 +1319,19 @@ msgid "Pro Rata"
 msgstr ""
 
 msgid "Protocol"
-msgstr ""
+msgstr "协议"
 
 msgid "public"
-msgstr ""
+msgstr "公共的"
 
 msgid "Public IP"
-msgstr ""
+msgstr "公网 IP"
 
 msgid "Published: "
 msgstr ""
 
 msgid "Qty"
-msgstr ""
+msgstr "数量"
 
 msgid "Read entire entry &raquo;"
 msgstr ""
@@ -1339,59 +1340,59 @@ msgid "Re-connect"
 msgstr ""
 
 msgid "Recovery"
-msgstr ""
+msgstr "恢复"
 
 msgid "Reference Number"
 msgstr ""
 
 msgid "Refresh"
-msgstr ""
+msgstr "刷新"
 
 msgid "Register Domain"
-msgstr ""
+msgstr "注册域名"
 
 msgid ""
 "Enter a domain names below to see if they are available for registration."
 msgstr ""
 
 msgid "Register"
-msgstr ""
+msgstr "注册"
 
 msgid "Registered"
-msgstr ""
+msgstr "已注册"
 
 msgid "Registrant"
-msgstr ""
+msgstr "注册人"
 
 msgid "Registrant contact:"
-msgstr ""
+msgstr "注册人联系人："
 
 msgid "Related invoice"
-msgstr ""
+msgstr "相关发票"
 
 msgid "Related service"
-msgstr ""
+msgstr "相关服务"
 
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 msgid "Remove ACH details"
-msgstr ""
+msgstr "删除 ACH 信息"
 
 msgid "Are you sure you wish to remove ACH details?"
 msgstr ""
 
 msgid "Renew"
-msgstr ""
+msgstr "续费"
 
 msgid "Renew not available."
-msgstr ""
+msgstr "不可续费"
 
 msgid "Reply Added"
-msgstr ""
+msgstr "已回复"
 
 msgid "Reseller"
-msgstr ""
+msgstr "分销商"
 
 msgid "Registered Clients Only"
 msgstr ""
@@ -1442,7 +1443,7 @@ msgid "Rule formats"
 msgstr ""
 
 msgid "Save Changes"
-msgstr ""
+msgstr "保存更改"
 
 msgid "Savings"
 msgstr ""
@@ -1451,7 +1452,7 @@ msgid "Script"
 msgstr ""
 
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 msgid "Search our knowledgebase"
 msgstr ""
@@ -1460,19 +1461,19 @@ msgid "Search yor services.."
 msgstr ""
 
 msgid "Security"
-msgstr ""
+msgstr "安全"
 
 msgid "Send me my password"
 msgstr ""
 
 msgid "Servers"
-msgstr ""
+msgstr "服务器"
 
 msgid "Product/Service"
-msgstr ""
+msgstr "产品/服务"
 
 msgid "Service Management"
-msgstr ""
+msgstr "服务管理"
 
 msgid ""
 "You currently don't have any services with us. Make sure to check our "
@@ -1480,43 +1481,43 @@ msgid ""
 msgstr ""
 
 msgid "Service upgrade"
-msgstr ""
+msgstr "服务升级"
 
 msgid "Setup Fee"
-msgstr ""
+msgstr "安装费"
 
 msgid "Setup Your Plan"
-msgstr ""
+msgstr "设置你的计划"
 
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 msgid "show"
-msgstr ""
+msgstr "显示"
 
 msgid "Sign in"
-msgstr ""
+msgstr "登陆"
 
 msgid "Single IP"
-msgstr ""
+msgstr "单 IP"
 
 msgid "Size"
-msgstr ""
+msgstr "规格"
 
 msgid "Solved"
-msgstr ""
+msgstr "已解决"
 
 msgid "Source NAT"
-msgstr ""
+msgstr "源 NAT"
 
 msgid "Espanol"
 msgstr ""
 
 msgid "Source Address"
-msgstr ""
+msgstr "源地址"
 
 msgid "SSH Keys"
-msgstr ""
+msgstr "SSH 密钥"
 
 msgid "%s is required for %s contact"
 msgstr ""
@@ -1525,10 +1526,10 @@ msgid "%s is required for Organization Details"
 msgstr ""
 
 msgid "Start a Chat"
-msgstr ""
+msgstr "开始聊天"
 
 msgid "State"
-msgstr ""
+msgstr "州/省"
 
 msgid "You did not enter your state"
 msgstr ""
@@ -1537,37 +1538,37 @@ msgid "Statistics since"
 msgstr ""
 
 msgid "Status"
-msgstr ""
+msgstr "状态"
 
 msgid "Step"
-msgstr ""
+msgstr "步骤"
 
 msgid "Steps"
-msgstr ""
+msgstr "步骤"
 
 msgid "Subdomain"
-msgstr ""
+msgstr "子域"
 
 msgid "Subject"
-msgstr ""
+msgstr "主题"
 
 msgid "Submit"
-msgstr ""
+msgstr "发送"
 
 msgid "Subtotal:"
-msgstr ""
+msgstr "小计："
 
 msgid "Success"
-msgstr ""
+msgstr "成功"
 
 msgid "Changes saved "
-msgstr ""
+msgstr "修改已保存"
 
 msgid "Summary"
-msgstr ""
+msgstr "概要"
 
 msgid "Support"
-msgstr ""
+msgstr "支持"
 
 msgid "Find answer to your questions"
 msgstr ""
@@ -1588,10 +1589,10 @@ msgid "Svenska"
 msgstr ""
 
 msgid "Tags"
-msgstr ""
+msgstr "标签"
 
 msgid "Tax Amount"
-msgstr ""
+msgstr "税额"
 
 msgid "Technical contact:"
 msgstr ""
@@ -1647,13 +1648,13 @@ msgid "This value is too short. It should have %s characters or more."
 msgstr ""
 
 msgid "Tickets Archive"
-msgstr ""
+msgstr "工单存档"
 
 msgid "Department does not exist"
 msgstr ""
 
 msgid "Support Tickets"
-msgstr ""
+msgstr "工单"
 
 msgid "Tickets closed:"
 msgstr ""
@@ -1662,10 +1663,10 @@ msgid "Tickets opened:"
 msgstr ""
 
 msgid "tickets"
-msgstr ""
+msgstr "工单"
 
 msgid "Ticket status"
-msgstr ""
+msgstr "工单状态"
 
 msgid "Time"
 msgstr ""
@@ -1674,7 +1675,7 @@ msgid "times"
 msgstr ""
 
 msgid "Time zone"
-msgstr ""
+msgstr "时区"
 
 msgid "to"
 msgstr ""
@@ -1686,7 +1687,7 @@ msgid "to manage"
 msgstr ""
 
 msgid "Total"
-msgstr ""
+msgstr "合计"
 
 msgid "Total Recurring:"
 msgstr ""
@@ -1701,10 +1702,10 @@ msgid "Domain is not registered. Check the spelling and try again."
 msgstr ""
 
 msgid "Transfer Domain"
-msgstr ""
+msgstr "转移域名"
 
 msgid "Transfer"
-msgstr ""
+msgstr "转移"
 
 msgid "If you want to move your domain to us, enter it below to begin."
 msgstr ""
@@ -1716,31 +1717,31 @@ msgid "Türk"
 msgstr ""
 
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 msgid "Type the characters you can see in the image below"
 msgstr ""
 
 msgid "Unanswered"
-msgstr ""
+msgstr "未答复"
 
 msgid "Unassign"
-msgstr ""
+msgstr "取消分配"
 
 msgid "Under Maintenance"
-msgstr ""
+msgstr "维护中"
 
 msgid "Unit"
-msgstr ""
+msgstr "单位"
 
 msgid "Unit cost"
-msgstr ""
+msgstr "单位成本"
 
 msgid "unknown"
-msgstr ""
+msgstr "未知"
 
 msgid "Unlimited"
-msgstr ""
+msgstr "无限"
 
 msgid "Used"
 msgstr "已使用"
@@ -1752,37 +1753,37 @@ msgid "An user with this first and last name exists"
 msgstr ""
 
 msgid "History"
-msgstr ""
+msgstr "历史"
 
 msgid "Value"
-msgstr ""
+msgstr "值"
 
 msgid "VAT"
-msgstr ""
+msgstr "增值税"
 
 msgid "view"
-msgstr ""
+msgstr "查看"
 
 msgid "View All"
-msgstr ""
+msgstr "查看全部"
 
 msgid "View Invoice"
-msgstr ""
+msgstr "查看发票"
 
 msgid "View pricing"
-msgstr ""
+msgstr "查看价格"
 
 msgid "Vouchers"
-msgstr ""
+msgstr "票券"
 
 msgid "VPS"
-msgstr ""
+msgstr "VPS"
 
 msgid "View / Search Articles"
 msgstr ""
 
 msgid "Warning"
-msgstr ""
+msgstr "警告"
 
 msgid "Was This article useful for You?"
 msgstr ""
@@ -1794,7 +1795,7 @@ msgid "Welcome back"
 msgstr ""
 
 msgid "Welcome to"
-msgstr ""
+msgstr "欢迎来到"
 
 msgid "We're here to help you."
 msgstr ""
@@ -1815,7 +1816,7 @@ msgid "You may also be interested in"
 msgstr ""
 
 msgid "you are here"
-msgstr ""
+msgstr "您在这里"
 
 msgid "You must select between %s and %s choices."
 msgstr ""
@@ -1827,4 +1828,4 @@ msgid "You must select %s choices or fewer."
 msgstr ""
 
 msgid " Your Information: "
-msgstr ""
+msgstr "您的信息："

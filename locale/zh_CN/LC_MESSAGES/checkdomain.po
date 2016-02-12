@@ -1,12 +1,13 @@
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: HostBill\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-02-12 03:56+0000\n"
+"PO-Revision-Date: 2016-02-12 14:51+0800\n"
 "Last-Translator: \n"
-"Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/hostbill/language/zh_CN/)\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/"
+"hostbill/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,19 +16,19 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 
 msgid "Not Available"
-msgstr ""
+msgstr "不可用"
 
 msgid "Available! Order Now."
-msgstr ""
+msgstr "可用，立即订购！"
 
 msgid "Bulk Domain Search"
-msgstr ""
+msgstr "大量域名检索"
 
 msgid "Check Availability"
 msgstr "检查可用"
 
 msgid "View Domain Pricing"
-msgstr ""
+msgstr "查看价格"
 
 msgid "Enter domain's names to check if they are available for registration."
 msgstr ""
@@ -44,34 +45,34 @@ msgid ""
 msgstr ""
 
 msgid "Min. Years"
-msgstr ""
+msgstr "最小注册年份"
 
 msgid "Register selected"
-msgstr ""
+msgstr "注册所选"
 
 msgid "Single domain search"
-msgstr ""
+msgstr "单个域名检索"
 
 msgid "Start your domain search here..."
-msgstr ""
+msgstr "从这里搜索你的域名"
 
 msgid "Starting at"
-msgstr ""
+msgstr "低至"
 
 msgid "Supported TLDs"
-msgstr ""
+msgstr "支持的顶级域名"
 
 msgid "TLD"
-msgstr ""
+msgstr "顶级域名"
 
 msgid "Transfer your domains from just"
-msgstr ""
+msgstr "从这里转移你的域名"
 
 msgid "Transfer selected"
-msgstr ""
+msgstr "转移所选"
 
 msgid "Unavailable!"
-msgstr ""
+msgstr "不可用！"
 
 msgid "yourdomain"
 msgstr ""

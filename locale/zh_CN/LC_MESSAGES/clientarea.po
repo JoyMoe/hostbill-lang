@@ -1,12 +1,13 @@
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: HostBill\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-02-12 03:57+0000\n"
+"PO-Revision-Date: 2016-02-12 15:11+0800\n"
 "Last-Translator: \n"
-"Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/hostbill/language/zh_CN/)\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/"
+"hostbill/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -163,7 +164,7 @@ msgid "You need at least one successfully completed order before adding funds"
 msgstr ""
 
 msgid "Add allowed IP / range"
-msgstr ""
+msgstr "添加 IP / 子网"
 
 msgid "Additional IPs"
 msgstr ""
@@ -214,8 +215,8 @@ msgid "Administrative contact:"
 msgstr ""
 
 msgid ""
-"After adding new zone you will be able to add/edit its contents\" "
-"class=\"vtip_description"
+"After adding new zone you will be able to add/edit its contents\" class="
+"\"vtip_description"
 msgstr ""
 
 msgid "Algorithm"
@@ -360,10 +361,10 @@ msgid "Basic info about your account."
 msgstr ""
 
 msgid "Billing info"
-msgstr ""
+msgstr "账单信息"
 
 msgid "Billing and Resources"
-msgstr ""
+msgstr "计费和资源"
 
 msgid "Any changes made here will impact following domains:"
 msgstr ""
@@ -406,7 +407,7 @@ msgid "Cancellation Request"
 msgstr ""
 
 msgid "Request Cancellation"
-msgstr ""
+msgstr "请求取消"
 
 msgid "Cancellation Type: "
 msgstr ""
@@ -485,8 +486,8 @@ msgstr ""
 msgid ""
 "We recommend making a custom backup of your system before re-installing. If "
 "you create a custom backup now, then request a re-image, the process will "
-"begin as soon as the backup has been taken, and you can always restore it if"
-" you aren't happy with the new template."
+"begin as soon as the backup has been taken, and you can always restore it "
+"if you aren't happy with the new template."
 msgstr ""
 
 msgid "Clean form"
@@ -558,8 +559,8 @@ msgid "Convert to volume"
 msgstr ""
 
 msgid ""
-"To convert your Snapshot, enter a Label name for your new template and click"
-" the convert button."
+"To convert your Snapshot, enter a Label name for your new template and "
+"click the convert button."
 msgstr ""
 
 msgid ""
@@ -575,14 +576,14 @@ msgid "Log in to control panel"
 msgstr ""
 
 msgid ""
-"These charts show the CPU utilisation of your VPS over several time periods."
-" These can take up to 5 minutes to generate for new systems. Each node "
-"represents 600MHz of processor usage over a 1 minute average. The maximum "
-"will be the number of nodes assigned to the VPS."
+"These charts show the CPU utilisation of your VPS over several time "
+"periods. These can take up to 5 minutes to generate for new systems. Each "
+"node represents 600MHz of processor usage over a 1 minute average. The "
+"maximum will be the number of nodes assigned to the VPS."
 msgstr ""
 
 msgid "CPU Usage"
-msgstr ""
+msgstr "CPU 使用率"
 
 msgid "CPUs"
 msgstr ""
@@ -612,7 +613,7 @@ msgid "Create new volume"
 msgstr ""
 
 msgid "Creating root password"
-msgstr ""
+msgstr "创建 root 密码"
 
 msgid ""
 "Creating VM Snapshot will prevent you from attaching new volumes to the VM "
@@ -628,7 +629,7 @@ msgid "Current status of your invoices and ballance status."
 msgstr ""
 
 msgid "Current IP Address:  "
-msgstr ""
+msgstr "当前的 IP 地址："
 
 msgid "Current package:"
 msgstr ""
@@ -685,13 +686,13 @@ msgid "Date updated"
 msgstr ""
 
 msgid "1 Day Usage"
-msgstr ""
+msgstr "1 天用量"
 
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 msgid "Default names"
-msgstr ""
+msgstr "默认名称"
 
 msgid "New IP Address: "
 msgstr ""
@@ -703,7 +704,7 @@ msgid "Delete NameServer"
 msgstr ""
 
 msgid "Details"
-msgstr ""
+msgstr "详细信息"
 
 msgid "Digest"
 msgstr ""
@@ -727,7 +728,7 @@ msgid "Discount"
 msgstr "折扣"
 
 msgid "Disk Space"
-msgstr ""
+msgstr "磁盘空间"
 
 msgid "Disk Backup"
 msgstr ""
@@ -1033,7 +1034,7 @@ msgid "Download Cert"
 msgstr ""
 
 msgid "Edit Label"
-msgstr ""
+msgstr "编辑标签"
 
 msgid "Edit record"
 msgstr ""
@@ -1191,7 +1192,7 @@ msgid "Forward to:"
 msgstr ""
 
 msgid "Gateway"
-msgstr ""
+msgstr "渠道"
 
 msgid "General settings:"
 msgstr ""
@@ -1274,7 +1275,7 @@ msgid "Ingress"
 msgstr ""
 
 msgid "Initial Root Password"
-msgstr ""
+msgstr "初始化 root 密码"
 
 msgid "Install WordPress on"
 msgstr ""
@@ -1328,13 +1329,13 @@ msgid "IOPS for this Disk"
 msgstr ""
 
 msgid "IP Address:"
-msgstr ""
+msgstr "IP 地址："
 
 msgid "IPs"
 msgstr ""
 
 msgid "IP access/ Subnet"
-msgstr ""
+msgstr "IP / 子网"
 
 msgid "Items in cart"
 msgstr ""
@@ -1373,7 +1374,7 @@ msgid "List My Domains"
 msgstr ""
 
 msgid "List Services"
-msgstr ""
+msgstr "服务列表"
 
 msgid "Load Balancing"
 msgstr ""
@@ -1427,7 +1428,7 @@ msgid "Max snapshots"
 msgstr ""
 
 msgid "Memory"
-msgstr ""
+msgstr "内存"
 
 msgid "Minimum TTL"
 msgstr ""
@@ -1478,7 +1479,7 @@ msgid "Selected network interface will be removed shortly"
 msgstr ""
 
 msgid "Add New Credit Card"
-msgstr ""
+msgstr "添加新信用卡"
 
 msgid ""
 "New domain zone will contain entries cloned from domain you already own"
@@ -1527,16 +1528,16 @@ msgid "No backups"
 msgstr ""
 
 msgid ""
-"There are currently no backups for this VPS. To create one, click the button"
-" above."
+"There are currently no backups for this VPS. To create one, click the "
+"button above."
 msgstr ""
 
 msgid "Backups not available for this VPS"
 msgstr ""
 
 msgid ""
-"You don't have any domains registered with us. Click <a href=\"%s\">here</a>"
-" to register a new domain."
+"You don't have any domains registered with us. Click <a href=\"%s\">here</"
+"a> to register a new domain."
 msgstr ""
 
 msgid "No domains added yet"
@@ -1570,7 +1571,7 @@ msgid "Could not obitain associated ip address"
 msgstr ""
 
 msgid "Old Password"
-msgstr ""
+msgstr "旧密码"
 
 msgid "Your old password is incorrect"
 msgstr ""
@@ -1900,7 +1901,7 @@ msgid "Resend Certificate Email"
 msgstr ""
 
 msgid "Reset Root Password"
-msgstr ""
+msgstr "重设 root 密码"
 
 msgid "Reset Password"
 msgstr ""
@@ -1915,7 +1916,7 @@ msgid "Resource limit reached"
 msgstr ""
 
 msgid "Restore"
-msgstr ""
+msgstr "恢复"
 
 msgid "Result source"
 msgstr ""
@@ -1933,7 +1934,7 @@ msgid "Revert to this snapshot"
 msgstr ""
 
 msgid "Root password"
-msgstr ""
+msgstr "root 密码"
 
 msgid "Round-robin"
 msgstr ""
@@ -2195,7 +2196,7 @@ msgid "To Port"
 msgstr ""
 
 msgid "Amount"
-msgstr ""
+msgstr "金额"
 
 msgid "Balance"
 msgstr ""
@@ -2216,8 +2217,8 @@ msgid "VM has to be switched off before you can reset password."
 msgstr ""
 
 msgid ""
-"This service have some unpaid invoices, cancellation is not possible, please"
-" contact support"
+"This service have some unpaid invoices, cancellation is not possible, "
+"please contact support"
 msgstr ""
 
 msgid "Un-Rescue"
@@ -2242,9 +2243,8 @@ msgid "Upgrade / Downgrade to: "
 msgstr ""
 
 msgid ""
-"Before upgrading/dowgrading you need to pay all <a "
-"href=\"?cmd=clientarea&action=invoices\">outstanding invoices</a> for this "
-"service."
+"Before upgrading/dowgrading you need to pay all <a href=\"?"
+"cmd=clientarea&action=invoices\">outstanding invoices</a> for this service."
 msgstr ""
 
 msgid ""
@@ -2346,8 +2346,8 @@ msgid "VM Recipes"
 msgstr ""
 
 msgid ""
-"VPN allows to connect securely from your home or office network to a private"
-" network in the cloud."
+"VPN allows to connect securely from your home or office network to a "
+"private network in the cloud."
 msgstr ""
 
 msgid "Your VPN access is currently enabled and can be accessed via the IP"
@@ -2379,8 +2379,8 @@ msgstr ""
 msgid ""
 "Your VPS console is shown below. If nothing is displayed, click the black "
 "area and press enter to activate. Please note that the paste function is "
-"unavailable in some browsers. Unless you have changed it, your root password"
-" for this VPS is "
+"unavailable in some browsers. Unless you have changed it, your root "
+"password for this VPS is "
 msgstr ""
 
 msgid "VPS is currently running a task.."
@@ -2452,8 +2452,8 @@ msgid "You have to stop this virtual machine before detaching volumes"
 msgstr ""
 
 msgid ""
-"You must have the private SSH key of the key pair (and passphrase, if it has"
-" one)."
+"You must have the private SSH key of the key pair (and passphrase, if it "
+"has one)."
 msgstr ""
 
 msgid "Your backups are located in"

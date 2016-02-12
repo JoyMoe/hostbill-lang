@@ -1,10 +1,10 @@
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: HostBill\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-02-12 03:58+0000\n"
+"PO-Revision-Date: 2016-02-12 13:28+0800\n"
 "Last-Translator: \n"
 "Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/hostbill/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -15,34 +15,34 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 
 msgid "FTP"
-msgstr ""
+msgstr "FTP"
 
 msgid "HTTP"
-msgstr ""
+msgstr "HTTP"
 
 msgid "IMAP"
-msgstr ""
+msgstr "IMAP"
 
 msgid "Server load"
-msgstr ""
+msgstr "服务器负载"
 
 msgid "MYSQL"
-msgstr ""
+msgstr "MYSQL"
 
 msgid "Enable monitoring"
-msgstr ""
+msgstr "启用监视"
 
 msgid "POP3"
-msgstr ""
+msgstr "POP3"
 
 msgid "SSH"
-msgstr ""
+msgstr "SSH"
 
 msgid "Server uptime"
-msgstr ""
+msgstr "服务器运行时长"
 
 msgid "Unavailable"
-msgstr ""
+msgstr "不可用"
 
 msgid "Shows current status of your servers."
-msgstr ""
+msgstr "显示你的服务器的当前状态。"
