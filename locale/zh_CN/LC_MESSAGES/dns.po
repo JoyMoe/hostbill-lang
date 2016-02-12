@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HostBill\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-02-12 13:28+0800\n"
+"PO-Revision-Date: 2016-02-12 23:21+0800\n"
 "Last-Translator: \n"
 "Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/hostbill/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -15,46 +15,46 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 
 msgid "Add domain"
-msgstr ""
+msgstr "添加域名"
 
 msgid "Back to DNS domain list"
-msgstr ""
+msgstr "回到域名列表"
 
 msgid "Do you really want to delete this domain?"
-msgstr ""
+msgstr "确定删除这个域名？"
 
 msgid "Do you really want to delete this record?"
-msgstr ""
+msgstr "确定删除这个记录？"
 
 msgid "Data"
-msgstr ""
+msgstr "数据"
 
 msgid "Use different IP"
-msgstr ""
+msgstr "使用不同的 IP"
 
 msgid "Domain added"
-msgstr ""
+msgstr "域名已添加"
 
 msgid "Domain  exists in the system"
-msgstr ""
+msgstr "域名存在或由其他人管理"
 
 msgid "Domain removed"
-msgstr ""
+msgstr "域名已删除"
 
 msgid "Edit DNS Zone"
-msgstr ""
+msgstr "编辑 DNS 域"
 
 msgid "Record added"
-msgstr ""
+msgstr "记录已添加"
 
 msgid "Record changed"
-msgstr ""
+msgstr "记录已修改"
 
 msgid "Record deleted"
-msgstr ""
+msgstr "记录已删除"
 
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 msgid "DNS Management"
 msgstr "DNS 管理"
@@ -63,28 +63,28 @@ msgid "Domain"
 msgstr "域"
 
 msgid "Couldn't get DNS records from server"
-msgstr ""
+msgstr "无法从服务器获取 DNS 记录"
 
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 msgid "Add new domain"
-msgstr ""
+msgstr "添加新域名"
 
 msgid "Please change your name servers to:"
-msgstr ""
+msgstr "请修改你的 NS 服务器为："
 
 msgid "Save Changes"
-msgstr ""
+msgstr "保存更改"
 
 msgid "Service Unavailable"
-msgstr ""
+msgstr "服务不可用"
 
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 msgid "Domain cannot be empty"
-msgstr ""
+msgstr "域名不能为空"
 
 msgid "Wrong IP"
-msgstr ""
+msgstr "错误的 IP"
