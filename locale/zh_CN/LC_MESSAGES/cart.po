@@ -1,17 +1,18 @@
-#
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: HostBill\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2016-02-12 04:07+0000\n"
+"Last-Translator: kinosang <me@7in0.me>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/hostbill/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh_CN\n"
-"X-Generator: Poedit 1.8.4\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.4\n"
 
 msgid "About company"
 msgstr "关于我们"
@@ -118,8 +119,8 @@ msgid "Processing Payment"
 msgstr ""
 
 msgid ""
-"Please wait while your payment is being processed, if you are not redirected "
-"in 5 seconds please refresh this page."
+"Please wait while your payment is being processed, if you are not redirected"
+" in 5 seconds please refresh this page."
 msgstr ""
 
 msgid "Change"
@@ -221,7 +222,7 @@ msgstr "域名注册"
 msgid "Domain Transfer"
 msgstr "域名转移"
 
-msgid "Use main contact details Iâll provide during checkout "
+msgid "Use main contact details I’ll provide during checkout "
 msgstr ""
 
 msgid "Use my details as domain contacts"
@@ -285,30 +286,30 @@ msgid "Organization unit"
 msgstr "单位名"
 
 msgid "Paste your CSR here:"
-msgstr ""
+msgstr "在这里粘贴 CSR ："
 
 msgid "Payment"
 msgstr "支付"
 
 msgid "Step 1: Choose your certificate"
-msgstr ""
+msgstr "第 1 步：选择你的证书"
 
 msgid "Step 2: Submit Certificate Signing Request"
-msgstr ""
+msgstr "第 2 步：提交证书签发请求"
 
 msgid ""
 "Before we can issue a certificate, you will need to generate a Certificate "
 "Signing Request (CSR)."
-msgstr ""
+msgstr "在我们签发证书之前，你需要提交证书签发请求(CSR)"
 
 msgid "Please enter the domain name in order to proceed"
-msgstr ""
+msgstr "请输入订单中的域名以继续"
 
 msgid "Step 2: Common Name"
-msgstr ""
+msgstr "第 2 步：公用名（Common Name）"
 
 msgid "Step 3: Contacts"
-msgstr ""
+msgstr "第 3 步：联系人"
 
 msgid "Tech Contact"
 msgstr "技术联系人"
@@ -316,8 +317,8 @@ msgstr "技术联系人"
 msgid ""
 "The full legal name of your organization. Example: ExampleCorp, Inc.<br/> "
 "Enter details of the organization that owns the domain. If you are "
-"purchasing this certificate for another company, do not use your own company "
-"details here"
+"purchasing this certificate for another company, do not use your own company"
+" details here"
 msgstr ""
 
 msgid "The organization unit that you wish to register this certificate for."
@@ -344,8 +345,8 @@ msgid "What is a Certificate Signing Request (CSR)?"
 msgstr ""
 
 msgid ""
-"Certificate signing request (also CSR or certification request) is a message "
-"sent from an applicant to a certificate authority in order to apply for a "
+"Certificate signing request (also CSR or certification request) is a message"
+" sent from an applicant to a certificate authority in order to apply for a "
 "digital identity certificate.<br /><br /> It contains information that will "
 "be included in your certificate such as:<br /> - Organization name<br /> - "
 "Common name (domain name)<br /> - Location<br /> - Country <br />"
@@ -358,7 +359,7 @@ msgid "In order to transfer your domain, you must provide the EPP Code"
 msgstr ""
 
 msgid "Epp Code:"
-msgstr "EPP 授权码："
+msgstr "域名转移授权码："
 
 msgid "Example"
 msgstr "示例"
@@ -433,7 +434,7 @@ msgid "I will update the nameservers on my existing domain"
 msgstr ""
 
 msgid "Leave us a message"
-msgstr ""
+msgstr "给我们留言"
 
 msgid "Login to your account"
 msgstr "登陆你的帐号"
@@ -466,8 +467,8 @@ msgid "Next"
 msgstr "下一步"
 
 msgid ""
-"Go to <a href=\"admin/index.php?cmd=managemodules&action=payment\" target="
-"\"_blank\">Admin Settings: Modules</a> and activate payment gateway "
+"Go to <a href=\"admin/index.php?cmd=managemodules&action=payment\" "
+"target=\"_blank\">Admin Settings: Modules</a> and activate payment gateway "
 msgstr ""
 
 msgid "There are no customization options"

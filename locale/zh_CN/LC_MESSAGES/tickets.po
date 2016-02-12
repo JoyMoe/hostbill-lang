@@ -1,15 +1,17 @@
-#
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: HostBill\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
+"PO-Revision-Date: 2016-02-12 03:59+0000\n"
 "Last-Translator: \n"
-"Language-Team: \n"
+"Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/hostbill/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 1.8.4\n"
 
 msgid "Add another"
@@ -90,7 +92,9 @@ msgstr ""
 msgid "Minute(s)"
 msgstr ""
 
-msgid "Do you have a question or problem? The support ticket system allows us to respond to your inquiries. Submit a ticket and we will get back to you."
+msgid ""
+"Do you have a question or problem? The support ticket system allows us to "
+"respond to your inquiries. Submit a ticket and we will get back to you."
 msgstr ""
 
 msgid "Name"
@@ -99,13 +103,18 @@ msgstr ""
 msgid "New Ticket"
 msgstr ""
 
-msgid "If you cannot find a solution to your problem in our <a href=\"?cmd=knowledgebase\">knowledgebase</a>, you can submit a ticket."
+msgid ""
+"If you cannot find a solution to your problem in our <a "
+"href=\"?cmd=knowledgebase\">knowledgebase</a>, you can submit a ticket."
 msgstr ""
 
-msgid "You have not submitted a ticket yet.<br/> Try finding answer to your question in our <a href=\"?cmd=knowledgebase\">knowledgebase</a>"
+msgid ""
+"You have not submitted a ticket yet.<br/> Try finding answer to your "
+"question in our <a href=\"?cmd=knowledgebase\">knowledgebase</a>"
 msgstr ""
 
-msgid "Your issue is not yet resolved? Use button below to re-open this ticket."
+msgid ""
+"Your issue is not yet resolved? Use button below to re-open this ticket."
 msgstr ""
 
 msgid "Priority"
@@ -123,13 +132,16 @@ msgstr ""
 msgid "Reply:"
 msgstr ""
 
-msgid "Provide ticket details below. When reporting a problem make sure to provide as much relevant information as possible"
+msgid ""
+"Provide ticket details below. When reporting a problem make sure to provide "
+"as much relevant information as possible"
 msgstr ""
 
 msgid "CLOSE ISSUE"
 msgstr ""
 
-msgid "Your issue is already resolved? Click button below to close this ticket"
+msgid ""
+"Your issue is already resolved? Click button below to close this ticket"
 msgstr ""
 
 msgid "Search, create and delete tickets here."
@@ -144,7 +156,9 @@ msgstr ""
 msgid "Submit reply"
 msgstr ""
 
-msgid "Your support ticket has been created. We will get back to you as soon as possible - you will receive notification on email address you've provided."
+msgid ""
+"Your support ticket has been created. We will get back to you as soon as "
+"possible - you will receive notification on email address you've provided."
 msgstr ""
 
 msgid "Ticket Created!"
