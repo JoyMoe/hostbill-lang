@@ -1791,7 +1791,7 @@ msgid "was useful"
 msgstr ""
 
 msgid "Welcome back"
-msgstr ""
+msgstr "欢迎回来"
 
 msgid "Welcome to"
 msgstr "欢迎来到"

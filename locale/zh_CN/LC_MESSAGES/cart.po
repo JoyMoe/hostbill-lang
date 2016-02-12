@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HostBill\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-02-12 13:28+0800\n"
+"PO-Revision-Date: 2016-02-12 23:02+0800\n"
 "Last-Translator: kinosang <me@7in0.me>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/"
 "hostbill/language/zh_CN/)\n"
@@ -179,10 +179,10 @@ msgid "Contact information"
 msgstr "联系信息"
 
 msgid "Continue to Step 2"
-msgstr "前往第 2 步"
+msgstr "前往步骤 2"
 
 msgid "Continue to step"
-msgstr ""
+msgstr "前往步骤 "
 
 msgid "Coupon Code"
 msgstr "优惠码"
@@ -266,13 +266,13 @@ msgid "CSR"
 msgstr ""
 
 msgid "Here is an example of CSR generation:"
-msgstr ""
+msgstr "这是一个 CSR 范例："
 
 msgid "Yes, I have CSR ready."
-msgstr ""
+msgstr "我有 CSR。"
 
 msgid "I don't have my CSR ready. I will submit it after I place the order."
-msgstr ""
+msgstr "我没有 CSR，我将在完成订单后提交。"
 
 msgid "Optional"
 msgstr "可选"
@@ -696,34 +696,34 @@ msgid "Setup Your"
 msgstr ""
 
 msgid "Sign Up"
-msgstr ""
+msgstr "注册"
 
 msgid "Software"
-msgstr ""
+msgstr "软件"
 
 msgid "Starting at"
 msgstr ""
 
 msgid "Step"
-msgstr ""
+msgstr "步骤"
 
 msgid "Step 1"
-msgstr ""
+msgstr "步骤 1"
 
 msgid "Step 2"
-msgstr ""
+msgstr "步骤 2"
 
 msgid "Storage Space"
-msgstr ""
+msgstr "磁盘空间"
 
 msgid "Submit Certificate Signing Request"
-msgstr ""
+msgstr "提交证书签发请求"
 
 msgid "Submit Order"
-msgstr ""
+msgstr "提交订单"
 
 msgid "Submit your order"
-msgstr ""
+msgstr "提交订单"
 
 msgid "Sub-product"
 msgstr ""
@@ -741,16 +741,16 @@ msgid "Terms of Service"
 msgstr ""
 
 msgid "Total price"
-msgstr ""
+msgstr "总价"
 
 msgid "Transfer Domain"
-msgstr ""
+msgstr "转移域名"
 
 msgid "Use promotional code"
-msgstr ""
+msgstr "使用优惠码"
 
 msgid "Use our default nameservers"
-msgstr ""
+msgstr "使用我们的默认 DNS"
 
 msgid "Use registrant information"
 msgstr ""
