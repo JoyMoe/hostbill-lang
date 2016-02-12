@@ -1,6 +1,16 @@
 #
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
 
 msgid "Add new contact"
 msgstr ""
@@ -92,10 +102,9 @@ msgstr ""
 msgid "Contact details"
 msgstr ""
 
-msgid "Enable access to your resources with us - allow to pay invoices, manage services &amp; more"
-msgstr ""
-
-msgid "View basic details"
+msgid ""
+"Enable access to your resources with us - allow to pay invoices, manage "
+"services &amp; more"
 msgstr ""
 
 msgid "View billing info"
