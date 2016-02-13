@@ -1,8 +1,5 @@
 <?php
 
-putenv('LC_ALL=zh_CN');
-setlocale(LC_ALL, 'zh_CN');
-
 function gen($client = true)
 {
     if ($client) {
@@ -13,7 +10,7 @@ function gen($client = true)
 
     require_once $dir . '/english.php';
 
-    $fh = fopen($dir . '/chinese2.php', 'w');
+    $fh = fopen($dir . '/' . getenv('LC_ALL') . '.php', 'w');
     fwrite($fh, "<?php\n");
 
     foreach ($lang as $key => $value) {
