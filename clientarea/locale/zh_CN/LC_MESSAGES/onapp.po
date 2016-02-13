@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HostBill\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-02-12 13:28+0800\n"
+"PO-Revision-Date: 2016-02-13 20:38+0800\n"
 "Last-Translator: \n"
 "Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/"
 "hostbill/language/zh_CN/)\n"
@@ -16,46 +16,46 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 
 msgid "Autobackup"
-msgstr ""
+msgstr "自动备份"
 
 msgid "Billing"
-msgstr ""
+msgstr "账单"
 
 msgid "Built"
 msgstr ""
 
 msgid "Disk"
-msgstr ""
+msgstr "磁盘"
 
 msgid "Firewall"
-msgstr ""
+msgstr "防火墙"
 
 msgid "Interval:"
 msgstr ""
 
 msgid "Left"
-msgstr ""
+msgstr "剩余"
 
 msgid "List Servers"
 msgstr ""
 
 msgid "Overview"
-msgstr ""
+msgstr "概述"
 
 msgid "RAM"
-msgstr ""
+msgstr "内存"
 
 msgid "Total due"
-msgstr ""
+msgstr "合计超额"
 
 msgid "Total"
-msgstr ""
+msgstr "合计"
 
 msgid "Usage"
-msgstr ""
+msgstr "用量"
 
 msgid "Zone"
-msgstr ""
+msgstr "域"
 
 msgid "Add new network interface"
 msgstr ""
@@ -64,7 +64,7 @@ msgid "Add new server"
 msgstr ""
 
 msgid "All servers"
-msgstr ""
+msgstr "全部服务器"
 
 msgid "Assign automatically"
 msgstr ""
@@ -79,31 +79,31 @@ msgid "Backup every"
 msgstr ""
 
 msgid "Backups"
-msgstr ""
+msgstr "备份"
 
 msgid "Backup schedule"
-msgstr ""
+msgstr "备份计划"
 
 msgid "Bandwidth used"
-msgstr ""
+msgstr "带宽用量"
 
 msgid "Cancel VPS"
-msgstr ""
+msgstr "取消 VPS"
 
 msgid "Your cloud servers"
 msgstr ""
 
 msgid "Console"
-msgstr ""
+msgstr "控制台"
 
 msgid "CPU Cores"
-msgstr ""
+msgstr "CPU 核心"
 
 msgid "CPU Priority"
-msgstr ""
+msgstr "CPU 优先级"
 
 msgid "CPU Usage"
-msgstr ""
+msgstr "CPU 使用率"
 
 msgid "Create new server"
 msgstr ""
@@ -117,10 +117,10 @@ msgid ""
 msgstr ""
 
 msgid "Disks"
-msgstr ""
+msgstr "磁盘"
 
 msgid "Disk Space"
-msgstr ""
+msgstr "磁盘空间"
 
 msgid "Month (yyyy-mm):"
 msgstr ""
@@ -144,10 +144,10 @@ msgid "if memory usage"
 msgstr ""
 
 msgid "Interface"
-msgstr ""
+msgstr "界面"
 
 msgid "Interfaces"
-msgstr ""
+msgstr "界面"
 
 msgid "IP Addresses"
 msgstr ""
@@ -156,7 +156,7 @@ msgid "is above"
 msgstr ""
 
 msgid "Locked"
-msgstr ""
+msgstr "已锁定"
 
 msgid "minutes"
 msgstr ""
@@ -176,10 +176,10 @@ msgid "Network speed:"
 msgstr ""
 
 msgid "Network Usage"
-msgstr ""
+msgstr "网络用量"
 
 msgid "Network"
-msgstr ""
+msgstr "网络"
 
 msgid "Create new schedule"
 msgstr ""
@@ -224,13 +224,13 @@ msgid "Price per hour"
 msgstr ""
 
 msgid "Primary"
-msgstr ""
+msgstr "主要"
 
 msgid "Share percentage of CPU per 1 core"
 msgstr ""
 
 msgid "Reboot"
-msgstr ""
+msgstr "重启"
 
 msgid ""
 "Are you sure you want to reboot in recovery mode? Please note: In recovery "
@@ -238,7 +238,7 @@ msgid ""
 msgstr ""
 
 msgid "Rebuild"
-msgstr ""
+msgstr "重建"
 
 msgid "Are you sure? Note: VM will be rebooted."
 msgstr ""
@@ -247,13 +247,13 @@ msgid "Rebuild Network"
 msgstr ""
 
 msgid "Recovery"
-msgstr ""
+msgstr "恢复"
 
 msgid "refresh"
-msgstr ""
+msgstr "刷新"
 
 msgid "Resources"
-msgstr ""
+msgstr "资源"
 
 msgid ""
 " Below you can find list of resources available. Use upgrade/downgrade "
@@ -267,10 +267,10 @@ msgid "Scale"
 msgstr ""
 
 msgid "add"
-msgstr ""
+msgstr "添加"
 
 msgid "Apply"
-msgstr ""
+msgstr "应用"
 
 msgid "for"
 msgstr ""
@@ -282,13 +282,13 @@ msgid "Scale VM"
 msgstr ""
 
 msgid "Server details"
-msgstr ""
+msgstr "服务器详情"
 
 msgid "Server is performing task,"
 msgstr ""
 
 msgid "Standard"
-msgstr ""
+msgstr "标准"
 
 msgid "Standard (primary)"
 msgstr ""
@@ -299,7 +299,7 @@ msgid ""
 msgstr ""
 
 msgid "Storage"
-msgstr ""
+msgstr "存储"
 
 msgid "Storage DC"
 msgstr ""
@@ -332,7 +332,7 @@ msgid "Upgrade / Downgrade"
 msgstr ""
 
 msgid "Upgrade"
-msgstr ""
+msgstr "升级"
 
 msgid "Upgrade package"
 msgstr ""
@@ -349,13 +349,13 @@ msgid "Note: any action on interface will reboot this virtual machine"
 msgstr ""
 
 msgid "day"
-msgstr ""
+msgstr "天"
 
 msgid "month"
-msgstr ""
+msgstr "月"
 
 msgid "week"
-msgstr ""
+msgstr "周"
 
 msgid "year"
-msgstr ""
+msgstr "年"

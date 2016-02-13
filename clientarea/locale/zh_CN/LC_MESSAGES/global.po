@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HostBill\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-02-12 23:34+0800\n"
+"PO-Revision-Date: 2016-02-13 20:50+0800\n"
 "Last-Translator: \n"
 "Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/"
 "hostbill/language/zh_CN/)\n"
@@ -34,7 +34,7 @@ msgid "Add"
 msgstr "添加"
 
 msgid "Annually"
-msgstr "年度"
+msgstr "每年"
 
 msgid "Answered"
 msgstr "已回复"
@@ -343,7 +343,7 @@ msgid "Back"
 msgstr "返回"
 
 msgid "Back to service details"
-msgstr "返回到服务详细信息"
+msgstr "返回到服务详情"
 
 msgid "Backups"
 msgstr "备份"
@@ -434,7 +434,7 @@ msgid "Credit Card"
 msgstr "信用卡"
 
 msgid " Credit Card details: "
-msgstr "信用卡详细信息："
+msgstr "信用卡详情："
 
 msgid "Use Existing Card"
 msgstr "使用现有卡"
@@ -953,7 +953,7 @@ msgid "Unable to continue - your account is not active"
 msgstr ""
 
 msgid "Login Details"
-msgstr ""
+msgstr "登录信息"
 
 msgid "Logout"
 msgstr "注销"
@@ -1018,7 +1018,7 @@ msgid "My Commissions"
 msgstr "我的佣金"
 
 msgid "Details"
-msgstr "详细信息"
+msgstr "详情"
 
 msgid "DNS Management"
 msgstr "DNS 管理"
@@ -1154,7 +1154,7 @@ msgid "Operating System"
 msgstr "操作系统"
 
 msgid "OS Template"
-msgstr "操作系統樣式"
+msgstr "操作系统模板"
 
 msgid "Other"
 msgstr "其他"
@@ -1601,7 +1601,7 @@ msgid "Tax Amount"
 msgstr "税额"
 
 msgid "Technical contact:"
-msgstr ""
+msgstr "技术联系人："
 
 msgid ""
 "This value length is invalid. It should be between %s and %s characters long."
@@ -1686,7 +1686,7 @@ msgid "to"
 msgstr ""
 
 msgid "to expire"
-msgstr ""
+msgstr "到期"
 
 msgid "to manage"
 msgstr ""

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HostBill\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-02-12 23:32+0800\n"
+"PO-Revision-Date: 2016-02-13 21:08+0800\n"
 "Last-Translator: \n"
 "Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/"
 "hostbill/language/zh_CN/)\n"
@@ -16,52 +16,52 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 
 msgid "Console"
-msgstr ""
+msgstr "控制台"
 
 msgid "Create new Virtual Machine"
-msgstr ""
+msgstr "新建虚拟机"
 
 msgid "DNS Management"
 msgstr "DNS 管理"
 
 msgid "Delete VPS"
-msgstr ""
+msgstr "删除 VPS"
 
 msgid "Destination"
-msgstr ""
+msgstr "目标"
 
 msgid "Domain Forwarding"
-msgstr ""
+msgstr "域名转发"
 
 msgid "Email Forwarding"
 msgstr "电子邮件转发"
 
 msgid "EPP Code"
-msgstr ""
+msgstr "授权码"
 
 msgid "Expiring Domains"
-msgstr ""
+msgstr "即将到期域名"
 
 msgid "Force Power Off"
-msgstr ""
+msgstr "强制关机"
 
 msgid "Graceful Reboot"
-msgstr ""
+msgstr "常规重启"
 
 msgid "Interval:"
-msgstr ""
+msgstr "间隔："
 
 msgid "Legend"
 msgstr ""
 
 msgid "Licenses"
-msgstr ""
+msgstr "授权"
 
 msgid "Login Details"
-msgstr ""
+msgstr "登录信息"
 
 msgid "Manual"
-msgstr ""
+msgstr "手动"
 
 msgid "Maximum Deposit"
 msgstr ""
@@ -76,37 +76,37 @@ msgid "You don't have any virtual machines created"
 msgstr ""
 
 msgid "Register Nameservers"
-msgstr ""
+msgstr "注册 NS 服务器"
 
 msgid "Re-Install VPS"
-msgstr ""
+msgstr "重装 VPS"
 
 msgid "Shutdown"
-msgstr ""
+msgstr "关机"
 
 msgid "Startup"
-msgstr ""
+msgstr "启动"
 
 msgid "Addon has been terminated"
 msgstr ""
 
 msgid "Total due"
-msgstr ""
+msgstr "合计超额"
 
 msgid "Upgrade"
-msgstr ""
+msgstr "升级"
 
 msgid "Upgrade / Downgrade"
-msgstr ""
+msgstr "升级 / 降级"
 
 msgid "Virtual Machine details"
-msgstr ""
+msgstr "虚拟机详情"
 
 msgid "Account Addons"
-msgstr ""
+msgstr "帐号扩展"
 
 msgid "Account Details"
-msgstr ""
+msgstr "帐号详情"
 
 msgid "Access Control Panel"
 msgstr ""
@@ -124,31 +124,31 @@ msgid "Your account details and settings"
 msgstr ""
 
 msgid "Account Info"
-msgstr ""
+msgstr "帐号信息"
 
 msgid "Account logs section and history."
 msgstr ""
 
 msgid "Actions"
-msgstr ""
+msgstr "动作"
 
 msgid "Add new Alias Name"
-msgstr ""
+msgstr "添加新别名"
 
 msgid "Add new domain"
-msgstr ""
+msgstr "添加新域名"
 
 msgid "Added IP restriction"
 msgstr ""
 
 msgid "Add new Email account"
-msgstr ""
+msgstr "添加新邮件帐号"
 
 msgid "Add MX entry"
 msgstr ""
 
 msgid "Add new FTP account"
-msgstr ""
+msgstr "添加新 FTP 帐号"
 
 msgid ""
 "Add funds for a future use - either for the next orders or for your future "
@@ -167,31 +167,31 @@ msgid "Add allowed IP / range"
 msgstr "添加 IP / 子网"
 
 msgid "Additional IPs"
-msgstr ""
+msgstr "附加 IP"
 
 msgid "Additional fee may be added to your bill"
 msgstr ""
 
 msgid "Add new"
-msgstr ""
+msgstr "添加新"
 
 msgid "Add Privacy Protection"
-msgstr ""
+msgstr "添加隐私保护"
 
 msgid "Add Recipe"
 msgstr ""
 
 msgid "Add A record"
-msgstr ""
+msgstr "添加 A 记录"
 
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 msgid "Add new schedule"
-msgstr ""
+msgstr "添加新计划"
 
 msgid "Add new service"
-msgstr ""
+msgstr "添加新服务"
 
 msgid "Add Step"
 msgstr ""
@@ -200,19 +200,19 @@ msgid "Add step to recipe"
 msgstr ""
 
 msgid "Add user"
-msgstr ""
+msgstr "添加用户"
 
 msgid "Add new variable"
-msgstr ""
+msgstr "添加新变量"
 
 msgid "Add new zone"
-msgstr ""
+msgstr "添加新域"
 
 msgid "Adjust Resource Allocation"
 msgstr ""
 
 msgid "Administrative contact:"
-msgstr ""
+msgstr "管理联系人"
 
 msgid ""
 "After adding new zone you will be able to add/edit its contents\" class="
@@ -235,10 +235,10 @@ msgid "Amount to apply: "
 msgstr ""
 
 msgid "and"
-msgstr ""
+msgstr "和"
 
 msgid "Any"
-msgstr ""
+msgstr "任意"
 
 msgid "Apply credit"
 msgstr ""
@@ -250,7 +250,7 @@ msgid "Apply Template"
 msgstr ""
 
 msgid "Apps"
-msgstr ""
+msgstr "应用"
 
 msgid "Are you sure to delete this volume"
 msgstr ""
@@ -291,13 +291,13 @@ msgid "Auth method"
 msgstr ""
 
 msgid "Auto Renew"
-msgstr ""
+msgstr "自动续费"
 
 msgid "Don't lose name of your important domain! Enable Auto Renew option"
 msgstr ""
 
 msgid "Auto-Renewal Options"
-msgstr ""
+msgstr "自动续费设置"
 
 msgid ""
 "In order to avoid losing domain name due to its expiration you may consider "
@@ -316,22 +316,22 @@ msgid "Available DNS Templates"
 msgstr ""
 
 msgid "Back to"
-msgstr ""
+msgstr "返回"
 
 msgid "Back to Client Area"
-msgstr ""
+msgstr "返回客户专区"
 
 msgid "All domains"
-msgstr ""
+msgstr "全部域名"
 
 msgid "All emails"
-msgstr ""
+msgstr "全部邮件"
 
 msgid "All services"
-msgstr ""
+msgstr "全部服务"
 
 msgid "Backup"
-msgstr ""
+msgstr "备份"
 
 msgid "Backup has been scheduled for removal"
 msgstr ""
@@ -370,7 +370,7 @@ msgid "Any changes made here will impact following domains:"
 msgstr ""
 
 msgid "Burstable RAM"
-msgstr ""
+msgstr "突发内存"
 
 msgid ""
 "The charts below show the recent network utilisation of your VPS over "
@@ -380,10 +380,10 @@ msgid ""
 msgstr ""
 
 msgid "Bandwidth Charts"
-msgstr ""
+msgstr "带宽图表"
 
 msgid "Create new ticket"
-msgstr ""
+msgstr "创建新工单"
 
 msgid "Clientarea search"
 msgstr ""
@@ -413,7 +413,7 @@ msgid "Cancellation Type: "
 msgstr ""
 
 msgid "Cancel Order"
-msgstr ""
+msgstr "取消订单"
 
 msgid "Cancelation of this service is disabled by staff"
 msgstr ""
@@ -440,13 +440,13 @@ msgid "Credit Card details updated"
 msgstr ""
 
 msgid "Expiry Date"
-msgstr ""
+msgstr "到期日"
 
 msgid "Card Number"
-msgstr ""
+msgstr "卡号"
 
 msgid "Card Type"
-msgstr ""
+msgstr "卡类型"
 
 msgid "Certificate"
 msgstr "证书"
@@ -494,7 +494,7 @@ msgid "Clean form"
 msgstr ""
 
 msgid "click"
-msgstr ""
+msgstr "点击"
 
 msgid ""
 "Click <a href=\"?cmd=cart&amp;cat_id=addons&amp;account_id=%s\">here</a> to "
@@ -529,7 +529,7 @@ msgid "Clone entries from other domain"
 msgstr ""
 
 msgid "Clone DNS settings"
-msgstr ""
+msgstr "复制 DNS 设置"
 
 msgid "Code"
 msgstr "代码"
@@ -541,10 +541,10 @@ msgid "Console unavailable. VPS is not powered on."
 msgstr ""
 
 msgid "Contact Details"
-msgstr ""
+msgstr "联系信息"
 
 msgid "Contact Information"
-msgstr ""
+msgstr "联系信息"
 
 msgid "Content"
 msgstr ""
@@ -635,7 +635,7 @@ msgid "Current package:"
 msgstr ""
 
 msgid "Custom"
-msgstr ""
+msgstr "自定义"
 
 msgid "Customer Name"
 msgstr ""
@@ -662,19 +662,19 @@ msgid "Check our network/servers statuses"
 msgstr ""
 
 msgid "Database"
-msgstr ""
+msgstr "数据库"
 
 msgid "Database Host"
-msgstr ""
+msgstr "数据库主机"
 
 msgid "Database Name"
-msgstr ""
+msgstr "数据库名称"
 
 msgid "Database Password"
-msgstr ""
+msgstr "数据库密码"
 
 msgid "Database User"
-msgstr ""
+msgstr "数据库用户名"
 
 msgid "Data Disk"
 msgstr ""
@@ -695,16 +695,16 @@ msgid "Default names"
 msgstr "默认名称"
 
 msgid "New IP Address: "
-msgstr ""
+msgstr "新IP 地址："
 
 msgid "Are you sure you want to delete this nameserver?"
 msgstr ""
 
 msgid "Delete NameServer"
-msgstr ""
+msgstr "删除 NS 服务器"
 
 msgid "Details"
-msgstr "详细信息"
+msgstr "详情"
 
 msgid "Digest"
 msgstr ""
@@ -716,7 +716,7 @@ msgid "Direction"
 msgstr ""
 
 msgid "Directory"
-msgstr ""
+msgstr "目录"
 
 msgid "Directory is not empty"
 msgstr ""
@@ -731,7 +731,7 @@ msgid "Disk Space"
 msgstr "磁盘空间"
 
 msgid "Disk Backup"
-msgstr ""
+msgstr "磁盘备份"
 
 msgid "Disk &amp; Bandwidth Usage"
 msgstr ""
@@ -740,10 +740,10 @@ msgid "Disk has been scheduled for backup"
 msgstr ""
 
 msgid "Disks"
-msgstr ""
+msgstr "磁盘"
 
 msgid "Disk Space Usage"
-msgstr ""
+msgstr "磁盘空间用量"
 
 msgid "Can't clone this DNS zone"
 msgstr ""
@@ -905,7 +905,7 @@ msgid "Regex"
 msgstr ""
 
 msgid "Service"
-msgstr ""
+msgstr "服务"
 
 msgid "Target nameserver hostname"
 msgstr ""
@@ -1013,10 +1013,10 @@ msgid "Domains count"
 msgstr ""
 
 msgid "Domain details"
-msgstr ""
+msgstr "域名详情"
 
 msgid "Done"
-msgstr ""
+msgstr "完成"
 
 msgid "Download PDF"
 msgstr ""
@@ -1037,10 +1037,10 @@ msgid "Edit Label"
 msgstr "编辑标签"
 
 msgid "Edit record"
-msgstr ""
+msgstr "编辑记录"
 
 msgid "Edit rules"
-msgstr ""
+msgstr "编辑规则"
 
 msgid "Edit Security Group Rules for"
 msgstr ""
@@ -1066,7 +1066,7 @@ msgid ""
 msgstr ""
 
 msgid "Emails History"
-msgstr ""
+msgstr "邮件历史"
 
 msgid "Reason cannot be empty"
 msgstr ""
@@ -1092,10 +1092,10 @@ msgid "Web Server type"
 msgstr ""
 
 msgid "SSL Certificate Details"
-msgstr ""
+msgstr "证书详情"
 
 msgid "SSL Certificate"
-msgstr ""
+msgstr "证书"
 
 msgid "End of Billing Period"
 msgstr ""
@@ -1113,7 +1113,7 @@ msgid "Month (yyyy-mm):"
 msgstr ""
 
 msgid "Auth Info / EPP Key"
-msgstr ""
+msgstr "授权码"
 
 msgid ""
 "Requesting Epp code is the first step in domain transfer process. Once you "
@@ -1122,7 +1122,7 @@ msgid ""
 msgstr ""
 
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 msgid "Ether Type"
 msgstr ""
@@ -1137,10 +1137,10 @@ msgid "Expiration date is not valid"
 msgstr ""
 
 msgid "Expire"
-msgstr ""
+msgstr "到期"
 
 msgid "Expiry"
-msgstr ""
+msgstr "到期"
 
 msgid "Extended Info"
 msgstr ""
@@ -1164,7 +1164,7 @@ msgid "Selected firewall rule has been scheduled for removal"
 msgstr ""
 
 msgid "First Payment Amount"
-msgstr ""
+msgstr "首次付费"
 
 msgid "Flags"
 msgstr ""
@@ -1176,10 +1176,10 @@ msgid "floating IPs left"
 msgstr ""
 
 msgid "Force Off"
-msgstr ""
+msgstr "强制关机"
 
 msgid "Force reboot"
-msgstr ""
+msgstr "强制重启"
 
 msgid "Components upgrade succeeded"
 msgstr ""
@@ -1206,10 +1206,10 @@ msgid "Get EPP Code:"
 msgstr ""
 
 msgid "Go to step"
-msgstr ""
+msgstr "前往步骤"
 
 msgid "Go To"
-msgstr ""
+msgstr "前往"
 
 msgid "HA-Enabled"
 msgstr ""
@@ -1289,10 +1289,10 @@ msgid "Invalid credit card number"
 msgstr ""
 
 msgid "Invoice History"
-msgstr ""
+msgstr "发票历史"
 
 msgid "Invoice"
-msgstr ""
+msgstr "发票"
 
 msgid "Date of Invoice"
 msgstr ""
@@ -1331,7 +1331,7 @@ msgid "IP Address:"
 msgstr "IP 地址："
 
 msgid "IPs"
-msgstr ""
+msgstr "IP"
 
 msgid "IP access/ Subnet"
 msgstr "IP / 子网"
@@ -1367,7 +1367,7 @@ msgid "Password should include letters and digits"
 msgstr ""
 
 msgid "Licensing Type"
-msgstr ""
+msgstr "授权类型"
 
 msgid "List My Domains"
 msgstr ""
@@ -1379,7 +1379,7 @@ msgid "Load Balancing"
 msgstr ""
 
 msgid "Loading.."
-msgstr ""
+msgstr "加载中..."
 
 msgid "Loading presets.."
 msgstr ""
@@ -1403,16 +1403,16 @@ msgid "Make sure that your machine is switched off"
 msgstr ""
 
 msgid "Manage"
-msgstr ""
+msgstr "管理"
 
 msgid "Manage domain"
-msgstr ""
+msgstr "管理域名"
 
 msgid "Manage IPs"
-msgstr ""
+msgstr "管理 IP"
 
 msgid "Manage SSH Keys"
-msgstr ""
+msgstr "管理 SSH 密钥"
 
 msgid "Management Functions"
 msgstr ""
@@ -1421,7 +1421,7 @@ msgid "Management Tools"
 msgstr ""
 
 msgid "Max allowed"
-msgstr ""
+msgstr "最大允许"
 
 msgid "Max snapshots"
 msgstr ""
@@ -1430,10 +1430,10 @@ msgid "Memory"
 msgstr "内存"
 
 msgid "Minimum TTL"
-msgstr ""
+msgstr "最小 TTL"
 
 msgid "Modify a Nameserver IP:"
-msgstr ""
+msgstr "修改一个 NS 服务器"
 
 msgid "Monthly bandwidth used"
 msgstr ""
@@ -1442,31 +1442,31 @@ msgid "Monthly Bandwidth"
 msgstr ""
 
 msgid "1 Month Usage"
-msgstr ""
+msgstr "1 月用量"
 
 msgid "Amount you have specified is more than maximum allowed value"
 msgstr ""
 
 msgid "My Account"
-msgstr ""
+msgstr "我的帐号"
 
 msgid "My Credit Card"
 msgstr ""
 
 msgid "Nameserver:"
-msgstr ""
+msgstr "NS 服务器："
 
 msgid "Nameservers"
-msgstr ""
+msgstr "NS 服务器"
 
 msgid "Manage Nameservers"
-msgstr ""
+msgstr "管理 NS 记录"
 
 msgid "Netmask"
-msgstr ""
+msgstr "子网掩码"
 
 msgid "Network Usage"
-msgstr ""
+msgstr "网络用量"
 
 msgid "Selected network interface has been updated"
 msgstr ""
@@ -1502,13 +1502,13 @@ msgid "New setting"
 msgstr ""
 
 msgid "New tag"
-msgstr ""
+msgstr "新标签"
 
 msgid "Next invoice"
-msgstr ""
+msgstr "下次发票"
 
 msgid "Next invoice details"
-msgstr ""
+msgstr "下次发票详情"
 
 msgid "No"
 msgstr ""
@@ -1581,19 +1581,19 @@ msgid "Access CP"
 msgstr ""
 
 msgid "1 Day"
-msgstr ""
+msgstr "1 天"
 
 msgid "1 Hour"
-msgstr ""
+msgstr "1 小时"
 
 msgid "On failure"
-msgstr ""
+msgstr "失败时"
 
 msgid "Please ensure that you enter only numbers"
 msgstr ""
 
 msgid "On success"
-msgstr ""
+msgstr "成功时"
 
 msgid ""
 "On this page you can select Virtual Servers that are currently running and "
@@ -1607,7 +1607,7 @@ msgid "Your order number is: "
 msgstr ""
 
 msgid "Order Confirmation"
-msgstr ""
+msgstr "订单确认"
 
 msgid ""
 "Thank you for your order. You will receive a confirmation email shortly."
@@ -1628,7 +1628,7 @@ msgid "Organization Details"
 msgstr "机构详情"
 
 msgid "Original TTL"
-msgstr ""
+msgstr "原 TTL"
 
 msgid "Invoice for %s has been created"
 msgstr ""
@@ -1640,10 +1640,10 @@ msgid "Other available security groups"
 msgstr ""
 
 msgid "Our nameservers"
-msgstr ""
+msgstr "使用我们的默认 DNS"
 
 msgid "Outbound Firewall"
-msgstr ""
+msgstr "出站防火墙"
 
 msgid "Package changed. From \"%s\" to \"%s\""
 msgstr ""
@@ -1667,19 +1667,19 @@ msgid "An email was sent to:"
 msgstr ""
 
 msgid "Password changed"
-msgstr ""
+msgstr "密码已修改"
 
 msgid "Path"
-msgstr ""
+msgstr "路径"
 
 msgid "Pay all"
-msgstr ""
+msgstr "全部支付"
 
 msgid "Payment failed. Please contact administrator"
 msgstr ""
 
 msgid "Pay Now!"
-msgstr ""
+msgstr "立即支付！"
 
 msgid "Pay all due invoices"
 msgstr ""
@@ -1696,7 +1696,7 @@ msgid ""
 msgstr ""
 
 msgid "Per Hour"
-msgstr ""
+msgstr "每小时"
 
 msgid "Pick VM first"
 msgstr ""
@@ -1720,10 +1720,10 @@ msgid "Presets"
 msgstr ""
 
 msgid "Primary"
-msgstr ""
+msgstr "主要"
 
 msgid "Primary NS"
-msgstr ""
+msgstr "主 DNS 服务器"
 
 msgid "Print Invoice"
 msgstr ""
@@ -1734,7 +1734,7 @@ msgid ""
 msgstr ""
 
 msgid "Privacy"
-msgstr ""
+msgstr "隐私"
 
 msgid ""
 "With privacy protection enabled your private information will be hidden in "
@@ -1742,19 +1742,19 @@ msgid ""
 msgstr ""
 
 msgid "private"
-msgstr ""
+msgstr "私密"
 
 msgid "Private port"
-msgstr ""
+msgstr "私密端口"
 
 msgid "Proceed to Control Panel"
 msgstr ""
 
 msgid "Public Key"
-msgstr ""
+msgstr "公钥"
 
 msgid "Public port"
-msgstr ""
+msgstr "公开端口"
 
 msgid "Quick Links"
 msgstr ""
@@ -1766,10 +1766,10 @@ msgid "R1Soft Backups"
 msgstr ""
 
 msgid "Reboot"
-msgstr ""
+msgstr "重启"
 
 msgid "Rebuild"
-msgstr ""
+msgstr "重建"
 
 msgid "Choose new OS Template:"
 msgstr ""
@@ -1781,7 +1781,7 @@ msgid "Rebuilding  will destroy all data on the machine."
 msgstr ""
 
 msgid "Recurring Amount"
-msgstr ""
+msgstr "周期花费"
 
 msgid "Recent News"
 msgstr ""
@@ -1796,13 +1796,13 @@ msgid "Recipe Variables"
 msgstr ""
 
 msgid "record"
-msgstr ""
+msgstr "记录"
 
 msgid "Records"
-msgstr ""
+msgstr "记录"
 
 msgid "Record Type"
-msgstr ""
+msgstr "记录类型"
 
 msgid "Ref"
 msgstr ""
@@ -1814,22 +1814,22 @@ msgid "Register Key"
 msgstr ""
 
 msgid "Register a Nameserver Name:"
-msgstr ""
+msgstr "注册一个 NS 服务器"
 
 msgid "Register Name Servers"
-msgstr ""
+msgstr "注册 NS 服务器"
 
 msgid "Registration Date"
-msgstr ""
+msgstr "注册日期"
 
 msgid "Registrar Lock"
-msgstr ""
+msgstr "域名锁"
 
 msgid "Enable domain lock to protect from unauthorized transfers"
 msgstr ""
 
 msgid "Domain Lock Settings"
-msgstr ""
+msgstr "域名锁设置"
 
 msgid ""
 "<b>What is domain lock?</b><br/> When a domain is unlocked it can be "
@@ -1842,7 +1842,7 @@ msgid "Registration Period"
 msgstr ""
 
 msgid "Reinstall"
-msgstr ""
+msgstr "重装"
 
 msgid "Reinstall using original template"
 msgstr ""
@@ -1851,7 +1851,7 @@ msgid "Reinstall with new template"
 msgstr ""
 
 msgid "Reissue"
-msgstr ""
+msgstr "重发"
 
 msgid "Related transactions:"
 msgstr ""
@@ -1860,7 +1860,7 @@ msgid "Reload OS"
 msgstr ""
 
 msgid "Remote"
-msgstr ""
+msgstr "远程"
 
 msgid "Could not remove ip address"
 msgstr ""
@@ -1875,16 +1875,16 @@ msgid "Removed IP restriction"
 msgstr ""
 
 msgid "Add Years / Renew"
-msgstr ""
+msgstr "续期"
 
 msgid "Renew Domain"
-msgstr ""
+msgstr "续费"
 
 msgid "Replace record content (i.e. CNAME's) as well"
 msgstr ""
 
 msgid "Request Auth Info / Epp code"
-msgstr ""
+msgstr "获取授权码"
 
 msgid "Required startup"
 msgstr ""
@@ -1902,7 +1902,7 @@ msgid "Reset Root Password"
 msgstr "重设 root 密码"
 
 msgid "Reset Password"
-msgstr ""
+msgstr "重置密码"
 
 msgid "Do you really want to reset your password?"
 msgstr ""
@@ -1920,13 +1920,13 @@ msgid "Result source"
 msgstr ""
 
 msgid "Retry"
-msgstr ""
+msgstr "重试"
 
 msgid "Click here to show password"
 msgstr ""
 
 msgid "Reverse DNS"
-msgstr ""
+msgstr "反向解析"
 
 msgid "Revert to this snapshot"
 msgstr ""
@@ -1953,7 +1953,7 @@ msgid "Run on VS"
 msgstr ""
 
 msgid "The same as registrant"
-msgstr ""
+msgstr "与注册人联系人相同"
 
 msgid "Save this private key into a file on your machine"
 msgstr ""
@@ -1994,10 +1994,10 @@ msgid "Serial number"
 msgstr ""
 
 msgid "Service Details"
-msgstr ""
+msgstr "服务详情"
 
 msgid "Service Label"
-msgstr ""
+msgstr "服务标签"
 
 msgid "Enter new label for your service"
 msgstr ""
@@ -2015,7 +2015,7 @@ msgid "Signature"
 msgstr ""
 
 msgid "Snapshot"
-msgstr ""
+msgstr "快照"
 
 msgid "Snapshot scheduled for creation"
 msgstr ""
@@ -2054,7 +2054,7 @@ msgid "Snapshot memory"
 msgstr ""
 
 msgid "Snapshots"
-msgstr ""
+msgstr "快照"
 
 msgid "Snapshot Schedule"
 msgstr ""
@@ -2072,13 +2072,13 @@ msgid "Password should include special characters"
 msgstr ""
 
 msgid "SSH Key"
-msgstr ""
+msgstr "SSH 密钥"
 
 msgid "SSH Keypair"
 msgstr ""
 
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 msgid "Start Port"
 msgstr ""
@@ -2090,7 +2090,7 @@ msgid "Stickiness"
 msgstr ""
 
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 msgid "Storage type"
 msgstr ""
@@ -2099,7 +2099,7 @@ msgid "Sub domain Forwarding"
 msgstr ""
 
 msgid "Summary"
-msgstr ""
+msgstr "概要"
 
 msgid "Supplier Order ID"
 msgstr ""
@@ -2280,7 +2280,7 @@ msgid "Usage details"
 msgstr ""
 
 msgid "Use one of following contacts:"
-msgstr ""
+msgstr "使用已有联系人："
 
 msgid "Use one of available, pre-configured DNS templates"
 msgstr ""
@@ -2304,7 +2304,7 @@ msgid "Variable name"
 msgstr ""
 
 msgid "Version"
-msgstr ""
+msgstr "版本"
 
 msgid "Vertical Precision"
 msgstr ""
@@ -2405,7 +2405,7 @@ msgid "Web Server"
 msgstr ""
 
 msgid "1 Week Usage"
-msgstr ""
+msgstr "1 周用量"
 
 msgid "Weight"
 msgstr ""
@@ -2420,16 +2420,16 @@ msgid "WordPress Version"
 msgstr ""
 
 msgid "1 Year Usage"
-msgstr ""
+msgstr "1 年用量"
 
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 msgid "Hour"
-msgstr ""
+msgstr "小时"
 
 msgid "Hours"
-msgstr ""
+msgstr "小时"
 
 msgid ""
 "By checking fields you agree to remove related resources even if these are "
@@ -2485,4 +2485,4 @@ msgid "Zone content"
 msgstr ""
 
 msgid "Zones"
-msgstr ""
+msgstr "域"
