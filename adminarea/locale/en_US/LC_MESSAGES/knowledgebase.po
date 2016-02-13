@@ -1,0 +1,76 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Add Article"
+msgstr ""
+
+msgid "Add Category"
+msgstr ""
+
+msgid "Add new article"
+msgstr ""
+
+msgid "Add new category"
+msgstr ""
+
+msgid "Back to categories"
+msgstr ""
+
+msgid "To begin using knowledgebase add some categories"
+msgstr ""
+
+msgid "Knowledgebase articles are organized by categories so your client can find easier what he is looking for"
+msgstr ""
+
+msgid "New category created"
+msgstr ""
+
+msgid "Category details updated"
+msgstr ""
+
+msgid "Do you really want to remove this article?"
+msgstr ""
+
+msgid "Do you really want to remove this category?"
+msgstr ""
+
+msgid "New Article created"
+msgstr ""
+
+msgid "Article #%s removed"
+msgstr ""
+
+msgid "Article updated"
+msgstr ""
+
+msgid "Category %s and its articles removed"
+msgstr ""
+
+msgid "Category name cannot be empty"
+msgstr ""
+
+msgid "Choose category first"
+msgstr ""
+
+msgid "Title cannot be empty"
+msgstr ""
+
+msgid "List Categories"
+msgstr ""
+
+msgid "Registered Only?"
+msgstr ""
+
+msgid "There is no category"
+msgstr ""

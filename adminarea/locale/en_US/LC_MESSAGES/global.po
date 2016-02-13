@@ -1,0 +1,2948 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "eCheck/ACH"
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Accepted"
+msgstr ""
+
+msgid "Account"
+msgstr ""
+
+msgid "Accounts"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Activated"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Active Domains"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Addon"
+msgstr ""
+
+msgid "Addons"
+msgstr ""
+
+msgid "Admin"
+msgstr ""
+
+msgid "Staff Members"
+msgstr ""
+
+msgid "Landing page redirect"
+msgstr ""
+
+msgid "Affiliate signup page"
+msgstr ""
+
+msgid "Affects"
+msgstr ""
+
+msgid "Affiliates"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "All Domains"
+msgstr ""
+
+msgid "All Invoices"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "And"
+msgstr ""
+
+msgid "Annually"
+msgstr ""
+
+msgid "Answered"
+msgstr ""
+
+msgid "Any"
+msgstr ""
+
+msgid "Any Status"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Assign"
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "Biennially"
+msgstr ""
+
+msgid "Billing"
+msgstr ""
+
+msgid "Body"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel Account"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Cancelled Domains"
+msgstr ""
+
+msgid "Cancelled Invoices"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Change Currency"
+msgstr ""
+
+msgid "Click"
+msgstr ""
+
+msgid "Client"
+msgstr ""
+
+msgid "Client-Reply"
+msgstr ""
+
+msgid "Clients"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Closed"
+msgstr ""
+
+msgid "Organization"
+msgstr ""
+
+msgid "Completed"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Contacts"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Create Invoice"
+msgstr ""
+
+msgid "Credit"
+msgstr ""
+
+msgid "Credit Notes"
+msgstr ""
+
+msgid "Customer-Reply"
+msgstr ""
+
+msgid "DNS Management"
+msgstr ""
+
+msgid "Daily"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Deactivate"
+msgstr ""
+
+msgid "Dead"
+msgstr ""
+
+msgid "Default Option"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete Account"
+msgstr ""
+
+msgid "Delete Request"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Discount"
+msgstr ""
+
+msgid "Domain"
+msgstr ""
+
+msgid "Domain prices"
+msgstr ""
+
+msgid "Domains"
+msgstr ""
+
+msgid "Downloads"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email Forwarding"
+msgstr ""
+
+msgid "Email Forward"
+msgstr ""
+
+msgid "Emails"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Activate as an affiliate"
+msgstr ""
+
+msgid "Epp Code"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Estimate"
+msgstr ""
+
+msgid "Estimates"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Expired Domains"
+msgstr ""
+
+msgid "Expires"
+msgstr ""
+
+msgid "Extras"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "Failure"
+msgstr ""
+
+msgid "Fraud"
+msgstr ""
+
+msgid "Fraud Protect"
+msgstr ""
+
+msgid "Free"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "Gateway"
+msgstr ""
+
+msgid "Gateway Log"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "High"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Host"
+msgstr ""
+
+msgid "Hosting"
+msgstr ""
+
+msgid "Hostname"
+msgstr ""
+
+msgid "Hourly"
+msgstr ""
+
+msgid "ID Protection"
+msgstr ""
+
+msgid "IP Address"
+msgstr ""
+
+msgid "If"
+msgstr ""
+
+msgid "Imported"
+msgstr ""
+
+msgid "In-Progress"
+msgstr ""
+
+msgid "Inactive"
+msgstr ""
+
+msgid "Income"
+msgstr ""
+
+msgid "Incomplete"
+msgstr ""
+
+msgid "Invoice"
+msgstr ""
+
+msgid "Invoiced"
+msgstr ""
+
+msgid "Invoices"
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+msgid "Items"
+msgstr ""
+
+msgid "Knowledgebase"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Learn more"
+msgstr ""
+
+msgid "Line total"
+msgstr ""
+
+msgid "Live Chat"
+msgstr ""
+
+msgid "Loading"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Return to login"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Manage"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "Merge"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Metered"
+msgstr ""
+
+msgid "Module"
+msgstr ""
+
+msgid "Modules"
+msgstr ""
+
+msgid "Monthly"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Nameserver"
+msgstr ""
+
+msgid "Nameservers"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Not Available"
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Mobile Notifications"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "Once"
+msgstr ""
+
+msgid "One Time"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Option"
+msgstr ""
+
+msgid "Or"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Order Page"
+msgstr ""
+
+msgid "Orders"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Output"
+msgstr ""
+
+msgid "Package"
+msgstr ""
+
+msgid "Page:"
+msgstr ""
+
+msgid "Paid"
+msgstr ""
+
+msgid "Paid Invoices"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Payment"
+msgstr ""
+
+msgid "Payments"
+msgstr ""
+
+msgid "Pay Type"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Pending Registration"
+msgstr ""
+
+msgid "Pending Transfer"
+msgstr ""
+
+msgid "Pending Domains"
+msgstr ""
+
+msgid "Period"
+msgstr ""
+
+msgid "Period (years)"
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+msgid "port"
+msgstr ""
+
+msgid "Pre-Paid"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Private"
+msgstr ""
+
+msgid "Product"
+msgstr ""
+
+msgid "Products"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Quadrennially"
+msgstr ""
+
+msgid "Quarterly"
+msgstr ""
+
+msgid "Quinquennially"
+msgstr ""
+
+msgid "Reason"
+msgstr ""
+
+msgid "Received"
+msgstr ""
+
+msgid "Recurring"
+msgstr ""
+
+msgid "Recurring Invoices"
+msgstr ""
+
+msgid "Refunded"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Registrar"
+msgstr ""
+
+msgid "Regular"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid "Renew"
+msgstr ""
+
+msgid "Reply"
+msgstr ""
+
+msgid "Re-Send"
+msgstr ""
+
+msgid "Reset Password"
+msgstr ""
+
+msgid "Result"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search In"
+msgstr ""
+
+msgid "Secure"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "Semi-Annually"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send Email"
+msgstr ""
+
+msgid "Send Message"
+msgstr ""
+
+msgid "Sent"
+msgstr ""
+
+msgid "Server"
+msgstr ""
+
+msgid "Servers"
+msgstr ""
+
+msgid "Service"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "Set status"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Email Signature"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "State"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Submitter"
+msgstr ""
+
+msgid "Submitter Name"
+msgstr ""
+
+msgid "Subtotal"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Successful"
+msgstr ""
+
+msgid "Successfull"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "Suspend"
+msgstr ""
+
+msgid "Suspended"
+msgstr ""
+
+msgid "Synchronize"
+msgstr ""
+
+msgid "TLD"
+msgstr ""
+
+msgid "Tax"
+msgstr ""
+
+msgid "Taxed"
+msgstr ""
+
+msgid "Template Name"
+msgstr ""
+
+msgid "Terminate"
+msgstr ""
+
+msgid "Terminated"
+msgstr ""
+
+msgid "Tickets"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Transaction ID"
+msgstr ""
+
+msgid "Transactions"
+msgstr ""
+
+msgid "Transfer"
+msgstr ""
+
+msgid "Triennially"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Uninstall"
+msgstr ""
+
+msgid "Unpaid"
+msgstr ""
+
+msgid "Unpaid Invoices"
+msgstr ""
+
+msgid "Unsuspend"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Upgrade"
+msgstr ""
+
+msgid "Upgraded"
+msgstr ""
+
+msgid "Upgrades"
+msgstr ""
+
+msgid "Upgrade to"
+msgstr ""
+
+msgid "Usage"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "VPS"
+msgstr ""
+
+msgid "VPS Server"
+msgstr ""
+
+msgid "Variables"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Viewed"
+msgstr ""
+
+msgid "Visible"
+msgstr ""
+
+msgid "Weekly"
+msgstr ""
+
+msgid "Year"
+msgstr ""
+
+msgid "Years"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Account addons"
+msgstr ""
+
+msgid "Access Live Chat"
+msgstr ""
+
+msgid "Access Hash"
+msgstr ""
+
+msgid "Account #%s marked Cancelled"
+msgstr ""
+
+msgid "Account #%s created"
+msgstr ""
+
+msgid "Account created email"
+msgstr ""
+
+msgid "Account #%s deleted"
+msgstr ""
+
+msgid "Account #%s marked Terminated"
+msgstr ""
+
+msgid "Account #%s marked Pending"
+msgstr ""
+
+msgid "Account #%s suspended"
+msgstr ""
+
+msgid "Account suspended email"
+msgstr ""
+
+msgid "Account #%s Terminated"
+msgstr ""
+
+msgid "Account terminated email"
+msgstr ""
+
+msgid "Account #%s unsuspended"
+msgstr ""
+
+msgid "Account unsuspended email"
+msgstr ""
+
+msgid "Account password"
+msgstr ""
+
+msgid "accounts"
+msgstr ""
+
+msgid "Account Number"
+msgstr ""
+
+msgid "Bank Account Information"
+msgstr ""
+
+msgid "Routing Number"
+msgstr ""
+
+msgid "Add addons"
+msgstr ""
+
+msgid "Add automation"
+msgstr ""
+
+msgid "Add configuration"
+msgstr ""
+
+msgid "Add customization options"
+msgstr ""
+
+msgid "Add domains"
+msgstr ""
+
+msgid "Add extra fields"
+msgstr ""
+
+msgid "Add Staff Member"
+msgstr ""
+
+msgid "add credit"
+msgstr ""
+
+msgid "Add description"
+msgstr ""
+
+msgid "Add Funds"
+msgstr ""
+
+msgid "Additional IP"
+msgstr ""
+
+msgid "Additional options"
+msgstr ""
+
+msgid "Add new department"
+msgstr ""
+
+msgid "Add new field"
+msgstr ""
+
+msgid "Add new order page"
+msgstr ""
+
+msgid "Add New Server"
+msgstr ""
+
+msgid "Addon categories"
+msgstr ""
+
+msgid "Addon:"
+msgstr ""
+
+msgid "Are you sure you want to delete this addon?"
+msgstr ""
+
+msgid "Addon Modules"
+msgstr ""
+
+msgid "Addon name"
+msgstr ""
+
+msgid "Addon/s"
+msgstr ""
+
+msgid "Add pricing option"
+msgstr ""
+
+msgid "Add reply"
+msgstr ""
+
+msgid "Address 1"
+msgstr ""
+
+msgid "Address 2"
+msgstr ""
+
+msgid "You didn't enter address (line 1)"
+msgstr ""
+
+msgid "Adds billable customization options for client to choose from"
+msgstr ""
+
+msgid "Add Transaction"
+msgstr ""
+
+msgid "Admin Activity"
+msgstr ""
+
+msgid "Admin with this email exists"
+msgstr ""
+
+msgid "Admin with this name exists"
+msgstr ""
+
+msgid "Admin Login"
+msgstr ""
+
+msgid "Admin Only"
+msgstr ""
+
+msgid "Affiliate settings"
+msgstr ""
+
+msgid "Edit Affilate settings"
+msgstr ""
+
+msgid "Affiliate"
+msgstr ""
+
+msgid "Affiliate #"
+msgstr ""
+
+msgid "Redirect referred visitors to this page after visiting affiliate link"
+msgstr ""
+
+msgid "Affiliate since"
+msgstr ""
+
+msgid "after"
+msgstr ""
+
+msgid "all"
+msgstr ""
+
+msgid "All form fields required"
+msgstr ""
+
+msgid "All gateways"
+msgstr ""
+
+msgid "Allow using own domain"
+msgstr ""
+
+msgid "Client credit updated"
+msgstr ""
+
+msgid "Answered Tickets"
+msgstr ""
+
+msgid "Any Result"
+msgstr ""
+
+msgid "API MAnagement"
+msgstr ""
+
+msgid "Specified input parameters combination isn't allowed for API access"
+msgstr ""
+
+msgid "This user doesn't have api usage privileges"
+msgstr ""
+
+msgid "Applies to"
+msgstr ""
+
+msgid "Apply macro"
+msgstr ""
+
+msgid "Approved"
+msgstr ""
+
+msgid "Manage Servers & Apps"
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "Add new form field"
+msgstr ""
+
+msgid "Assign addon(s)"
+msgstr ""
+
+msgid "Assigned to"
+msgstr ""
+
+msgid "Assign to"
+msgstr ""
+
+msgid "Attachment delete %s failed"
+msgstr ""
+
+msgid "Attachment deleted"
+msgstr ""
+
+msgid "Attachment not found"
+msgstr ""
+
+msgid "Auto-create"
+msgstr ""
+
+msgid "Automation options"
+msgstr ""
+
+msgid "Automation queue"
+msgstr ""
+
+msgid "Automation Settings"
+msgstr ""
+
+msgid "Available actions:"
+msgstr ""
+
+msgid "Average response time"
+msgstr ""
+
+msgid "disable this feature "
+msgstr ""
+
+msgid "show average response time in clientarea"
+msgstr ""
+
+msgid "Back to"
+msgstr ""
+
+msgid "Back to admins list"
+msgstr ""
+
+msgid "Back to all emails"
+msgstr ""
+
+msgid "Back to listing"
+msgstr ""
+
+msgid "Back to main"
+msgstr ""
+
+msgid "Balance"
+msgstr ""
+
+msgid "Your email is banned - signup is rejected"
+msgstr ""
+
+msgid "Banned Emails"
+msgstr ""
+
+msgid "Your IP is banned  - signup is rejected"
+msgstr ""
+
+msgid "Banned IP/Emails"
+msgstr ""
+
+msgid "Banned IPs"
+msgstr ""
+
+msgid "before"
+msgstr ""
+
+msgid "Billing Cycle"
+msgstr ""
+
+msgid "Browse Macros"
+msgstr ""
+
+msgid "Package bundles"
+msgstr ""
+
+msgid "Burstable RAM"
+msgstr ""
+
+msgid "Business Checking"
+msgstr ""
+
+msgid "Recalculate amounts"
+msgstr ""
+
+msgid "Cancellation Requests"
+msgstr ""
+
+msgid ""
+"Unable to process your request due to security reasons, you should use "
+"alternate credit card."
+msgstr ""
+
+msgid ""
+"Your credit card details are locked, please wait some time for the lock to "
+"expire or contact an administrator"
+msgstr ""
+
+msgid "Connection established. Your ClientExec version : %s"
+msgstr ""
+
+msgid "Connection succeeded, but no ClientExec tables found"
+msgstr ""
+
+msgid ""
+"Your ClientExec version [%s] isn't supported yet. Versions supported are "
+"from %s to %s"
+msgstr ""
+
+msgid "Change Order Page"
+msgstr ""
+
+msgid "Update ACH details"
+msgstr ""
+
+msgid "Please provide your bank details below"
+msgstr ""
+
+msgid "Change configuration"
+msgstr ""
+
+msgid "Change Owner"
+msgstr ""
+
+msgid "Change Password"
+msgstr ""
+
+msgid "Change priority"
+msgstr ""
+
+msgid "Change status"
+msgstr ""
+
+msgid "Check Availability"
+msgstr ""
+
+msgid "Checking"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "You didn't enter a city"
+msgstr ""
+
+msgid "Account type"
+msgstr ""
+
+msgid "here to add"
+msgstr ""
+
+msgid "Click here to add"
+msgstr ""
+
+msgid "Click here to check again"
+msgstr ""
+
+msgid "Click here to preview"
+msgstr ""
+
+msgid "client"
+msgstr ""
+
+msgid "Manage Client registration fields"
+msgstr ""
+
+msgid "Client #%s details removed"
+msgstr ""
+
+msgid "Wrong Client ID"
+msgstr ""
+
+msgid "Client details updated"
+msgstr ""
+
+msgid "New client account created"
+msgstr ""
+
+msgid "Client #%s tickets deleted"
+msgstr ""
+
+msgid "Client Activity"
+msgstr ""
+
+msgid "Client Area"
+msgstr ""
+
+msgid "Client Area URL"
+msgstr ""
+
+msgid "Client Groups"
+msgstr ""
+
+msgid "Client #"
+msgstr ""
+
+msgid "Client Last Name"
+msgstr ""
+
+msgid "Client Name"
+msgstr ""
+
+msgid "Clients only for this department"
+msgstr ""
+
+msgid "Client-Reply Tickets"
+msgstr ""
+
+msgid "Clients Only"
+msgstr ""
+
+msgid "Closed Tickets"
+msgstr ""
+
+msgid "Colocation Service"
+msgstr ""
+
+msgid "Colocation "
+msgstr ""
+
+msgid "Following command doesn't exist: %s"
+msgstr ""
+
+msgid "Requested command wasn't recognized by HostBill: %s"
+msgstr ""
+
+msgid "Company Name"
+msgstr ""
+
+msgid "Compose new message"
+msgstr ""
+
+msgid "Confirm Password"
+msgstr ""
+
+msgid "Conversion Rate"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Coupon #"
+msgstr ""
+
+msgid "Coupons Usage"
+msgstr ""
+
+msgid "WordPress Hosting - cPanel"
+msgstr ""
+
+msgid "This module doesn't support the Create command"
+msgstr ""
+
+msgid "Credit Note"
+msgstr ""
+
+msgid "Date issued"
+msgstr ""
+
+msgid "Critical!"
+msgstr ""
+
+msgid "Manage Cron Tasks"
+msgstr ""
+
+msgid "Your CRON job for HostBill doesn't seem to be working, please verify"
+msgstr ""
+
+msgid "Task List"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Multicurrency Settings"
+msgstr ""
+
+msgid "Your current IP is:"
+msgstr ""
+
+msgid "Current server time:"
+msgstr ""
+
+msgid "Customer:"
+msgstr ""
+
+msgid "Registration Fields"
+msgstr ""
+
+msgid "Customer Quote"
+msgstr ""
+
+msgid "Custom Fields"
+msgstr ""
+
+msgid "Custom Options"
+msgstr ""
+
+msgid "Wrong parameter"
+msgstr ""
+
+msgid "Date Created"
+msgstr ""
+
+msgid "Date of sale"
+msgstr ""
+
+msgid "Date Paid"
+msgstr ""
+
+msgid "days"
+msgstr ""
+
+msgid "Connection to databases is not established. Import is impossible"
+msgstr ""
+
+msgid "DB Hostname"
+msgstr ""
+
+msgid "Database Name"
+msgstr ""
+
+msgid "DB Password"
+msgstr ""
+
+msgid "Database Port"
+msgstr ""
+
+msgid "DB Username"
+msgstr ""
+
+msgid "VPS Accounts"
+msgstr ""
+
+msgid "Dedicated Server"
+msgstr ""
+
+msgid "default"
+msgstr ""
+
+msgid "delete"
+msgstr ""
+
+msgid "Delete Estimates"
+msgstr ""
+
+msgid "Delete Invoices"
+msgstr ""
+
+msgid "Delete Orders"
+msgstr ""
+
+msgid "Delete Transactions"
+msgstr ""
+
+msgid "Do you really want to remove this category?"
+msgstr ""
+
+msgid "Delete selected"
+msgstr ""
+
+msgid "Manage Support Departments"
+msgstr ""
+
+msgid "DNS Services"
+msgstr ""
+
+msgid "Do it now"
+msgstr ""
+
+msgid "domain"
+msgstr ""
+
+msgid "Domain options"
+msgstr ""
+
+msgid "Domain Details"
+msgstr ""
+
+msgid "Domain Log"
+msgstr ""
+
+msgid "Domain Modules"
+msgstr ""
+
+msgid "Domain Name"
+msgstr ""
+
+msgid "Domain Pricing"
+msgstr ""
+
+msgid "Domain Pricing &amp; Settings"
+msgstr ""
+
+msgid "Domain Registration"
+msgstr ""
+
+msgid "Domain Renewal"
+msgstr ""
+
+msgid "domains"
+msgstr ""
+
+msgid "Domain Status"
+msgstr ""
+
+msgid "Domain Transfer"
+msgstr ""
+
+msgid "Do Not Renew"
+msgstr ""
+
+msgid "You don't have any options configured yet"
+msgstr ""
+
+msgid "Due Date"
+msgstr ""
+
+msgid "edit"
+msgstr ""
+
+msgid "Edit General Settings"
+msgstr ""
+
+msgid "Edit Downloads"
+msgstr ""
+
+msgid "Edit Info Pages"
+msgstr ""
+
+msgid "Edit Knowledgebase"
+msgstr ""
+
+msgid "Edit news items"
+msgstr ""
+
+msgid "Edit Order Ownership"
+msgstr ""
+
+msgid "Take Order Ownership"
+msgstr ""
+
+msgid "Edit Own Ticket reply"
+msgstr ""
+
+msgid "Edit Support Tickets"
+msgstr ""
+
+msgid "Edit Admin Notes"
+msgstr ""
+
+msgid "Edit details"
+msgstr ""
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Send message to client"
+msgstr ""
+
+msgid "Manage Email Templates"
+msgstr ""
+
+msgid "You must supply an email address"
+msgstr ""
+
+msgid "Email re-sent to %s %s"
+msgstr ""
+
+msgid "Email sent to %s"
+msgstr ""
+
+msgid "Email send to %s %s failed"
+msgstr ""
+
+msgid "Email sent to client #%s"
+msgstr ""
+
+msgid "Entered email address is not valid"
+msgstr ""
+
+msgid "Sending emails is turned off"
+msgstr ""
+
+msgid "Emails Sent"
+msgstr ""
+
+msgid "Email Templates"
+msgstr ""
+
+msgid "empty"
+msgstr ""
+
+msgid "Details field is empty"
+msgstr ""
+
+msgid "empty hostname"
+msgstr ""
+
+msgid "empty name"
+msgstr ""
+
+msgid "Enable Stock Control"
+msgstr ""
+
+msgid "Enable Upgrades"
+msgstr ""
+
+msgid "Enable Vouchers"
+msgstr ""
+
+msgid "Enom Certificates"
+msgstr ""
+
+msgid "Enter your activation code below to activate the HostBill copy."
+msgstr ""
+
+msgid "An error with your license occurred."
+msgstr ""
+
+msgid "An error occured"
+msgstr ""
+
+msgid "Estimate #%s converted to invoice #%s"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "Estimate ID"
+msgstr ""
+
+msgid "Exchange rate"
+msgstr ""
+
+msgid "Expand"
+msgstr ""
+
+msgid "Expiration date"
+msgstr ""
+
+msgid "Expiry Date"
+msgstr ""
+
+msgid "Extended info updated."
+msgstr ""
+
+msgid "Extra Fields"
+msgstr ""
+
+msgid ""
+"Allows you to gather additional information from client regarding ordered "
+"product."
+msgstr ""
+
+msgid "Fees"
+msgstr ""
+
+msgid "Field Type"
+msgstr ""
+
+msgid "Attached file: %s has an invalid extension"
+msgstr ""
+
+msgid "Attached file: %s is bigger than the maximum allowed size"
+msgstr ""
+
+msgid "<b>Filter Data</b>"
+msgstr ""
+
+msgid "Filter is active, some data may be omitted - reset filter"
+msgstr ""
+
+msgid "Find related invoices"
+msgstr ""
+
+msgid "First Name"
+msgstr ""
+
+msgid "First name field cannot be empty"
+msgstr ""
+
+msgid "First Payment Amount"
+msgstr ""
+
+msgid "Fraud Protection Modules"
+msgstr ""
+
+msgid "From category"
+msgstr ""
+
+msgid "Function has been scheduled for execution"
+msgstr ""
+
+msgid "General Settings"
+msgstr ""
+
+msgid "General details"
+msgstr ""
+
+msgid "Go to:"
+msgstr ""
+
+msgid "Total gross price"
+msgstr ""
+
+msgid "Guaranteed RAM"
+msgstr ""
+
+msgid "Account is pending upgrade from another order"
+msgstr ""
+
+msgid "Hostbill Order Ownership change "
+msgstr ""
+
+msgid "Hostbill Order assigned to me"
+msgstr ""
+
+msgid "here"
+msgstr ""
+
+msgid "hidden"
+msgstr ""
+
+msgid ""
+"Note: This product is currently hidden. Ordering is only possible using "
+"Direct Cart link"
+msgstr ""
+
+msgid "hide"
+msgstr ""
+
+msgid "Hide Product"
+msgstr ""
+
+msgid "Hide details"
+msgstr ""
+
+msgid "Hosting Modules"
+msgstr ""
+
+msgid "ID #"
+msgstr ""
+
+msgid "PHP IMAP extension isn't installed, POP import method won't be working"
+msgstr ""
+
+msgid "Import Accounts"
+msgstr ""
+
+msgid "Import from cPanel"
+msgstr ""
+
+msgid "Import from DirectAdmin"
+msgstr ""
+
+msgid "Import from InterWorx"
+msgstr ""
+
+msgid "Import from Plesk"
+msgstr ""
+
+msgid "Import from SolusVM"
+msgstr ""
+
+msgid "Import from VPS.net"
+msgstr ""
+
+msgid "Import accounts"
+msgstr ""
+
+msgid "Importing domains is only possible after importing clients and orders"
+msgstr ""
+
+msgid "Import of account #%s failed - related client not found"
+msgstr ""
+
+msgid "Import of account #%s failed - related package found"
+msgstr ""
+
+msgid "Import of account #%s failed - related order not found"
+msgstr ""
+
+msgid "Import of account #%s failed - related server not found"
+msgstr ""
+
+msgid "Importing account addon #%s failed - related account not found"
+msgstr ""
+
+msgid "Importing account addon #%s failed - related order not found"
+msgstr ""
+
+msgid "Importing domain %s failed - related client not found"
+msgstr ""
+
+msgid "Importing domain %s failed - related order not found"
+msgstr ""
+
+msgid "Importing invoice #%s failed - client not found"
+msgstr ""
+
+msgid "Importing order id #%s failed - client not found"
+msgstr ""
+
+msgid "Importing transaction #%s failed - related client not found"
+msgstr ""
+
+msgid "Invoice import is impossible w/o importing clients first!"
+msgstr ""
+
+msgid ""
+"Importing accounts is possible only after importing clients, packages, "
+"orders and servers"
+msgstr ""
+
+msgid "Transaction import is impossible w/o importing clients first!"
+msgstr ""
+
+msgid "Transaction import is impossible w/o importing invoices first!"
+msgstr ""
+
+msgid "Import from ClientExec"
+msgstr ""
+
+msgid "Import from WHMCS"
+msgstr ""
+
+msgid "Including"
+msgstr ""
+
+msgid "Configuration  saved"
+msgstr ""
+
+msgid "Info Pages"
+msgstr ""
+
+msgid "Tickets In-Progress"
+msgstr ""
+
+msgid "Account number is invalid"
+msgstr ""
+
+msgid "Invalid hostname"
+msgstr ""
+
+msgid "Routing number provided is invalid"
+msgstr ""
+
+msgid "Invalid OS template"
+msgstr ""
+
+msgid ""
+"You need to log in firstly,  or use valid token to perform this operation"
+msgstr ""
+
+msgid "Date of Invoice"
+msgstr ""
+
+msgid "Date Paid: "
+msgstr ""
+
+msgid "From:"
+msgstr ""
+
+msgid "Invoice ID"
+msgstr ""
+
+msgid "Invoice notes modified"
+msgstr ""
+
+msgid "Invoice #%s Reminder sent to client"
+msgstr ""
+
+msgid "Invoice sent to client"
+msgstr ""
+
+msgid "Status:"
+msgstr ""
+
+msgid "To:"
+msgstr ""
+
+msgid "Invoice Date"
+msgstr ""
+
+msgid "Total due"
+msgstr ""
+
+msgid "Invoice #"
+msgstr ""
+
+msgid "invoices"
+msgstr ""
+
+msgid "Invoices URL"
+msgstr ""
+
+msgid "Admin area IP access"
+msgstr ""
+
+msgid "Your IP is banned for 5 hours due to a third failed attempt log."
+msgstr ""
+
+msgid "Item Description can't be empty!"
+msgstr ""
+
+msgid "Are you sure you want to remove this item from order?"
+msgstr ""
+
+msgid "Your current admin role doesn't  allow you to see this content"
+msgstr ""
+
+msgid "You do not have privileges to change ownership"
+msgstr ""
+
+msgid "Manage Language & Translations"
+msgstr ""
+
+msgid "Language settings"
+msgstr ""
+
+msgid "Last logged in at: "
+msgstr ""
+
+msgid "from: "
+msgstr ""
+
+msgid "Last Name"
+msgstr ""
+
+msgid "Last name field cannot be empty"
+msgstr ""
+
+msgid "Last Replier"
+msgstr ""
+
+msgid "Left to pay"
+msgstr ""
+
+msgid ""
+"Your license is invalid or it hasn't been activated. Please login to "
+"the hostbillapp.com clientarea and make sure your domain, IP and path to "
+"your installation of HostBill match"
+msgstr ""
+
+msgid ""
+"Your license has expired. Please pay any overdue HostBill invoices to "
+"reactivate your license."
+msgstr ""
+
+msgid "Your license suspended, contact HostBill for details."
+msgstr ""
+
+msgid "View Clients"
+msgstr ""
+
+msgid "Logged in as"
+msgstr ""
+
+msgid "Login Notifications"
+msgstr ""
+
+msgid "You logged in"
+msgstr ""
+
+msgid "System Logs Section"
+msgstr ""
+
+msgid "Main IP"
+msgstr ""
+
+msgid "Manage Affiliates"
+msgstr ""
+
+msgid "Manage / Use Ticket Macro"
+msgstr ""
+
+msgid "Manage Addons"
+msgstr ""
+
+msgid "Manage Clients"
+msgstr ""
+
+msgid "Manage Customers"
+msgstr ""
+
+msgid "Manage logs"
+msgstr ""
+
+msgid "Manage Modules"
+msgstr ""
+
+msgid "Manage Servers"
+msgstr ""
+
+msgid "Manage your list"
+msgstr ""
+
+msgid "Apps"
+msgstr ""
+
+msgid "Manual Mode"
+msgstr ""
+
+msgid "Marketing"
+msgstr ""
+
+msgid "Match"
+msgstr ""
+
+msgid "Messaging settings"
+msgstr ""
+
+msgid "Called method isn't allowed for API access"
+msgstr ""
+
+msgid "Called API method is not supported"
+msgstr ""
+
+msgid "Miscellaneous"
+msgstr ""
+
+msgid "Selected module configuration saved"
+msgstr ""
+
+msgid "Module Name"
+msgstr ""
+
+msgid "more"
+msgstr ""
+
+msgid "More modules"
+msgstr ""
+
+msgid "More actions"
+msgstr ""
+
+msgid "More options"
+msgstr ""
+
+msgid "move"
+msgstr ""
+
+msgid "My Account"
+msgstr ""
+
+msgid "My Macros"
+msgstr ""
+
+msgid "My Replies"
+msgstr ""
+
+msgid "Database Connect Error, check configuration"
+msgstr ""
+
+msgid "My Support Tickets"
+msgstr ""
+
+msgid "My tickets"
+msgstr ""
+
+msgid "Name field cannot be empty"
+msgstr ""
+
+msgid "Total net price"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "Latest Version"
+msgstr ""
+
+msgid "New Account"
+msgstr ""
+
+msgid "Store ACH details"
+msgstr ""
+
+msgid "New currency:"
+msgstr ""
+
+msgid "New Estimate"
+msgstr ""
+
+msgid "More Payment Gateways"
+msgstr ""
+
+msgid "More Hosting Modules"
+msgstr ""
+
+msgid "New line"
+msgstr ""
+
+msgid "Create new macro"
+msgstr ""
+
+msgid "Compose New Message"
+msgstr ""
+
+msgid "New owner:"
+msgstr ""
+
+msgid "More Registrars"
+msgstr ""
+
+msgid "More Products"
+msgstr ""
+
+msgid "Add New Welcome Email"
+msgstr ""
+
+msgid "Next Due Date"
+msgstr ""
+
+msgid "Next Invoice Date"
+msgstr ""
+
+msgid "Next due"
+msgstr ""
+
+msgid "Next invoice total"
+msgstr ""
+
+msgid "No client attached"
+msgstr ""
+
+msgid "No email specified"
+msgstr ""
+
+msgid "No payment module or client attached"
+msgstr ""
+
+msgid "You did not stored your Bank account details yet"
+msgstr ""
+
+msgid "No change"
+msgstr ""
+
+msgid "No modules available to activate"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Notes:"
+msgstr ""
+
+msgid "Notes (Admin only)"
+msgstr ""
+
+msgid "Nothing to display"
+msgstr ""
+
+msgid "Nothing found."
+msgstr ""
+
+msgid "Notification modules"
+msgstr ""
+
+msgid "Notify Client ?"
+msgstr ""
+
+msgid "You're not logged in"
+msgstr ""
+
+msgid "-"
+msgstr ""
+
+msgid "no."
+msgstr ""
+
+msgid "of"
+msgstr ""
+
+msgid "of:"
+msgstr ""
+
+msgid "OnApp"
+msgstr ""
+
+msgid "OnApp FlexiCloud"
+msgstr ""
+
+msgid "OnApp LoadBalancer"
+msgstr ""
+
+msgid "OpenSRS Certificates"
+msgstr ""
+
+msgid "OpenStack"
+msgstr ""
+
+msgid "Open Support Ticket"
+msgstr ""
+
+msgid "Open Tickets"
+msgstr ""
+
+msgid ""
+"Optional extras that you want to offer with this product, with separate "
+"billing"
+msgstr ""
+
+msgid "Order #%s activated"
+msgstr ""
+
+msgid "Order #%s addons activated"
+msgstr ""
+
+msgid "Order #%s addons status marked Cancelled"
+msgstr ""
+
+msgid "Order #%s addons deleted"
+msgstr ""
+
+msgid "Order #%s addons status marked Pending"
+msgstr ""
+
+msgid "Order #%s marked Cancelled"
+msgstr ""
+
+msgid "Order #%s deleted"
+msgstr ""
+
+msgid "Order #%s domains status marked Pending"
+msgstr ""
+
+msgid "Order #%s domains status marked Cancelled"
+msgstr ""
+
+msgid "Order #%s domains deleted"
+msgstr ""
+
+msgid "Invoice #%s marked Cancelled"
+msgstr ""
+
+msgid "Invoice #%s deleted"
+msgstr ""
+
+msgid "Invoice #%s status changed to: %s balance: %s"
+msgstr ""
+
+msgid "Order marked referred"
+msgstr ""
+
+msgid "Order #%s marked Fraud"
+msgstr ""
+
+msgid "Order #%s marked Pending"
+msgstr ""
+
+msgid "Order #"
+msgstr ""
+
+msgid "Order ID"
+msgstr ""
+
+msgid "Order Log"
+msgstr ""
+
+msgid "orders"
+msgstr ""
+
+msgid "Orders &amp; Accounts"
+msgstr ""
+
+msgid "Order type"
+msgstr ""
+
+msgid "Original"
+msgstr ""
+
+msgid "Order Pages"
+msgstr ""
+
+msgid "OS Template"
+msgstr ""
+
+msgid "other"
+msgstr ""
+
+msgid "Other Services"
+msgstr ""
+
+msgid "Other settings"
+msgstr ""
+
+msgid "Owner"
+msgstr ""
+
+msgid "Package for this account  changed"
+msgstr ""
+
+msgid "Package Change Failed"
+msgstr ""
+
+msgid "paid"
+msgstr ""
+
+msgid "Parent Category"
+msgstr ""
+
+msgid "Password has been changed - please re-login"
+msgstr ""
+
+msgid "Password requires at least one lowercase character"
+msgstr ""
+
+msgid "Password requires at least one numeric character"
+msgstr ""
+
+msgid "Password requires at least one symbol character"
+msgstr ""
+
+msgid "Password requires at least one uppercase character"
+msgstr ""
+
+msgid "Forgot password?"
+msgstr ""
+
+msgid "Password is too short (minimum is %d characters)"
+msgstr ""
+
+msgid "Password Settings"
+msgstr ""
+
+msgid "You didn't enter a password"
+msgstr ""
+
+msgid "Passwords don't match"
+msgstr ""
+
+msgid "Payment Gateway"
+msgstr ""
+
+msgid "Payment Gateways"
+msgstr ""
+
+msgid "Payment Modules"
+msgstr ""
+
+msgid "Payment received"
+msgstr ""
+
+msgid "Payment type:"
+msgstr ""
+
+msgid "Payment Method"
+msgstr ""
+
+msgid "Sent in PDF form, as agreed in Terms and Conditions"
+msgstr ""
+
+msgid "Phone Number"
+msgstr ""
+
+msgid "You didn't enter a phone number"
+msgstr ""
+
+msgid "Please note"
+msgstr ""
+
+msgid "Zip Code"
+msgstr ""
+
+msgid "You didn't enter a postal code"
+msgstr ""
+
+msgid "PowerDNS"
+msgstr ""
+
+msgid "Predefined Replies"
+msgstr ""
+
+msgid "Predefined replies"
+msgstr ""
+
+msgid "preview"
+msgstr ""
+
+msgid "Invoice Preview"
+msgstr ""
+
+msgid "Priority"
+msgstr ""
+
+msgid "This product requires domain registration or transfer"
+msgstr ""
+
+msgid "Configuration Fields"
+msgstr ""
+
+msgid "Product Configuration Fields"
+msgstr ""
+
+msgid "Product Addons"
+msgstr ""
+
+msgid "Product Name"
+msgstr ""
+
+msgid "Manage Product & Addons"
+msgstr ""
+
+msgid "Products &amp; Services"
+msgstr ""
+
+msgid "Pro Forma Invoice"
+msgstr ""
+
+msgid "Promotional Codes"
+msgstr ""
+
+msgid "Manage Promotional codes"
+msgstr ""
+
+msgid "Qty: "
+msgstr ""
+
+msgid "QuickMachines VPS"
+msgstr ""
+
+msgid "Recent Orders"
+msgstr ""
+
+msgid "Recurring Invoice"
+msgstr ""
+
+msgid "Recurring Amount"
+msgstr ""
+
+msgid "Referral"
+msgstr ""
+
+msgid "Registration Date"
+msgstr ""
+
+msgid "Reg. Date"
+msgstr ""
+
+msgid "Register new client"
+msgstr ""
+
+msgid "Register New Client"
+msgstr ""
+
+msgid "Register New Customer"
+msgstr ""
+
+msgid "Registrar Name"
+msgstr ""
+
+msgid "Registration Period"
+msgstr ""
+
+msgid "Related invoice"
+msgstr ""
+
+msgid "Related transactions:"
+msgstr ""
+
+msgid "Related Client"
+msgstr ""
+
+msgid "Remember me"
+msgstr ""
+
+msgid "Remove Support tickets"
+msgstr ""
+
+msgid "Remove ACH details"
+msgstr ""
+
+msgid "Are you sure you wish to remove ACH details?"
+msgstr ""
+
+msgid "Repeat Password"
+msgstr ""
+
+msgid "Reply added, ticket status changed to %s"
+msgstr ""
+
+msgid "Required Field"
+msgstr ""
+
+msgid "Reseller Accounts"
+msgstr ""
+
+msgid "Reseller Hosting Account"
+msgstr ""
+
+msgid "re-send"
+msgstr ""
+
+msgid "Password changed, check your email for your new password"
+msgstr ""
+
+msgid "Reset Changes"
+msgstr ""
+
+msgid "Message with new password change confirmation was sent before"
+msgstr ""
+
+msgid ""
+"If you want to reset password again please wait 1 minute before another "
+"request."
+msgstr ""
+
+msgid "Enter your email below"
+msgstr ""
+
+msgid "Message with password change confirmation sent to you by email."
+msgstr ""
+
+msgid "Sorry, we couldn't find anyone with that email address"
+msgstr ""
+
+msgid ""
+"You must log in to access this page. These login details differ from your "
+"website control panel user name and password."
+msgstr ""
+
+msgid "Revert changes"
+msgstr ""
+
+msgid "ROOT Password"
+msgstr ""
+
+msgid "You must save your product before you can add extra configuration."
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "save draft"
+msgstr ""
+
+msgid "Save Notes"
+msgstr ""
+
+msgid "Savings"
+msgstr ""
+
+msgid "Schedule new task"
+msgstr ""
+
+msgid "Search for:"
+msgstr ""
+
+msgid "second(s)"
+msgstr ""
+
+msgid "Security settings"
+msgstr ""
+
+msgid "Select/Unselect all"
+msgstr ""
+
+msgid "--- Select Client ---"
+msgstr ""
+
+msgid "Send as plain text"
+msgstr ""
+
+msgid "Send email"
+msgstr ""
+
+msgid "server"
+msgstr ""
+
+msgid "Dedicated Servers"
+msgstr ""
+
+msgid "Server details"
+msgstr ""
+
+msgid "Server Name"
+msgstr ""
+
+msgid "service"
+msgstr ""
+
+msgid "Setup Fee"
+msgstr ""
+
+msgid "Shared Accounts"
+msgstr ""
+
+msgid "Shared Hosting Account"
+msgstr ""
+
+msgid "Share with"
+msgstr ""
+
+msgid "Show inactive modules"
+msgstr ""
+
+msgid "Show Product"
+msgstr ""
+
+msgid "Show details"
+msgstr ""
+
+msgid "Showing"
+msgstr ""
+
+msgid "Show Location in ClientArea"
+msgstr ""
+
+msgid "Show Log"
+msgstr ""
+
+msgid "SimpleHosting"
+msgstr ""
+
+msgid "Smart search"
+msgstr ""
+
+msgid "Mobile notification sent to client"
+msgstr ""
+
+msgid "SolusVM VPS"
+msgstr ""
+
+msgid "Manage Staff Members"
+msgstr ""
+
+msgid "Staff ownership"
+msgstr ""
+
+msgid "State/Region"
+msgstr ""
+
+msgid "You didn't enter a state"
+msgstr ""
+
+msgid "Status URL"
+msgstr ""
+
+msgid "Step 1"
+msgstr ""
+
+msgid "Step 2"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Support Tickets"
+msgstr ""
+
+msgid "This module doesn't support the Suspend command"
+msgstr ""
+
+msgid "System URL"
+msgstr ""
+
+msgid "System Log"
+msgstr ""
+
+msgid "System Logs"
+msgstr ""
+
+msgid "Statistics & Reports"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Take Ownership"
+msgstr ""
+
+msgid "Tax Amount"
+msgstr ""
+
+msgid "Tax Settings"
+msgstr ""
+
+msgid "Tax Rules"
+msgstr ""
+
+msgid "To start using HostBill email ticketing system, add support department"
+msgstr ""
+
+msgid "Keep your communication with clients organized"
+msgstr ""
+
+msgid "Email is now enabled for sending"
+msgstr ""
+
+msgid "This module doesn't support the Terminate command"
+msgstr ""
+
+msgid "Test Configuration"
+msgstr ""
+
+msgid "Function isn't supported by this module."
+msgstr ""
+
+msgid "Third party app"
+msgstr ""
+
+msgid "Ticket sharing was successful"
+msgstr ""
+
+msgid "Ticket block rules"
+msgstr ""
+
+msgid "Ticket Department doesn't exists"
+msgstr ""
+
+msgid "Ticket departments"
+msgstr ""
+
+msgid "Ticket Filters"
+msgstr ""
+
+msgid "Ticket #"
+msgstr ""
+
+msgid "Ticket Import Log"
+msgstr ""
+
+msgid "Ticket Macros"
+msgstr ""
+
+msgid "Hostbill Ticket Notes Updated"
+msgstr ""
+
+msgid "tickets"
+msgstr ""
+
+msgid "Ticket sharing"
+msgstr ""
+
+msgid "to add."
+msgstr ""
+
+msgid "Supplied token is wrong. You need to log in"
+msgstr ""
+
+msgid "to manage"
+msgstr ""
+
+msgid "Value too large"
+msgstr ""
+
+msgid "Top category"
+msgstr ""
+
+msgid "to register new"
+msgstr ""
+
+msgid "to start"
+msgstr ""
+
+msgid "Transaction Date"
+msgstr ""
+
+msgid "Transaction Fees"
+msgstr ""
+
+msgid "Transaction #"
+msgstr ""
+
+msgid "transactions"
+msgstr ""
+
+msgid "Please try again later."
+msgstr ""
+
+msgid "Unable to add items"
+msgstr ""
+
+msgid "Unit cost"
+msgstr ""
+
+msgid "unread"
+msgstr ""
+
+msgid "Disable sharing"
+msgstr ""
+
+msgid "Are you sure you want to stop sharing this ticket?"
+msgstr ""
+
+msgid "This module doesn't support the Unsuspended command"
+msgstr ""
+
+msgid "Use Hash"
+msgstr ""
+
+msgid "User with this email  exists in database"
+msgstr ""
+
+msgid "User with this first and lastname  exists in database"
+msgstr ""
+
+msgid "User name field cannot be empty"
+msgstr ""
+
+msgid "This username is  taken"
+msgstr ""
+
+msgid "VAT"
+msgstr ""
+
+msgid "View Accounts"
+msgstr ""
+
+msgid "View Domains"
+msgstr ""
+
+msgid "Access Email Logs"
+msgstr ""
+
+msgid "View Estimates "
+msgstr ""
+
+msgid "View Invoices"
+msgstr ""
+
+msgid "Access Logs"
+msgstr ""
+
+msgid "View Orders"
+msgstr ""
+
+msgid "View Statistics"
+msgstr ""
+
+msgid "Access Support"
+msgstr ""
+
+msgid "View Transactions"
+msgstr ""
+
+msgid "Virtualization"
+msgstr ""
+
+msgid "VPS.NET Cloud"
+msgstr ""
+
+msgid "Welcome back"
+msgstr ""
+
+msgid "Welcome to HostBill, your hosting billing system. <br /"
+msgstr ""
+
+msgid "Welcome Messages"
+msgstr ""
+
+msgid "When finished"
+msgstr ""
+
+msgid "Connection established, your WHMCS version : %s"
+msgstr ""
+
+msgid "Enter WHMCS database hostname"
+msgstr ""
+
+msgid "Enter WHMCS database name"
+msgstr ""
+
+msgid "Enter WHMCS database password"
+msgstr ""
+
+msgid "Enter WHMCS database username"
+msgstr ""
+
+msgid "Error connecting to database: %s"
+msgstr ""
+
+msgid "No accounts were found"
+msgstr ""
+
+msgid "No addons were found"
+msgstr ""
+
+msgid "No admins were found"
+msgstr ""
+
+msgid "No clients were found"
+msgstr ""
+
+msgid "No departments were found"
+msgstr ""
+
+msgid "No domains were found"
+msgstr ""
+
+msgid "No invoices were found"
+msgstr ""
+
+msgid "No orders were found"
+msgstr ""
+
+msgid "No packages were found"
+msgstr ""
+
+msgid "Connection succeeded, but no WHMCS tables found"
+msgstr ""
+
+msgid "No tickets were found"
+msgstr ""
+
+msgid "No tickets replies were found"
+msgstr ""
+
+msgid "No transactions were found"
+msgstr ""
+
+msgid "Accounts imported"
+msgstr ""
+
+msgid "Addons imported "
+msgstr ""
+
+msgid "Admin imported "
+msgstr ""
+
+msgid "Client imported "
+msgstr ""
+
+msgid "Ticket departments imported"
+msgstr ""
+
+msgid "Domains imported"
+msgstr ""
+
+msgid "Invoices imported "
+msgstr ""
+
+msgid "Orders imported"
+msgstr ""
+
+msgid "Packages imported "
+msgstr ""
+
+msgid "Servers imported "
+msgstr ""
+
+msgid "Tickets imported"
+msgstr ""
+
+msgid "Ticket replies imported"
+msgstr ""
+
+msgid "Transactions imported"
+msgstr ""
+
+msgid ""
+"Your WHMCS version [%s] is not supported yet. Versions supported are from %s "
+"to %s"
+msgstr ""
+
+msgid ""
+"Connection succeeded, but I cannot specify version number from configuration"
+msgstr ""
+
+msgid "With selected:"
+msgstr ""
+
+msgid ""
+"Your current administrator group doesn't allow you to access this cmd/action"
+msgstr ""
+
+msgid "E-mail And/Or Password are wrong"
+msgstr ""
+
+msgid "You have entered an invalid username or password."
+msgstr ""
+
+msgid "Year/s"
+msgstr ""
+
+msgid "Your IP banned "
+msgstr ""

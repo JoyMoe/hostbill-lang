@@ -1,0 +1,43 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Account create"
+msgstr ""
+
+msgid "Account suspension"
+msgstr ""
+
+msgid "Account termination"
+msgstr ""
+
+msgid "Account unsuspension"
+msgstr ""
+
+msgid "New order"
+msgstr ""
+
+msgid "Add new task"
+msgstr ""
+
+msgid "New automation task has been created."
+msgstr ""
+
+msgid "Are you sure you want to remove this task?"
+msgstr ""
+
+msgid "Selected task has been removed"
+msgstr ""
+
+msgid "Task has been updated"
+msgstr ""

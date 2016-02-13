@@ -1,0 +1,58 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Account"
+msgstr ""
+
+msgid "account will be suspended"
+msgstr ""
+
+msgid "account will be terminated"
+msgstr ""
+
+msgid "Addon"
+msgstr ""
+
+msgid "addon will be suspended"
+msgstr ""
+
+msgid "addon will be terminated"
+msgstr ""
+
+msgid "Place auto-renewal order"
+msgstr ""
+
+msgid "Mark domain as Expired"
+msgstr ""
+
+msgid "Send domain expiration reminder"
+msgstr ""
+
+msgid "In "
+msgstr ""
+
+msgid "late fee will be added"
+msgstr ""
+
+msgid "next invoice will be generated"
+msgstr ""
+
+msgid "No upcoming automation tasks found"
+msgstr ""
+
+msgid "overdue reminder will be sent"
+msgstr ""
+
+msgid "unpaid reminder will be sent"
+msgstr ""

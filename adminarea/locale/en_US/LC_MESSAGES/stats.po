@@ -1,0 +1,226 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Last 2 Months"
+msgstr ""
+
+msgid "Last 4 Months"
+msgstr ""
+
+msgid "Last 7 Days"
+msgstr ""
+
+msgid "Last Day"
+msgstr ""
+
+msgid "Last Month"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Accounts statuses"
+msgstr ""
+
+msgid "Paid Accounts"
+msgstr ""
+
+msgid "New paid accounts"
+msgstr ""
+
+msgid "Average time not available for current month"
+msgstr ""
+
+msgid "Average response time"
+msgstr ""
+
+msgid "Average time from opening ticket to first staff response"
+msgstr ""
+
+msgid "Average resolve time"
+msgstr ""
+
+msgid "Time from opening ticket replying and closing it"
+msgstr ""
+
+msgid "By Country"
+msgstr ""
+
+msgid "day(s)"
+msgstr ""
+
+msgid "Domains statuses"
+msgstr ""
+
+msgid "Pick Date"
+msgstr ""
+
+msgid "hour(s)"
+msgstr ""
+
+msgid "minute(s)"
+msgstr ""
+
+msgid "Monthly income"
+msgstr ""
+
+msgid "Monthly signups"
+msgstr ""
+
+msgid "Active orders"
+msgstr ""
+
+msgid "of %d total income"
+msgstr ""
+
+msgid "Cancelled orders"
+msgstr ""
+
+msgid "of %d lost income"
+msgstr ""
+
+msgid "Pending orders"
+msgstr ""
+
+msgid "of %d posible income"
+msgstr ""
+
+msgid "Orders were found"
+msgstr ""
+
+msgid "of %d total posible income"
+msgstr ""
+
+msgid "Orders report"
+msgstr ""
+
+msgid "Orders statuses"
+msgstr ""
+
+msgid "New orders"
+msgstr ""
+
+msgid "Package usage"
+msgstr ""
+
+msgid "Replies per admin"
+msgstr ""
+
+msgid "Reports"
+msgstr ""
+
+msgid "Line 1: (1 replier)"
+msgstr ""
+
+msgid "Line 2: (2+ repliers)"
+msgstr ""
+
+msgid "Income"
+msgstr ""
+
+msgid "Users singup"
+msgstr ""
+
+msgid "Signups"
+msgstr ""
+
+msgid "Status breakdown"
+msgstr ""
+
+msgid "Support line breakdown"
+msgstr ""
+
+msgid "Support statistics"
+msgstr ""
+
+msgid "was collected in fees"
+msgstr ""
+
+msgid "Incoming transactions"
+msgstr ""
+
+msgid "Outgoing transactions"
+msgstr ""
+
+msgid "of %d total outcome"
+msgstr ""
+
+msgid "Transactions were found"
+msgstr ""
+
+msgid "and %d total outcome"
+msgstr ""
+
+msgid "Active tickets"
+msgstr ""
+
+msgid "all ticket have been serviced"
+msgstr ""
+
+msgid "tickets hasn't been read yet"
+msgstr ""
+
+msgid "Closed tickets"
+msgstr ""
+
+msgid "Tickets were found"
+msgstr ""
+
+msgid "of all %d tickets"
+msgstr ""
+
+msgid "Ticket(s)"
+msgstr ""
+
+msgid "Tickets report"
+msgstr ""
+
+msgid "Tickets per month"
+msgstr ""
+
+msgid "Tickets"
+msgstr ""
+
+msgid "New tickets"
+msgstr ""
+
+msgid "Transactions report"
+msgstr ""
+
+msgid "Transactions"
+msgstr ""
+
+msgid "Active users"
+msgstr ""
+
+msgid "have purchased %d services"
+msgstr ""
+
+msgid "and registered %d domains"
+msgstr ""
+
+msgid "New users have signed"
+msgstr ""
+
+msgid "beetwen %a and %b"
+msgstr ""
+
+msgid "Users singup report"
+msgstr ""
+
+msgid "New users"
+msgstr ""
+
+msgid "weeks(s)"
+msgstr ""

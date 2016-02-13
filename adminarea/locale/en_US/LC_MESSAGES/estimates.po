@@ -1,0 +1,121 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Email Estimate to client"
+msgstr ""
+
+msgid "Client link to html version:"
+msgstr ""
+
+msgid "Convert to invoice"
+msgstr ""
+
+msgid "New estimate has been created"
+msgstr ""
+
+msgid "New estimate"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Download PDF"
+msgstr ""
+
+msgid "Estimate #%s deleted"
+msgstr ""
+
+msgid "Estimate #%s marked Accepted"
+msgstr ""
+
+msgid "Estimate #%s marked Dead"
+msgstr ""
+
+msgid "Estimate #%s marked Draft"
+msgstr ""
+
+msgid "Estimate #%s marked Invoiced"
+msgstr ""
+
+msgid "Estimate #%s marked Sent"
+msgstr ""
+
+msgid "Estimate #%s sent to client"
+msgstr ""
+
+msgid "Estimate details updated"
+msgstr ""
+
+msgid "Admin only notes"
+msgstr ""
+
+msgid "Estimate notes modified"
+msgstr ""
+
+msgid "Estimate sent to client"
+msgstr ""
+
+msgid "Estimate subject saved"
+msgstr ""
+
+msgid "Estimate details"
+msgstr ""
+
+msgid "Estimate #"
+msgstr ""
+
+msgid "Edit Estimate Notes"
+msgstr ""
+
+msgid "Edit Admin-Only Notes"
+msgstr ""
+
+msgid "Estimate notes"
+msgstr ""
+
+msgid "Selected estimates deleted"
+msgstr ""
+
+msgid "Selected estimates marked Accepted"
+msgstr ""
+
+msgid "Selected estimates marked Dead"
+msgstr ""
+
+msgid "Selected estimates marked Draft"
+msgstr ""
+
+msgid "Selected estimates marked Invoiced"
+msgstr ""
+
+msgid "Selected estimates Sent"
+msgstr ""
+
+msgid "Selected estimates sent to client"
+msgstr ""
+
+msgid "Subject :"
+msgstr ""
+
+msgid "Pick one option"
+msgstr ""
+
+msgid "Tax L1"
+msgstr ""
+
+msgid "Tax L2"
+msgstr ""
+
+msgid "Valid Until"
+msgstr ""

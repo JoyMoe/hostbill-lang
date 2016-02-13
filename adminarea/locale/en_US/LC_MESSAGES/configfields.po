@@ -1,0 +1,261 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "New"
+msgstr ""
+
+msgid "OnApp Cloud Select"
+msgstr ""
+
+msgid "Add new customization option"
+msgstr ""
+
+msgid "Adding new item to:"
+msgstr ""
+
+msgid "Add billable configuration fields"
+msgstr ""
+
+msgid ""
+"Let your clients configure their products, ideal for dedicated servers, "
+"colocation etc."
+msgstr ""
+
+msgid ""
+"Let your customers configure their product during order, gather additional "
+"information, bill for product customization"
+msgstr ""
+
+msgid "New custom field value added"
+msgstr ""
+
+msgid "New configuration field addded"
+msgstr ""
+
+msgid "Configuration field details updated"
+msgstr ""
+
+msgid "Configuration field deleted"
+msgstr ""
+
+msgid "Selected configuration field value deleted"
+msgstr ""
+
+msgid "Config option has been duplicated"
+msgstr ""
+
+msgid "Name cannot be empty"
+msgstr ""
+
+msgid "QTY and On/Off type allows only one value"
+msgstr ""
+
+msgid "Configuration field value updated"
+msgstr ""
+
+msgid "Set price per 1 item of this field"
+msgstr ""
+
+msgid "You can charge your clients for choosing this value"
+msgstr ""
+
+msgid "Checkbox"
+msgstr ""
+
+msgid ""
+"Allow customers  to choose multiple values , you can define additional "
+"prices per values"
+msgstr ""
+
+msgid "Create new field"
+msgstr ""
+
+msgid "Date Field"
+msgstr ""
+
+msgid "Client can enter date using handy datepicker"
+msgstr ""
+
+msgid "For example: \"Select one\""
+msgstr ""
+
+msgid "Deault option value"
+msgstr ""
+
+msgid ""
+"Are you sure you want to remove this field?\\nNote: All items associations "
+"in products and accounts will be removed too."
+msgstr ""
+
+msgid ""
+"Are you sure you want to remove this item?\\nNote: All associations in "
+"products and accounts will be removed too."
+msgstr ""
+
+msgid "DNS Management"
+msgstr ""
+
+msgid ""
+"Registrar independent dns management trough hostbill dns services. <a href="
+"\"https://hostbill.atlassian.net/wiki/display/DOCS/Forms+-+DNS+Management"
+"\">Wiki</a>"
+msgstr ""
+
+msgid "Domain-specific fields"
+msgstr ""
+
+msgid "Dropdown"
+msgstr ""
+
+msgid "Enable pricing options"
+msgstr ""
+
+msgid "Encrypted Input"
+msgstr ""
+
+msgid ""
+"Gather additional details about purchased items configuration from clients, "
+"stored in database in encrypted form"
+msgstr ""
+
+msgid "Encrypted Password Input"
+msgstr ""
+
+msgid ""
+"Gather additional details about purchased items configuration from clients, "
+"show password field in cart, store in database in encrypted form"
+msgstr ""
+
+msgid "Add Setup Fees"
+msgstr ""
+
+msgid "Create flexible product with form fields."
+msgstr ""
+
+msgid ""
+"Related product is free, its not possible to set configuraton pricing for "
+"free product."
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "CSS icon class"
+msgstr ""
+
+msgid "WHOIS/ID Protection"
+msgstr ""
+
+msgid ""
+"You can offer your customers WHOIS/ID protection for domain purchases. If "
+"enabled registrar module adds ID Protection to registered / transferred "
+"domain"
+msgstr ""
+
+msgid "Standard text fields"
+msgstr ""
+
+msgid "Text input"
+msgstr ""
+
+msgid ""
+"Gather additional details about purchased items configuration from clients"
+msgstr ""
+
+msgid "Advanced Options"
+msgstr ""
+
+msgid "Groupped Checkbox"
+msgstr ""
+
+msgid ""
+"If you have multiple checkbox to display on one site, you can group them "
+"together using this form item"
+msgstr ""
+
+msgid ""
+"This field allows your customers to select cloud during signup. Once added, "
+"please read 'How to use this field?' in field settings"
+msgstr ""
+
+msgid "Yes / No"
+msgstr ""
+
+msgid "Premade fields"
+msgstr ""
+
+msgid "To save configuration time you can use premade field"
+msgstr ""
+
+msgid "This will overwrite your current values, are you sure?"
+msgstr ""
+
+msgid "Quantity field"
+msgstr ""
+
+msgid "QTY input"
+msgstr ""
+
+msgid ""
+"Enable your customers to specify quantity of additional configuration items, "
+"for example number of IP addresses required"
+msgstr ""
+
+msgid "Radio select"
+msgstr ""
+
+msgid ""
+"Your customers will be able to choose one from number of values, you can "
+"define additional prices per values"
+msgstr ""
+
+msgid "You need to save your field first"
+msgstr ""
+
+msgid "Searchable Dropdown"
+msgstr ""
+
+msgid "Dropdown form that includes search field"
+msgstr ""
+
+msgid "Multiple selection fields"
+msgstr ""
+
+msgid "Dropdown with qty input"
+msgstr ""
+
+msgid ""
+"Your customers will be able to choose one from number of values, and specify "
+"number of those items"
+msgstr ""
+
+msgid "Slider"
+msgstr ""
+
+msgid "Client can set amount of required config by using custom slider"
+msgstr ""
+
+msgid "Slider input"
+msgstr ""
+
+msgid ""
+"Client can set amount of required config by using custom slider or enter it "
+"manually"
+msgstr ""
+
+msgid "Custom/Extra field types"
+msgstr ""
+
+msgid "Text area"
+msgstr ""

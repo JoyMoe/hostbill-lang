@@ -1,0 +1,76 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Add Category"
+msgstr ""
+
+msgid "Add macro"
+msgstr ""
+
+msgid "add new category"
+msgstr ""
+
+msgid "Add Predefined Reply"
+msgstr ""
+
+msgid "Add new macro to your list"
+msgstr ""
+
+msgid "Back to categories"
+msgstr ""
+
+msgid "Create category"
+msgstr ""
+
+msgid "Your macro list is empty, click "
+msgstr ""
+
+msgid "You can add new macro using this section or save your ticket setting for later use."
+msgstr ""
+
+msgid "Category added"
+msgstr ""
+
+msgid "Category deleted"
+msgstr ""
+
+msgid "Category updated"
+msgstr ""
+
+msgid "List categories"
+msgstr ""
+
+msgid "New macro added to your list"
+msgstr ""
+
+msgid "Do you really want to remove this category?"
+msgstr ""
+
+msgid "Do you really want to remove this reply?"
+msgstr ""
+
+msgid "Macro added"
+msgstr ""
+
+msgid "Choose category to add macro into"
+msgstr ""
+
+msgid "Macro removed"
+msgstr ""
+
+msgid "Macro updated"
+msgstr ""
+
+msgid "Reply updated"
+msgstr ""

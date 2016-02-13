@@ -1,0 +1,121 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "All countries"
+msgstr ""
+
+msgid "All states"
+msgstr ""
+
+msgid "Level"
+msgstr ""
+
+msgid "Rate"
+msgstr ""
+
+msgid "Apply tax \"Add funds\" invoices, add net amount to client credit"
+msgstr ""
+
+msgid "Don't Tax  \"Add funds\" invoices"
+msgstr ""
+
+msgid "Apply tax \"Add funds\" invoices, add gross amount to client credit"
+msgstr ""
+
+msgid "Add new rule"
+msgstr ""
+
+msgid "Add premade tax list"
+msgstr ""
+
+msgid "Add Rule"
+msgstr ""
+
+msgid "Add Tax to Late Fee"
+msgstr ""
+
+msgid "Apply Rule to All Countries"
+msgstr ""
+
+msgid "Apply Rule to All States"
+msgstr ""
+
+msgid "Apply Tax to Domains"
+msgstr ""
+
+msgid "Tax \"Add funds\" invoices"
+msgstr ""
+
+msgid "Apply to Specific Country:"
+msgstr ""
+
+msgid "Apply to Specific State:"
+msgstr ""
+
+msgid "Choose country"
+msgstr ""
+
+msgid "Compound L2 Tax"
+msgstr ""
+
+msgid "Are you sure you want to remove all defined tax rules?"
+msgstr ""
+
+msgid "Enable Tax"
+msgstr ""
+
+msgid "exclusive"
+msgstr ""
+
+msgid "inclusive"
+msgstr ""
+
+msgid "You don't have any tax rules defined yet."
+msgstr ""
+
+msgid "Remove all taxes"
+msgstr ""
+
+msgid "Do you really want to remove this Tax Rule?"
+msgstr ""
+
+msgid "Tax added"
+msgstr ""
+
+msgid "Tax removed"
+msgstr ""
+
+msgid "All rules removed"
+msgstr ""
+
+msgid "Tax related configuration updated"
+msgstr ""
+
+msgid "Note: Taxing is currently disabled; changes made here won't affect frontend."
+msgstr ""
+
+msgid "Using premade list you can define all tex rules required for your country with few clicks."
+msgstr ""
+
+msgid "Tax Name"
+msgstr ""
+
+msgid "Tax Rate:"
+msgstr ""
+
+msgid "Tax type:"
+msgstr ""
+
+msgid "Use your country premade tax settings"
+msgstr ""

@@ -1,0 +1,218 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Addon Activated"
+msgstr ""
+
+msgid "Terminate addon after related account termination."
+msgstr ""
+
+msgid "Addon Suspended"
+msgstr ""
+
+msgid "Addon terminated"
+msgstr ""
+
+msgid "Unique"
+msgstr ""
+
+msgid "Allow only one addon per product"
+msgstr ""
+
+msgid "Addon Unsuspended"
+msgstr ""
+
+msgid "Add addon"
+msgstr ""
+
+msgid "Add Category"
+msgstr ""
+
+msgid "Add new category"
+msgstr ""
+
+msgid "Add new product"
+msgstr ""
+
+msgid "Addon added"
+msgstr ""
+
+msgid "Addon has been duplicated"
+msgstr ""
+
+msgid "Cannot remove addon that is in use"
+msgstr ""
+
+msgid "Addon category needs a name"
+msgstr ""
+
+msgid "Addon removed"
+msgstr ""
+
+msgid "Addon updated"
+msgstr ""
+
+msgid "New addon category created"
+msgstr ""
+
+msgid "Category and all addons under it deleted"
+msgstr ""
+
+msgid "Category updated"
+msgstr ""
+
+msgid "This category contains addons that are in use - remove them first"
+msgstr ""
+
+msgid "Addons and addon categories"
+msgstr ""
+
+msgid "Addon Terminated"
+msgstr ""
+
+msgid "Applicable addons"
+msgstr ""
+
+msgid "Applicable to products"
+msgstr ""
+
+msgid "Applicable to addon categories"
+msgstr ""
+
+msgid "Applied addons"
+msgstr ""
+
+msgid "Apply addons"
+msgstr ""
+
+msgid "Automation Module"
+msgstr ""
+
+msgid "Back to addons list"
+msgstr ""
+
+msgid "Back to addon categories"
+msgstr ""
+
+msgid "Create new addon"
+msgstr ""
+
+msgid "Organize your addons into categories"
+msgstr ""
+
+msgid ""
+"Instead of assigning single addons to product, you can assign entire "
+"categories for clients to choose from."
+msgstr ""
+
+msgid ""
+"Offer independently billable extras with your products, with individual "
+"automation settings."
+msgstr ""
+
+msgid "Client can order"
+msgstr ""
+
+msgid "Create Addon Automatically"
+msgstr ""
+
+msgid "Create new category"
+msgstr ""
+
+msgid "Default option name"
+msgstr ""
+
+msgid "Do you really want to delete this addon?"
+msgstr ""
+
+msgid "Do you really want to delete this category?"
+msgstr ""
+
+msgid "Tick this box to show this addon during the order process"
+msgstr ""
+
+msgid "Tick this box to charge tax on this addon"
+msgstr ""
+
+msgid "This addon module requires task to be executed automatically by cron. "
+msgstr ""
+
+msgid "Hide addon"
+msgstr ""
+
+msgid "List services"
+msgstr ""
+
+msgid "Make this addon unique"
+msgstr ""
+
+msgid "Many addons from this category"
+msgstr ""
+
+msgid "Terminate addon automatically after cancellation request is placed"
+msgstr ""
+
+msgid "Autosuspend addon after"
+msgstr ""
+
+msgid "Don't suspend addon automatically"
+msgstr ""
+
+msgid "Terminate addon automatically after"
+msgstr ""
+
+msgid "Don't terminate addon automatically"
+msgstr ""
+
+msgid "Unsuspend addon automatically after receiving due payment"
+msgstr ""
+
+msgid "Don't unsuspend addon automatically"
+msgstr ""
+
+msgid "new addon"
+msgstr ""
+
+msgid "No addons created yet, click"
+msgstr ""
+
+msgid "Only one addon from this category (select)"
+msgstr ""
+
+msgid "Only one addon from this category (radio)"
+msgstr ""
+
+msgid "Products &amp; Addons"
+msgstr ""
+
+msgid "Prorate"
+msgstr ""
+
+msgid "Match price and billing cycle to product (only recurring billing)"
+msgstr ""
+
+msgid "Show on Order"
+msgstr ""
+
+msgid "Tax Addon"
+msgstr ""
+
+msgid "to add new addon"
+msgstr ""
+
+msgid "to add new category"
+msgstr ""
+
+msgid "Update category"
+msgstr ""

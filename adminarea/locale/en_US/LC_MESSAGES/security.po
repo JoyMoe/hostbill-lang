@@ -1,0 +1,151 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Action"
+msgstr ""
+
+msgid "Add API access"
+msgstr ""
+
+msgid "Add Email Domain to banned list:"
+msgstr ""
+
+msgid "Add IP to banned list:"
+msgstr ""
+
+msgid "Add security rule"
+msgstr ""
+
+msgid "Allow"
+msgstr ""
+
+msgid "Adminarea allowed IP's"
+msgstr ""
+
+msgid "Selected API access ID/key has been removed"
+msgstr ""
+
+msgid "API Access"
+msgstr ""
+
+msgid "Are you sure you wish to remove this API access details?"
+msgstr ""
+
+msgid "Do you really want to remove this email from banned list?"
+msgstr ""
+
+msgid "Do you really want to remove this IP from banned list?"
+msgstr ""
+
+msgid "Ban Email Domain"
+msgstr ""
+
+msgid "IP to ban"
+msgstr ""
+
+msgid "Ban reason"
+msgstr ""
+
+msgid "Ban IP"
+msgstr ""
+
+msgid "Security Settings"
+msgstr ""
+
+msgid "Deny"
+msgstr ""
+
+msgid "Given domain is on ban list"
+msgstr ""
+
+msgid "Email domain ban added"
+msgstr ""
+
+msgid "Domain field is required"
+msgstr ""
+
+msgid "New email domain ban rule added"
+msgstr ""
+
+msgid "Email domain ban removed"
+msgstr ""
+
+msgid "This email domain is banned "
+msgstr ""
+
+msgid "Email domain:"
+msgstr ""
+
+msgid "Expires"
+msgstr ""
+
+msgid "That IP number is on ban list"
+msgstr ""
+
+msgid "New IP ban added"
+msgstr ""
+
+msgid "IP ban removed"
+msgstr ""
+
+msgid "This IP is banned "
+msgstr ""
+
+msgid "IP number is required"
+msgstr ""
+
+msgid "IP address / Subnet"
+msgstr ""
+
+msgid "Length"
+msgstr ""
+
+msgid "Login notification"
+msgstr ""
+
+msgid "New API access ID/key generated"
+msgstr ""
+
+msgid "Generate sample password"
+msgstr ""
+
+msgid "Password Generator"
+msgstr ""
+
+msgid "Password Generator options updated"
+msgstr ""
+
+msgid "Passwords"
+msgstr ""
+
+msgid "Pick Date"
+msgstr ""
+
+msgid "Rule"
+msgstr ""
+
+msgid "Do you really want to remove this security rule?"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "Security rule added"
+msgstr ""
+
+msgid "Security rule removed"
+msgstr ""
+
+msgid "Usage Count"
+msgstr ""

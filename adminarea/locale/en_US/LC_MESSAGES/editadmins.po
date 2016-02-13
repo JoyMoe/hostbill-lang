@@ -1,0 +1,214 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "System Configuration"
+msgstr ""
+
+msgid "Accounting"
+msgstr ""
+
+msgid "Add Invoices"
+msgstr ""
+
+msgid "Add Orders"
+msgstr ""
+
+msgid "Add Transactions"
+msgstr ""
+
+msgid "Add group"
+msgstr ""
+
+msgid "New admin added"
+msgstr ""
+
+msgid "New group  created"
+msgstr ""
+
+msgid "Admin Group  deleted"
+msgstr ""
+
+msgid "Group details changed"
+msgstr ""
+
+msgid "Admin removed"
+msgstr ""
+
+msgid "Admin details changed"
+msgstr ""
+
+msgid "API access"
+msgstr ""
+
+msgid "At least one group must have configuration privileges"
+msgstr ""
+
+msgid "Back to groups list"
+msgstr ""
+
+msgid "Browse clients section"
+msgstr ""
+
+msgid "Browse orders section"
+msgstr ""
+
+msgid "Browse payment section"
+msgstr ""
+
+msgid "Browse support section"
+msgstr ""
+
+msgid "You want to remove only admin with full privileges - at least one admin of this type is required"
+msgstr ""
+
+msgid "You can't remove this group - at least one super-admin must remain"
+msgstr ""
+
+msgid "(check all)"
+msgstr ""
+
+msgid "Create new administrator"
+msgstr ""
+
+msgid "Create new group"
+msgstr ""
+
+msgid "Delete clients"
+msgstr ""
+
+msgid "Delete Domains"
+msgstr ""
+
+msgid "Delete accounts/services"
+msgstr ""
+
+msgid "Do you really want to delete this admin?"
+msgstr ""
+
+msgid "Do you really want to delete this group?"
+msgstr ""
+
+msgid "Edit Accounts"
+msgstr ""
+
+msgid "Edit Credit Card Number"
+msgstr ""
+
+msgid "Edit Clients"
+msgstr ""
+
+msgid "Edit Clients Credit"
+msgstr ""
+
+msgid "Edit Domains"
+msgstr ""
+
+msgid "Edit Invoices"
+msgstr ""
+
+msgid "Create Negative Invoices"
+msgstr ""
+
+msgid "Edit Orders"
+msgstr ""
+
+msgid "Edit Transactions"
+msgstr ""
+
+msgid "Edit configuration"
+msgstr ""
+
+msgid "Notification System"
+msgstr ""
+
+msgid "Full Privileges"
+msgstr ""
+
+msgid "Full notification"
+msgstr ""
+
+msgid "Group Name"
+msgstr ""
+
+msgid "Hostbill Account Password Reset"
+msgstr ""
+
+msgid "Hostbill Automatic Setup"
+msgstr ""
+
+msgid "Hostbill Client Details Changed"
+msgstr ""
+
+msgid "Hostbill Create Account"
+msgstr ""
+
+msgid "Hostbill Cron-Run results"
+msgstr ""
+
+msgid "Hostbill Failed Admin Login"
+msgstr ""
+
+msgid "Hostbill New Order"
+msgstr ""
+
+msgid "Hostbill Order Cancellation"
+msgstr ""
+
+msgid "Hostbill Suspend Account"
+msgstr ""
+
+msgid "Hostbill Terminate Account"
+msgstr ""
+
+msgid "Hostbill Unsuspend Account"
+msgstr ""
+
+msgid "List administrators"
+msgstr ""
+
+msgid "List groups"
+msgstr ""
+
+msgid "Login as client"
+msgstr ""
+
+msgid "You don't have any support department configured yet."
+msgstr ""
+
+msgid "Pre-made privileges:"
+msgstr ""
+
+msgid "Pre-made settings:"
+msgstr ""
+
+msgid "Privileges"
+msgstr ""
+
+msgid "Refund Invoices"
+msgstr ""
+
+msgid "Add signature"
+msgstr ""
+
+msgid "This Group can:"
+msgstr ""
+
+msgid "View Credit Card Number"
+msgstr ""
+
+msgid "View Ticket Rating"
+msgstr ""
+
+msgid "You need to log in as other staff member to delete your account"
+msgstr ""

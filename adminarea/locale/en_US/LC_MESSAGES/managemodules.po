@@ -1,0 +1,142 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Activate module"
+msgstr ""
+
+msgid "Activate modules"
+msgstr ""
+
+msgid "Activate plugin"
+msgstr ""
+
+msgid "Active Modules"
+msgstr ""
+
+msgid "Accessible for:"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "No active modules to display"
+msgstr ""
+
+msgid "Currently you don't have any active modules of this type. Activate one of many modules HostBill offers in \"Inactive\" tab"
+msgstr ""
+
+msgid "Callback URL"
+msgstr ""
+
+msgid "Decompression failed: %s"
+msgstr ""
+
+msgid "Decompression failed, check directory permissions: %s"
+msgstr ""
+
+msgid "Module decompression succeeded!"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Module Display Name"
+msgstr ""
+
+msgid "Upload success, file correct, beginning extraction"
+msgstr ""
+
+msgid "Filename"
+msgstr ""
+
+msgid "This module requires task to be executed automatically by cron. "
+msgstr ""
+
+msgid "Installed Plugins"
+msgstr ""
+
+msgid "Load Details"
+msgstr ""
+
+msgid "Type in application name, missing functionality, gateway name etc."
+msgstr ""
+
+msgid "Module directory is not writeable, upload is impossible"
+msgstr ""
+
+msgid "Module name cannot be blank"
+msgstr ""
+
+msgid "Module deactivated"
+msgstr ""
+
+msgid "Cannot remove module that is in use. Please remove all domains that use this module and try again."
+msgstr ""
+
+msgid "Cannot remove module that is in use. Please remove all products/serivces that use this module and try again."
+msgstr ""
+
+msgid "Cannot remove module that is in use. Please reconfigure servers that use this module and try again."
+msgstr ""
+
+msgid "Module name changed"
+msgstr ""
+
+msgid "Module uninstalled"
+msgstr ""
+
+msgid "This module is  uploaded"
+msgstr ""
+
+msgid "Module Management"
+msgstr ""
+
+msgid "There is no inactive modules of this type"
+msgstr ""
+
+msgid "No plugins are active at the moment, click"
+msgstr ""
+
+msgid "No modules available to manage at the moment - activate one first"
+msgstr ""
+
+msgid "No data to save"
+msgstr ""
+
+msgid "Only one active fraud protect module can be active at a time."
+msgstr ""
+
+msgid "SaveName"
+msgstr ""
+
+msgid "Supported currencies"
+msgstr ""
+
+msgid "to install"
+msgstr ""
+
+msgid "Are you sure you want to uninstall this module?"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "WIKI"
+msgstr ""
+
+msgid "Wrong module ID"
+msgstr ""
+
+msgid "Sorry, zip archives only"
+msgstr ""

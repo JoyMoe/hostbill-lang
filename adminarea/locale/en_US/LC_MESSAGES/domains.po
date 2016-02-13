@@ -1,0 +1,187 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Auto Renew"
+msgstr ""
+
+msgid "Destination"
+msgstr ""
+
+msgid "Management Tools"
+msgstr ""
+
+msgid "Prefix"
+msgstr ""
+
+msgid "Registrar Lock"
+msgstr ""
+
+msgid "Add new line"
+msgstr ""
+
+msgid "Add Nameserver"
+msgstr ""
+
+msgid "Autorenew is "
+msgstr ""
+
+msgid "Available Commands"
+msgstr ""
+
+msgid "Change Domain Owner"
+msgstr ""
+
+msgid "Are you sure you want to remove this domain from HostBill?"
+msgstr ""
+
+msgid "Current IP Address"
+msgstr ""
+
+msgid "Delete a Nameserver"
+msgstr ""
+
+msgid "Delete domain"
+msgstr ""
+
+msgid "You're attempting to delete domain(s), choose how you want to proceed:"
+msgstr ""
+
+msgid "Are you sure you want to delete this domain?"
+msgstr ""
+
+msgid "Delete domain(s) from HostBill and from registrar if possible"
+msgstr ""
+
+msgid "Soft delete domain(s) - remove only from HostBill, not from the registrar"
+msgstr ""
+
+msgid "Are you sure you want to delete this nameserver?"
+msgstr ""
+
+msgid "Domain %s deleted"
+msgstr ""
+
+msgid "Domain %s details change saved"
+msgstr ""
+
+msgid "Domain with ID #%s doesn't exist"
+msgstr ""
+
+msgid "Domain #%s notes saved"
+msgstr ""
+
+msgid "Domain's owner id changed to : %s"
+msgstr ""
+
+msgid "Domain %s registered"
+msgstr ""
+
+msgid "Domain %s renewed for %s year/s"
+msgstr ""
+
+msgid "Domain with ID #%s synchronized."
+msgstr ""
+
+msgid "Domain #%s mode switched back to live"
+msgstr ""
+
+msgid "Domain #%s mode switched to manual"
+msgstr ""
+
+msgid "Domain %s transfer process began"
+msgstr ""
+
+msgid "Domain Management"
+msgstr ""
+
+msgid "Domain Notes"
+msgstr ""
+
+msgid "Domain Synchronization"
+msgstr ""
+
+msgid "Error while deletting %s domain"
+msgstr ""
+
+msgid "Error during domain %s registration"
+msgstr ""
+
+msgid "Error during domain %s renew"
+msgstr ""
+
+msgid "Error during domain %s transfer"
+msgstr ""
+
+msgid "Extended Info"
+msgstr ""
+
+msgid "Forward to"
+msgstr ""
+
+msgid "Host Name"
+msgstr ""
+
+msgid "ID protection is "
+msgstr ""
+
+msgid "Message sent to client"
+msgstr ""
+
+msgid "Modify a Nameserver IP"
+msgstr ""
+
+msgid "New Domain"
+msgstr ""
+
+msgid "New IP Address"
+msgstr ""
+
+msgid "There is no Registered Nameserver"
+msgstr ""
+
+msgid "There is no extended info for this domain"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Record Type"
+msgstr ""
+
+msgid "Register a Nameserver's Name"
+msgstr ""
+
+msgid "Domain Lock is "
+msgstr ""
+
+msgid "There is a pending Order to renew this domain."
+msgstr ""
+
+msgid "Send Domain Email"
+msgstr ""
+
+msgid "Subdomain Forwarding"
+msgstr ""
+
+msgid "Synchronization is not available for this registrar."
+msgstr ""
+
+msgid "to add new domain"
+msgstr ""
+
+msgid "URL masking"
+msgstr ""

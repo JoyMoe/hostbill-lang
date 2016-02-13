@@ -1,0 +1,187 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Bonus amount for becoming affiliate"
+msgstr ""
+
+msgid "Days from order payment to admit commission"
+msgstr ""
+
+msgid "Integration code for affiliates to incorporate into their websites. Use {$affurl} in referral URLs"
+msgstr ""
+
+msgid "Minimum amount available for withdrawal"
+msgstr ""
+
+msgid "Commision from order"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Fixed Amount"
+msgstr ""
+
+msgid "Percent"
+msgstr ""
+
+msgid "Sale amount"
+msgstr ""
+
+msgid "Accept Referral"
+msgstr ""
+
+msgid "Add Commission Plan"
+msgstr ""
+
+msgid "Affiliate details updated"
+msgstr ""
+
+msgid "Are you sure you want to remove this affiliate account?"
+msgstr ""
+
+msgid "Affiliate details: "
+msgstr ""
+
+msgid "Affiliate account removed"
+msgstr ""
+
+msgid "Affiliate URL"
+msgstr ""
+
+msgid "Affiliate since"
+msgstr ""
+
+msgid "Affiliate vouchers"
+msgstr ""
+
+msgid "Using this feature your affiliates can generate coupon codes and give part of their commision as discount for referred signups"
+msgstr ""
+
+msgid "This client is an affiliate"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "&laquo; Back to affiliates list"
+msgstr ""
+
+msgid "Back to all affiliates"
+msgstr ""
+
+msgid "Client %s activated as an affiliate"
+msgstr ""
+
+msgid "Commission plan updated"
+msgstr ""
+
+msgid "Commission"
+msgstr ""
+
+msgid "Commission Plans"
+msgstr ""
+
+msgid "Currently you don't have any plans, your affiliates won't get any commission"
+msgstr ""
+
+msgid "Commissions"
+msgstr ""
+
+msgid "Commission type"
+msgstr ""
+
+msgid "Commission plan added"
+msgstr ""
+
+msgid "Commission plan(s) deleted"
+msgstr ""
+
+msgid "Are you sure you want to remove this log entry?"
+msgstr ""
+
+msgid "Are you sure you want to remove referral information?"
+msgstr ""
+
+msgid "Enable Affiliates System"
+msgstr ""
+
+msgid "Allow commission higher than order total"
+msgstr ""
+
+msgid "Invalid request"
+msgstr ""
+
+msgid "Withdrawal log record removed"
+msgstr ""
+
+msgid "Make Withdrawal"
+msgstr ""
+
+msgid "You have to enter a Plan name"
+msgstr ""
+
+msgid "Commission rate can't be empty"
+msgstr ""
+
+msgid "Approved Commissions"
+msgstr ""
+
+msgid "Pending Commissions"
+msgstr ""
+
+msgid "Rate"
+msgstr ""
+
+msgid "Enable recurring commisions"
+msgstr ""
+
+msgid "Referral accepted"
+msgstr ""
+
+msgid "Referral removed"
+msgstr ""
+
+msgid "Service"
+msgstr ""
+
+msgid "Service Status"
+msgstr ""
+
+msgid "Signup Date"
+msgstr ""
+
+msgid "Signups"
+msgstr ""
+
+msgid "Visitors"
+msgstr ""
+
+msgid "Voucher"
+msgstr ""
+
+msgid "Voucher(s) deleted"
+msgstr ""
+
+msgid "Withdrawal failed"
+msgstr ""
+
+msgid "Withdrawal succeeded"
+msgstr ""
+
+msgid "Total withdrawn"
+msgstr ""
+
+msgid "Withdrawal Log"
+msgstr ""

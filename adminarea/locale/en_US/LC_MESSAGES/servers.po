@@ -1,0 +1,160 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "FTP"
+msgstr ""
+
+msgid "HTTP"
+msgstr ""
+
+msgid "IMAP"
+msgstr ""
+
+msgid "Server load"
+msgstr ""
+
+msgid "MySQL"
+msgstr ""
+
+msgid "Enable monitoring"
+msgstr ""
+
+msgid "POP3"
+msgstr ""
+
+msgid "SSH"
+msgstr ""
+
+msgid "Server uptime"
+msgstr ""
+
+msgid "Unavailable"
+msgstr ""
+
+msgid "Access Hash"
+msgstr ""
+
+msgid "Add New App"
+msgstr ""
+
+msgid "Create new App Group"
+msgstr ""
+
+msgid "Add New Nameserver"
+msgstr ""
+
+msgid "Add New Server"
+msgstr ""
+
+msgid "Add Server"
+msgstr ""
+
+msgid "App Groups"
+msgstr ""
+
+msgid "Application"
+msgstr ""
+
+msgid "Third Party Applications"
+msgstr ""
+
+msgid "Back to servers list"
+msgstr ""
+
+msgid "Connect HostBill with third party applications"
+msgstr ""
+
+msgid "cPanel, Plesk, DirectAdmin and many other applications can be automated and billed by HostBill"
+msgstr ""
+
+msgid "This application group is empty"
+msgstr ""
+
+msgid "Update configuration"
+msgstr ""
+
+msgid "Change Default Server"
+msgstr ""
+
+msgid "Do you really want to delete this server?"
+msgstr ""
+
+msgid "Group details changed"
+msgstr ""
+
+msgid "List Servers"
+msgstr ""
+
+msgid "Max No. of Accounts"
+msgstr ""
+
+msgid "Monitor services:"
+msgstr ""
+
+msgid "Can't create server without selecting application"
+msgstr ""
+
+msgid "Primary Nameserver"
+msgstr ""
+
+msgid "Primary Nameserver IP"
+msgstr ""
+
+msgid "Quaternary Nameserver"
+msgstr ""
+
+msgid "Quaternary Nameserver IP"
+msgstr ""
+
+msgid "Secondary Nameserver"
+msgstr ""
+
+msgid "Secondary Nameserver IP"
+msgstr ""
+
+msgid "New Server  added"
+msgstr ""
+
+msgid "Server added, but it is not responding"
+msgstr ""
+
+msgid "Cannot remove server while it has accounts or products. Please remove all accounts and products/services that use this server and try again."
+msgstr ""
+
+msgid "Server removed"
+msgstr ""
+
+msgid "Server updated"
+msgstr ""
+
+msgid "Server monitor"
+msgstr ""
+
+msgid "Server Status Address"
+msgstr ""
+
+msgid "Tertiary Nameserver"
+msgstr ""
+
+msgid "Tertiary Nameserver IP"
+msgstr ""
+
+msgid "Test Configuration"
+msgstr ""
+
+msgid "to add new server"
+msgstr ""
+
+msgid "Tick to use SSL Mode for Connections"
+msgstr ""

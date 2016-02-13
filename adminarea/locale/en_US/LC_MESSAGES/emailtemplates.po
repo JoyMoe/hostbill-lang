@@ -1,0 +1,118 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "My Messages"
+msgstr ""
+
+msgid "System Messages"
+msgstr ""
+
+msgid "Add new template"
+msgstr ""
+
+msgid "Add Template"
+msgstr ""
+
+msgid "Add translation"
+msgstr ""
+
+msgid "Available email variables"
+msgstr ""
+
+msgid "Back to Email Templates list"
+msgstr ""
+
+msgid "Choose new language"
+msgstr ""
+
+msgid "Do you really want to delete this template?"
+msgstr ""
+
+msgid "Note: This email is disabled from being sent. Your client would not receive it. "
+msgstr ""
+
+msgid "Domain Messages"
+msgstr ""
+
+msgid "Empty subject line"
+msgstr ""
+
+msgid "Empty template name line"
+msgstr ""
+
+msgid "General Messages"
+msgstr ""
+
+msgid "Invoice Messages"
+msgstr ""
+
+msgid "System email templates"
+msgstr ""
+
+msgid "Client's email templates"
+msgstr ""
+
+msgid "List templates"
+msgstr ""
+
+msgid "New language created"
+msgstr ""
+
+msgid "No emails to display, add some"
+msgstr ""
+
+msgid "Product Messages"
+msgstr ""
+
+msgid "Remove language"
+msgstr ""
+
+msgid "Are you sure you want to remove this language and all templates under it?"
+msgstr ""
+
+msgid "Show templates in:"
+msgstr ""
+
+msgid "Show available variables"
+msgstr ""
+
+msgid "Support Messages"
+msgstr ""
+
+msgid "Suspension messages"
+msgstr ""
+
+msgid "Template added"
+msgstr ""
+
+msgid "Email Template deleted"
+msgstr ""
+
+msgid "Email disabled from being sent"
+msgstr ""
+
+msgid "Template with this name  exists"
+msgstr ""
+
+msgid "Template updated"
+msgstr ""
+
+msgid "Termination messages"
+msgstr ""
+
+msgid "This is just a preview of a template filled with sample data, actual email will be loaded with proper values"
+msgstr ""
+
+msgid "Unsuspension messages"
+msgstr ""

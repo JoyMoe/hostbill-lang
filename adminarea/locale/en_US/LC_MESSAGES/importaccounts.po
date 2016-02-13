@@ -1,0 +1,91 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Accounts  in HostBill"
+msgstr ""
+
+msgid "Can't create product for \"%s\". Incorrect name."
+msgstr ""
+
+msgid "Can't create product for \"%s\". Incorrect Category ID."
+msgstr ""
+
+msgid "Can't get package from server"
+msgstr ""
+
+msgid "Can't load module. Please configure server correctly."
+msgstr ""
+
+msgid "Create new product"
+msgstr ""
+
+msgid "First, add server to HostBill."
+msgstr ""
+
+msgid "Get Packages"
+msgstr ""
+
+msgid "Import from OnApp"
+msgstr ""
+
+msgid "Module doesn't support that function"
+msgstr ""
+
+msgid "Before importing accounts, please create Product at [ Settings -> Product & Services] otherwise HostBill won't import accounts properly"
+msgstr ""
+
+msgid "Import Log"
+msgstr ""
+
+msgid "Please select packages of accounts you want to add to the HostBill"
+msgstr ""
+
+msgid "For each package set product under which account will be imported."
+msgstr ""
+
+msgid "Please note: Accounts will be imported only for selected packages."
+msgstr ""
+
+msgid "There are no products in HostBill. Please create them before importing."
+msgstr ""
+
+msgid "No accounts to import"
+msgstr ""
+
+msgid "There are no accounts selected to import."
+msgstr ""
+
+msgid "Package Name"
+msgstr ""
+
+msgid "Please choose server"
+msgstr ""
+
+msgid "Product for package \"%s\" created"
+msgstr ""
+
+msgid "Product Assigned"
+msgstr ""
+
+msgid "There is no package selected."
+msgstr ""
+
+msgid "There is no package to display."
+msgstr ""
+
+msgid "There is no product with this package in HostBill. You must create new product."
+msgstr ""
+
+msgid "Use existing product"
+msgstr ""

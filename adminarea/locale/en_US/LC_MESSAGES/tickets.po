@@ -1,0 +1,261 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Any Department"
+msgstr ""
+
+msgid "Critical"
+msgstr ""
+
+msgid "Last Reply"
+msgstr ""
+
+msgid "Leave Notes"
+msgstr ""
+
+msgid "Quote"
+msgstr ""
+
+msgid "Quote Selected"
+msgstr ""
+
+msgid "Add Attachment"
+msgstr ""
+
+msgid "Add CC"
+msgstr ""
+
+msgid "Separate multiple emails with comma \",\""
+msgstr ""
+
+msgid "Admin only notes:"
+msgstr ""
+
+msgid "Allowed File Extensions:"
+msgstr ""
+
+msgid "Assigned client"
+msgstr ""
+
+msgid "Insert into Knowledgebase"
+msgstr ""
+
+msgid "Save as Macro"
+msgstr ""
+
+msgid "Assign to me"
+msgstr ""
+
+msgid "Author UUID"
+msgstr ""
+
+msgid "Tickets cannot be opened from this email address"
+msgstr ""
+
+msgid "Block Tickets"
+msgstr ""
+
+msgid "Change department"
+msgstr ""
+
+msgid "----choose one----"
+msgstr ""
+
+msgid "Containing highlighted text"
+msgstr ""
+
+msgid "Create Ticket"
+msgstr ""
+
+msgid "Date Submitted"
+msgstr ""
+
+msgid "Department"
+msgstr ""
+
+msgid "Draft saved at "
+msgstr ""
+
+msgid "Edit CC emails"
+msgstr ""
+
+msgid "The email and/or name cannot be empty, email has to be valid"
+msgstr ""
+
+msgid "email:"
+msgstr ""
+
+msgid "KB Articles"
+msgstr ""
+
+msgid "Last edited by"
+msgstr ""
+
+msgid "last reply:"
+msgstr ""
+
+msgid "Mark as read"
+msgstr ""
+
+msgid "Mark Unread"
+msgstr ""
+
+msgid "Message field cannot be empty"
+msgstr ""
+
+msgid "New reply has just been added to this ticket"
+msgstr ""
+
+msgid "There is no definied ticket department"
+msgstr ""
+
+msgid "Non-registered Client"
+msgstr ""
+
+msgid "There are no tickets assigned to you."
+msgstr ""
+
+msgid ""
+"There are no open support tickets, you can wait for your clients to submit "
+"them or open them yourself."
+msgstr ""
+
+msgid "There are no tickets in this department yet."
+msgstr ""
+
+msgid "Not Registered"
+msgstr ""
+
+msgid "opened:"
+msgstr ""
+
+msgid "Open New Ticket"
+msgstr ""
+
+msgid "Pick an option"
+msgstr ""
+
+msgid "Popular replies"
+msgstr ""
+
+msgid "Reply name:"
+msgstr ""
+
+msgid "remove"
+msgstr ""
+
+msgid "replied:"
+msgstr ""
+
+msgid "Reply deleted"
+msgstr ""
+
+msgid "Ticket Reply cannot be empty"
+msgstr ""
+
+msgid "Reply browse"
+msgstr ""
+
+msgid "Save as Predefined Reply"
+msgstr ""
+
+msgid "Set Priority"
+msgstr ""
+
+msgid "staff"
+msgstr ""
+
+msgid " has  started replying to this ticket at "
+msgstr ""
+
+msgid "subject:"
+msgstr ""
+
+msgid "Subject line cannot be empty"
+msgstr ""
+
+msgid "Submitter name"
+msgstr ""
+
+msgid "New Ticket ban rule added"
+msgstr ""
+
+msgid "Ticket #%s marked Closed"
+msgstr ""
+
+msgid "Ticket content updated"
+msgstr ""
+
+msgid "Ticket #%s deleted"
+msgstr ""
+
+msgid "Ticket #%s Department Changed"
+msgstr ""
+
+msgid "Ticket #%s marked unread"
+msgstr ""
+
+msgid "Ticket #%s priority changed"
+msgstr ""
+
+msgid "Ticket reply updated"
+msgstr ""
+
+msgid "Ticket #%s status changed to: %s"
+msgstr ""
+
+msgid "CC emails list has been edited"
+msgstr ""
+
+msgid "New ticket has been created"
+msgstr ""
+
+msgid "Ticket Message"
+msgstr ""
+
+msgid "Ticket notes deleted"
+msgstr ""
+
+msgid "Ticket notes updated"
+msgstr ""
+
+msgid "Ticket #"
+msgstr ""
+
+msgid "Ticket owner has been changed"
+msgstr ""
+
+msgid "Selected Tickets marked Closed"
+msgstr ""
+
+msgid "Selected Tickets deleted"
+msgstr ""
+
+msgid "Selected tickets merged"
+msgstr ""
+
+msgid "Ticket section"
+msgstr ""
+
+msgid "Update ticket"
+msgstr ""
+
+msgid "View ticket log"
+msgstr ""
+
+msgid "With same subject"
+msgstr ""
+
+msgid "wrote:"
+msgstr ""

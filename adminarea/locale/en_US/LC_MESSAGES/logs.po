@@ -1,0 +1,94 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Account Activity log"
+msgstr ""
+
+msgid "Admin access log"
+msgstr ""
+
+msgid "Admin Activity"
+msgstr ""
+
+msgid "API Usage Log"
+msgstr ""
+
+msgid "Chat Messages Log"
+msgstr ""
+
+msgid "Choose delete type"
+msgstr ""
+
+msgid "Client activity log"
+msgstr ""
+
+msgid "You should clear the log files on a regular basis to reduce the size of the database and increase performance. You can do this below."
+msgstr ""
+
+msgid "Clear Selected Logs"
+msgstr ""
+
+msgid "Client Activity"
+msgstr ""
+
+msgid "Client profile changes log"
+msgstr ""
+
+msgid "Client Credit Log"
+msgstr ""
+
+msgid "Coupons Usage"
+msgstr ""
+
+msgid "Delete all entries"
+msgstr ""
+
+msgid "Delete from"
+msgstr ""
+
+msgid "Delete entries older than"
+msgstr ""
+
+msgid "Discount Coupons usage log"
+msgstr ""
+
+msgid "Domain Activity Log"
+msgstr ""
+
+msgid "Emails Sent"
+msgstr ""
+
+msgid "Error Log"
+msgstr ""
+
+msgid "Last Access"
+msgstr ""
+
+msgid "Log %s cleaned"
+msgstr ""
+
+msgid "Login Time"
+msgstr ""
+
+msgid "Logout Time"
+msgstr ""
+
+msgid "Sent emails log"
+msgstr ""
+
+msgid "System Log"
+msgstr ""
+
+msgid "Ticket Import Log"
+msgstr ""

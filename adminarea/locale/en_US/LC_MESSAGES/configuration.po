@@ -1,0 +1,1182 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid ""
+"Send <a href=\"?cmd=emailtemplates&action=edit&tplname=Invoice:Overdue\" "
+"target=\"_blank\">Overdue Invoice Reminder Email</a> after"
+msgstr ""
+
+msgid "day after the due date for service/product"
+msgstr ""
+
+msgid ""
+"Note: Clients are able to manage their bank account details only if eCheck/"
+"ACH payment module is enabled"
+msgstr ""
+
+msgid "Allow to remove bank account details"
+msgstr ""
+
+msgid "Clients are not allowed to remove bank account details"
+msgstr ""
+
+msgid "Clients can remove their  bank account details"
+msgstr ""
+
+msgid "Retry charging account for"
+msgstr ""
+
+msgid "Charge bank accounts"
+msgstr ""
+
+msgid "Charge automatically stored  bank accounts"
+msgstr ""
+
+msgid "Add Late Fee Days"
+msgstr ""
+
+msgid ""
+"Enter the number of days after the due payment date you want to add the late "
+"fee"
+msgstr ""
+
+msgid "Redirection after order: "
+msgstr ""
+
+msgid "Redirect the user to the invoice"
+msgstr ""
+
+msgid "Redirect the user to the gateway"
+msgstr ""
+
+msgid "Show the order completed page"
+msgstr ""
+
+msgid "Allow paying in bulk"
+msgstr ""
+
+msgid "clients can generate bulk-payment invoice"
+msgstr ""
+
+msgid "clients are not allowed to generate bulk-payment invoice"
+msgstr ""
+
+msgid "Allowed attachment extension"
+msgstr ""
+
+msgid "Terms of service URL"
+msgstr ""
+
+msgid "April"
+msgstr ""
+
+msgid "Original and copy in one pdf"
+msgstr ""
+
+msgid "add copy as second invoice page"
+msgstr ""
+
+msgid "only original should go into PDF"
+msgstr ""
+
+msgid "Attach PDF Invoice"
+msgstr ""
+
+msgid "Add PDF Invoice to email notification"
+msgstr ""
+
+msgid "Send out text-only notification"
+msgstr ""
+
+msgid "Send out text-only invoices"
+msgstr ""
+
+msgid "Add Pro-Forma PDF Invoice to email notification"
+msgstr ""
+
+msgid "Attach Pro-Forma PDF"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "Terminate accounts after cancellation request is placed"
+msgstr ""
+
+msgid "Auto-Register/Renew Domains"
+msgstr ""
+
+msgid "Attempt to automatically register/renew domain after receiving payment."
+msgstr ""
+
+msgid ""
+"Don't register or renew domain automatically. I want to review order first."
+msgstr ""
+
+msgid "days if payment is not received by the due date"
+msgstr ""
+
+msgid ""
+"Enter the number of days after the due date you want to wait before "
+"suspending the account"
+msgstr ""
+
+msgid ""
+"Enter the number of days after the due payment date you want to wait before "
+"terminating the account"
+msgstr ""
+
+msgid "Autologout admin after"
+msgstr ""
+
+msgid "Invoice copies"
+msgstr ""
+
+msgid "Don't send invoice copies anywhere"
+msgstr ""
+
+msgid "Send invoice copies to this email address: "
+msgstr ""
+
+msgid "Your Company Name"
+msgstr ""
+
+msgid "Allow to remove CC"
+msgstr ""
+
+msgid "Clients are not allowed to remove their credit cards"
+msgstr ""
+
+msgid "Clients can remove their credit cards"
+msgstr ""
+
+msgid "Attempt once to charge "
+msgstr ""
+
+msgid "Retry charging credit card for "
+msgstr ""
+
+msgid "Charge Credit Cards "
+msgstr ""
+
+msgid "days before invoice due date."
+msgstr ""
+
+msgid "Charge automatically stored credit cards"
+msgstr ""
+
+msgid "Don't charge automatically. Let clients pay manually"
+msgstr ""
+
+msgid "Credit note numeration format"
+msgstr ""
+
+msgid "Next credit note number"
+msgstr ""
+
+msgid "Enable captcha for all users"
+msgstr ""
+
+msgid "Captcha"
+msgstr ""
+
+msgid "Enable captcha for non-registered users when creating new ticket"
+msgstr ""
+
+msgid "Don't use captcha spam prevention for support tickets"
+msgstr ""
+
+msgid "Compound L2 Tax"
+msgstr ""
+
+msgid "Calculate compound level 2 tax"
+msgstr ""
+
+msgid "Calculate regular level 2 tax"
+msgstr ""
+
+msgid "Continue Invoice Creation"
+msgstr ""
+
+msgid "Create invoices even if the previous invoice is unpaid. "
+msgstr ""
+
+msgid "Create new invoices only when previous invoices are paid."
+msgstr ""
+
+msgid "New currency added"
+msgstr ""
+
+msgid "Main Currency Suffix"
+msgstr ""
+
+msgid "Currency with this code  exists"
+msgstr ""
+
+msgid "Currency deleted"
+msgstr ""
+
+msgid "Currency Display Format"
+msgstr ""
+
+msgid "This currency is being used by clients/invoices, you cannot delete it"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Main Currency Sign"
+msgstr ""
+
+msgid "Currency updated"
+msgstr ""
+
+msgid "Date format"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "Decimal Places"
+msgstr ""
+
+msgid "Random Password Uppercase and Symbols"
+msgstr ""
+
+msgid "Random Password length"
+msgstr ""
+
+msgid "Number of results on searchpage"
+msgstr ""
+
+msgid "Time Zone"
+msgstr ""
+
+msgid "Site display for banned IP's"
+msgstr ""
+
+msgid "Allow clients to use their own domain "
+msgstr ""
+
+msgid "Allow clients to register domains with you"
+msgstr ""
+
+msgid "Allow clients to transfer domains with you"
+msgstr ""
+
+msgid "DNS Management"
+msgstr ""
+
+msgid "Enter the amount you want to charge for DNS Management"
+msgstr ""
+
+msgid "Email Forwarding"
+msgstr ""
+
+msgid "Enter the amount you want to charge for Email Forwarding"
+msgstr ""
+
+msgid "ID Protection"
+msgstr ""
+
+msgid "Enter the amount you want to charge for ID Protection"
+msgstr ""
+
+msgid "Regular"
+msgstr ""
+
+msgid "Subscriptions & Invoices"
+msgstr ""
+
+msgid "Don't send invoices for  subscribed service before due date."
+msgstr ""
+
+msgid "Send out invoices on regular basis"
+msgstr ""
+
+msgid "Email signature"
+msgstr ""
+
+msgid "Send out all emails"
+msgstr ""
+
+msgid "Don't send any emails"
+msgstr ""
+
+msgid "Enable Or Disable Afteractions"
+msgstr ""
+
+msgid "Suspend account after"
+msgstr ""
+
+msgid "Tick this box to enable automatic suspension"
+msgstr ""
+
+msgid "Terminate account after "
+msgstr ""
+
+msgid "Tick this box to enable automatic termination"
+msgstr ""
+
+msgid "Unsuspend account when payment is received"
+msgstr ""
+
+msgid "Tick this box to enable automatic unsuspension on payment"
+msgstr ""
+
+msgid "Captcha verify client login"
+msgstr ""
+
+msgid "Allow clients to set IP access rules"
+msgstr ""
+
+msgid "Allow client to add contacts "
+msgstr ""
+
+msgid "Enable Action Queue"
+msgstr ""
+
+msgid "Action queue enables you to perform slow actions in background"
+msgstr ""
+
+msgid "Enable Tax Addon"
+msgstr ""
+
+msgid "Enable tax"
+msgstr ""
+
+msgid "Disable tax"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "Force secure connection in client area"
+msgstr ""
+
+msgid "Main Currency ISO Code"
+msgstr ""
+
+msgid "First invoice due date set to "
+msgstr ""
+
+msgid " days after order"
+msgstr ""
+
+msgid "Install URL"
+msgstr ""
+
+msgid "Invoice logo"
+msgstr ""
+
+msgid "Upload logo image"
+msgstr ""
+
+msgid "Use company name as logo"
+msgstr ""
+
+msgid "Allowed file extensions: GIF, JPG, PNG. Size:200x50"
+msgstr ""
+
+msgid "Final Invoice Delay"
+msgstr ""
+
+msgid "Generate final invoice right after payment"
+msgstr ""
+
+msgid "Wait "
+msgstr ""
+
+msgid ""
+" days until final invoice generation, and send PDF with Invoice:Final email"
+msgstr ""
+
+msgid "Invoice is expected to be paid "
+msgstr ""
+
+msgid "Generate invoices"
+msgstr ""
+
+msgid "days before the due date for product/service"
+msgstr ""
+
+msgid ""
+"Enter the number of days before the due payment date you want to generate "
+"invoices"
+msgstr ""
+
+msgid "Invoice numeration format"
+msgstr ""
+
+msgid "Invoice numeration starts from"
+msgstr ""
+
+msgid "Reset Invoice numeration"
+msgstr ""
+
+msgid "Reset every month"
+msgstr ""
+
+msgid "Reset every year"
+msgstr ""
+
+msgid "Don't automatically reset invoice numeration"
+msgstr ""
+
+msgid "Invoice numeration prefix"
+msgstr ""
+
+msgid "Use {$number} for invoice number, {$y},{$m} year, month"
+msgstr ""
+
+msgid ""
+"Use {$y} for invoice year, {$d} for invoice day, {$m} for invoice month, "
+"{$client_id} for client id"
+msgstr ""
+
+msgid "Send Invoice Reminders"
+msgstr ""
+
+msgid "Send unpaid and overdue invoice notices to client"
+msgstr ""
+
+msgid "Store client details in invoice"
+msgstr ""
+
+msgid "Client profile edits will not change invoice owner details"
+msgstr ""
+
+msgid "Always use actual informations stored in client profile"
+msgstr ""
+
+msgid ""
+"Send <a href=\"?cmd=emailtemplates&action=edit&tplname=Invoice:Reminder\" "
+"target=\"_blank\">Unpaid Invoice Reminder Email</a>"
+msgstr ""
+
+msgid " days before the due date for service/product"
+msgstr ""
+
+msgid "You need to provide valid ISO 4217 currency code"
+msgstr ""
+
+msgid "Currency code you've specified is  used by your main currency"
+msgstr ""
+
+msgid "January"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "Add Late Fee after "
+msgstr ""
+
+msgid "Don't add late fee"
+msgstr ""
+
+msgid "Percentage"
+msgstr ""
+
+msgid "Fixed Amount"
+msgstr ""
+
+msgid "days after the due date for service/product"
+msgstr ""
+
+msgid "Late Fee Amount"
+msgstr ""
+
+msgid "Percentage or monetary value"
+msgstr ""
+
+msgid "Mail"
+msgstr ""
+
+msgid "SMTP Hostname"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Port:"
+msgstr ""
+
+msgid "SMTP Username"
+msgstr ""
+
+msgid "PHP mail()"
+msgstr ""
+
+msgid "SMTP"
+msgstr ""
+
+msgid "Mailer type"
+msgstr ""
+
+msgid "Maintenance Mode"
+msgstr ""
+
+msgid "Disable Client area and show maintenance information"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+msgid "Max attachment size"
+msgstr ""
+
+msgid "MegaBytes (MB)"
+msgstr ""
+
+msgid "Maximum Deposit"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "Minimum Deposit"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "Adding Funds"
+msgstr ""
+
+msgid "Allow Clients to add funds for future use"
+msgstr ""
+
+msgid "Don't allow clients to add extra funds"
+msgstr ""
+
+msgid "Auto accept paid orders"
+msgstr ""
+
+msgid "Ordering"
+msgstr ""
+
+msgid "Pay To Text"
+msgstr ""
+
+msgid "Pro-Forma numeration starts from"
+msgstr ""
+
+msgid "Pro-Forma numeration prefix"
+msgstr ""
+
+msgid "Records to display per page"
+msgstr ""
+
+msgid "SEO URLs settings"
+msgstr ""
+
+msgid "Enable Payment Reminder Emails"
+msgstr ""
+
+msgid "Activate overdue subscription reminders and invoice payment reminders"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "Store PDF invoice"
+msgstr ""
+
+msgid "store final PDF invoice under: "
+msgstr ""
+
+msgid "dont store, generate pdf each time its requested"
+msgstr ""
+
+msgid ""
+"Provide full path to folder where HostBill should store your PDF invoices, "
+"it should have same chmod/owner as templates_c folder"
+msgstr ""
+
+msgid "Accepted Credit Cards"
+msgstr ""
+
+msgid "Email address for system emails"
+msgstr ""
+
+msgid "Automation queue scheduler"
+msgstr ""
+
+msgid "Execute custom automation tasks"
+msgstr ""
+
+msgid "Execute custom automation tasks defined in products"
+msgstr ""
+
+msgid ""
+"Run this task once a day - it will schedule upcoming automation events  and "
+"execute due ones, based on custom automation queue defined in products"
+msgstr ""
+
+msgid "Add tax to domains"
+msgstr ""
+
+msgid "Apply tax to domains"
+msgstr ""
+
+msgid "Domains are not taxable"
+msgstr ""
+
+msgid "Add Tax to late fee"
+msgstr ""
+
+msgid "Apply tax to late fees"
+msgstr ""
+
+msgid "Don't apply tax to late fees"
+msgstr ""
+
+msgid "Tax time tracking entries"
+msgstr ""
+
+msgid "Do not tax time tracking entries"
+msgstr ""
+
+msgid "Tax type (inclusive/exclusive)"
+msgstr ""
+
+msgid "Invoice Footer Text"
+msgstr ""
+
+msgid "Default client country"
+msgstr ""
+
+msgid "Default client language"
+msgstr ""
+
+msgid "Client Area template"
+msgstr ""
+
+msgid "Send verification emails on signups"
+msgstr ""
+
+msgid "Additional Currencies"
+msgstr ""
+
+msgid "Add Extension"
+msgstr ""
+
+msgid "Add new currency"
+msgstr ""
+
+msgid "Add new profile"
+msgstr ""
+
+msgid "Add new task"
+msgstr ""
+
+msgid "Add new tax"
+msgstr ""
+
+msgid "Add New Renewal Notice"
+msgstr ""
+
+msgid "Send affiliate monthly referral report"
+msgstr ""
+
+msgid "Send out monthly report to affiliates"
+msgstr ""
+
+msgid "Change status of expired domains"
+msgstr ""
+
+msgid "Change automatically non-renewed domain status to Expired"
+msgstr ""
+
+msgid "Auto-Register Domains"
+msgstr ""
+
+msgid "Attempt to register domains automatically after receiving payment"
+msgstr ""
+
+msgid "Auto-Renew Domains"
+msgstr ""
+
+msgid "Attempt to renew domains automatically after receiving payment"
+msgstr ""
+
+msgid "Synchronize Pending Action Domains"
+msgstr ""
+
+msgid ""
+"Synchronize Pending domains with registrar to check their registration status"
+msgstr ""
+
+msgid "Auto-Transfer domains"
+msgstr ""
+
+msgid "Attempt to transfer domains automatically after receiving payment"
+msgstr ""
+
+msgid "Back to profile listing"
+msgstr ""
+
+msgid "Billing Settings"
+msgstr ""
+
+msgid "Called every"
+msgstr ""
+
+msgid "Automatic Cancellation Requests Processing "
+msgstr ""
+
+msgid ""
+"Process cancellation requests automatically with Immediate cancellation type"
+msgstr ""
+
+msgid "Or retry for"
+msgstr ""
+
+msgid "Suffix displayed eg. USD"
+msgstr ""
+
+msgid "Charge credit cards"
+msgstr ""
+
+msgid "Attempt to charge stored Credit Cards automatically for due invoices"
+msgstr ""
+
+msgid "Client balance"
+msgstr ""
+
+msgid "Customer info"
+msgstr ""
+
+msgid "Are you sure you want to remove this currency?"
+msgstr ""
+
+msgid "To main currency: "
+msgstr ""
+
+msgid "Create the following Cron Job:"
+msgstr ""
+
+msgid "Credit Cards"
+msgstr ""
+
+msgid "New Cron Profile created"
+msgstr ""
+
+msgid "Cron Profile deleted"
+msgstr ""
+
+msgid "Cron Profile updated"
+msgstr ""
+
+msgid "Selected Task deleted"
+msgstr ""
+
+msgid "Every 5 minutes"
+msgstr ""
+
+msgid "Cron tasks"
+msgstr ""
+
+msgid "Prefix displayed eg. $"
+msgstr ""
+
+msgid "Exchange drive up"
+msgstr ""
+
+msgid "Suffix displayed"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Currency enabled"
+msgstr ""
+
+msgid "Currency disabled"
+msgstr ""
+
+msgid "Currency ISO Code"
+msgstr ""
+
+msgid "Last updated"
+msgstr ""
+
+msgid "Conversion rate"
+msgstr ""
+
+msgid "Currency Sign"
+msgstr ""
+
+msgid "Auto-update rate"
+msgstr ""
+
+msgid "Run cron functions of Addon Modules"
+msgstr ""
+
+msgid "customize"
+msgstr ""
+
+msgid " days before the renewal date"
+msgstr ""
+
+msgid "Default Invoicing method"
+msgstr ""
+
+msgid "Invoice numbers are generated sequentially, regardless of their status"
+msgstr ""
+
+msgid "Are you sure you want to remove this task?"
+msgstr ""
+
+msgid "Send Expiring Domain Notifications "
+msgstr ""
+
+msgid "Send upcoming domain renewal notifications to clients"
+msgstr ""
+
+msgid "Synchronize domain expiration dates with registrars "
+msgstr ""
+
+msgid ""
+"This task attempts to synchronize expiration dates of 10 domains with "
+"registrars, from the oldest synchronized domain. For bigger number of "
+"domains in HostBill it's good to run this task daily, or weekly."
+msgstr ""
+
+msgid "Domain Reminders"
+msgstr ""
+
+msgid "Send Renewal Notice"
+msgstr ""
+
+msgid "No text"
+msgstr ""
+
+msgid "Enter the extension"
+msgstr ""
+
+msgid "Invoice numeration should start from %s"
+msgstr ""
+
+msgid "EU Invoicing Method"
+msgstr ""
+
+msgid "Pro-forma unpaid and separate numeration of paid invoices"
+msgstr ""
+
+msgid "Every day around:"
+msgstr ""
+
+msgid "every 5 min"
+msgstr ""
+
+msgid "every day around"
+msgstr ""
+
+msgid "Every hour"
+msgstr ""
+
+msgid "Every month on ..."
+msgstr ""
+
+msgid "Every week on ..."
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "Generate Invoices"
+msgstr ""
+
+msgid "Generate invoices automatically for services with recurring billing"
+msgstr ""
+
+msgid "Update hourly billed accounts totals"
+msgstr ""
+
+msgid ""
+"This task increases account totals - requires to be invoked every hour for "
+"hourly billing to work stable. When new invoice is generated by cron "
+"HostBill will set hourly pricing to 0."
+msgstr ""
+
+msgid "hours"
+msgstr ""
+
+msgid "Message HTML wrapper"
+msgstr ""
+
+msgid ""
+"You can wrap your messages with HTML code defined here. <b>{$message}</b> "
+"variable used in this field will be replaced with email content"
+msgstr ""
+
+msgid "Import Tickets using POP method"
+msgstr ""
+
+msgid "Import tickets for support departments with POP import method enabled"
+msgstr ""
+
+msgid "Invoice customization"
+msgstr ""
+
+msgid "Invoicing method"
+msgstr ""
+
+msgid "Invoice Item"
+msgstr ""
+
+msgid "Execute"
+msgstr ""
+
+msgid ""
+"Currency ISO code you've provided is not valid ISO4217 currency - some "
+"features might not work properly"
+msgstr ""
+
+msgid "Last Auto-Run"
+msgstr ""
+
+msgid "Add Late Fee to overdue invoices"
+msgstr ""
+
+msgid "Automatically add late fee to overdue services"
+msgstr ""
+
+msgid "Message customization"
+msgstr ""
+
+msgid "Outgoing mail configuration"
+msgstr ""
+
+msgid "Main Currency"
+msgstr ""
+
+msgid "Your php.ini memory_limit is too low to send pdf invoices"
+msgstr ""
+
+msgid "Update Metered Billing Values"
+msgstr ""
+
+msgid ""
+"This task should be invoked every 5 minutes. Its job is to update recurring "
+"price of accounts with metered billing enabled."
+msgstr ""
+
+msgid "minutes"
+msgstr ""
+
+msgid "Miscellaneous"
+msgstr ""
+
+msgid " Accounts automation"
+msgstr ""
+
+msgid "Perform auto provisioning tasks like suspend/terminate"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Automatic Cancelation Requests Processing"
+msgstr ""
+
+msgid "let me review and manually terminate account after cancellation request"
+msgstr ""
+
+msgid "Automatic Suspension"
+msgstr ""
+
+msgid "days past due date"
+msgstr ""
+
+msgid "Automatic Termination"
+msgstr ""
+
+msgid "Automatic Unsuspension"
+msgstr ""
+
+msgid "Enable ProRata billing"
+msgstr ""
+
+msgid "Use default recurring billing scheme"
+msgstr ""
+
+msgid "Calculate prorated amount"
+msgstr ""
+
+msgid "dont add late fees"
+msgstr ""
+
+msgid "add late fee"
+msgstr ""
+
+msgid "Add "
+msgstr ""
+
+msgid "late fee"
+msgstr ""
+
+msgid "Prorata day"
+msgstr ""
+
+msgid "Prorata month (for annual cycle)"
+msgstr ""
+
+msgid "Disabled - try to bill for entire cycle"
+msgstr ""
+
+msgid "Charge Next Month after"
+msgstr ""
+
+msgid "Send payment reminder emails"
+msgstr ""
+
+msgid "Send notification of unpaid and overdue invoices"
+msgstr ""
+
+msgid "Don't send notifications to clients about due payments"
+msgstr ""
+
+msgid "New Cron task added"
+msgstr ""
+
+msgid "Such Cron task  exists"
+msgstr ""
+
+msgid "Create new CronProfile"
+msgstr ""
+
+msgid "No profiles added yet, click"
+msgstr ""
+
+msgid "You don't have any tasks configured yet"
+msgstr ""
+
+msgid "Order scenarios"
+msgstr ""
+
+msgid "Other Automation &amp; Billing Settings"
+msgstr ""
+
+msgid "Mark outdated estimates Dead"
+msgstr ""
+
+msgid "Change status of expired estimates"
+msgstr ""
+
+msgid "Profile Name"
+msgstr ""
+
+msgid ""
+"Use this option to charge client for entire cycle of product usage, if order "
+"is placed after this day of month"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Send daily Cron-Runs results email"
+msgstr ""
+
+msgid "Send daily summary of all cron tasks taken to all authorized staff"
+msgstr ""
+
+msgid "Send Emails"
+msgstr ""
+
+msgid ""
+"If turned off, no emails are sent from HostBill. Useful after migrating from "
+"a different system"
+msgstr ""
+
+msgid "Send test message"
+msgstr ""
+
+msgid "Remove unused subscription items"
+msgstr ""
+
+msgid "Clean up PayPal subscriptions unused by clients"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Support Tickets"
+msgstr ""
+
+msgid "System Settings"
+msgstr ""
+
+msgid "* Tasks marked with asterisk should be run once a day"
+msgstr ""
+
+msgid "Task name"
+msgstr ""
+
+msgid "Taxes"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Auto-Close tickets non-answered by client"
+msgstr ""
+
+msgid ""
+"Close tickets non-responded by client automatically after configured amount "
+"of time"
+msgstr ""
+
+msgid "Ticket Statuses"
+msgstr ""
+
+msgid ""
+"To enable the automation features to run, make sure you set up a cron job to "
+"run <strong>every 5min.</strong>"
+msgstr ""
+
+msgid "Related transaction"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Update Conversion Rates"
+msgstr ""
+
+msgid "Update conversion rates automatically for used multiple currencies"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "After related account creation"
+msgstr ""
+
+msgid "When manually accept pending order"
+msgstr ""
+
+msgid "When the order is placed"
+msgstr ""
+
+msgid "When the first payment is received"
+msgstr ""

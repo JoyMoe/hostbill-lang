@@ -1,0 +1,106 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Contains"
+msgstr ""
+
+msgid "Add new rule"
+msgstr ""
+
+msgid "Add post-import filter"
+msgstr ""
+
+msgid "Add pre-import filter"
+msgstr ""
+
+msgid "Add Rule"
+msgstr ""
+
+msgid "With the use of macros and filters you can automatically set things like assigned staff member, tags, priority and more, to new tickets."
+msgstr ""
+
+msgid "Take additional actions"
+msgstr ""
+
+msgid "Create filters that will check against imported emails, and won't let unwanted messages in."
+msgstr ""
+
+msgid "Filter out unwanted messages"
+msgstr ""
+
+msgid "Content block rule"
+msgstr ""
+
+msgid "Content block rules"
+msgstr ""
+
+msgid "Email block rule"
+msgstr ""
+
+msgid "Email block rules"
+msgstr ""
+
+msgid "Exact match"
+msgstr ""
+
+msgid "filter"
+msgstr ""
+
+msgid "filters"
+msgstr ""
+
+msgid "Final"
+msgstr ""
+
+msgid "Filters with final option will stop HostBill from checking other filters if they are matched, that means filters after this one won't get a chance to apply their functions."
+msgstr ""
+
+msgid "List rules"
+msgstr ""
+
+msgid "Post-import"
+msgstr ""
+
+msgid "Pre-import filter"
+msgstr ""
+
+msgid "Regular expression"
+msgstr ""
+
+msgid "Reject message"
+msgstr ""
+
+msgid "Are you sure you wish to remove this item?"
+msgstr ""
+
+msgid "Rule:"
+msgstr ""
+
+msgid "Rule type:"
+msgstr ""
+
+msgid "Subject block rule"
+msgstr ""
+
+msgid "Subject block rules"
+msgstr ""
+
+msgid "New filter rule added"
+msgstr ""
+
+msgid "Filter removed"
+msgstr ""
+
+msgid "Filter updated"
+msgstr ""

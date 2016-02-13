@@ -1,0 +1,249 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Monthly"
+msgstr ""
+
+msgid "Weekly"
+msgstr ""
+
+msgid "Annually"
+msgstr ""
+
+msgid "every 2 months"
+msgstr ""
+
+msgid "every 2 weeks"
+msgstr ""
+
+msgid "Biennially"
+msgstr ""
+
+msgid "every 3 months"
+msgstr ""
+
+msgid "every 4 weeks"
+msgstr ""
+
+msgid "every 6 months"
+msgstr ""
+
+msgid "Draft Invoices"
+msgstr ""
+
+msgid "Refunded Invoices"
+msgstr ""
+
+msgid "Add Payment"
+msgstr ""
+
+msgid "Credit card charged"
+msgstr ""
+
+msgid "Charge CC"
+msgstr ""
+
+msgid "Are you sure you want to charge"
+msgstr ""
+
+msgid "from client's credit card ?"
+msgstr ""
+
+msgid "Client doesn't have a credit card on flie."
+msgstr ""
+
+msgid "Add to invoice"
+msgstr ""
+
+msgid "Apply from credit"
+msgstr ""
+
+msgid "Credit has been applied to invoice"
+msgstr ""
+
+msgid "Client credit"
+msgstr ""
+
+msgid "New invoice has been created"
+msgstr ""
+
+msgid "New Invoice"
+msgstr ""
+
+msgid "Create New Invoice"
+msgstr ""
+
+msgid "Download PDF"
+msgstr ""
+
+msgid "Edit invoice number"
+msgstr ""
+
+msgid "Find generated invoices"
+msgstr ""
+
+msgid "Frequency"
+msgstr ""
+
+msgid "Generate new invoices:"
+msgstr ""
+
+msgid "infinite"
+msgstr ""
+
+msgid "Invoice #%s Deleted"
+msgstr ""
+
+msgid "Invoice #%s marked Cancelled"
+msgstr ""
+
+msgid "Invoice #%s marked Paid"
+msgstr ""
+
+msgid "Invoice %s has been marked as refunded"
+msgstr ""
+
+msgid "Invoice #%s Marked Unpaid"
+msgstr ""
+
+msgid "Invoice details changed"
+msgstr ""
+
+msgid "Invoice owner details updated"
+msgstr ""
+
+msgid "Invoice Number has been modified"
+msgstr ""
+
+msgid "Invoice details"
+msgstr ""
+
+msgid "Invoice Notes"
+msgstr ""
+
+msgid ""
+"You've set start date of recurring invoices for today – the first invoice "
+"will be generated NOW, are you sure?"
+msgstr ""
+
+msgid "Invoice type:"
+msgstr ""
+
+msgid "Selected Invoices Deleted"
+msgstr ""
+
+msgid "Selected Invoices Marked Cancelled"
+msgstr ""
+
+msgid "Selected Invoices Marked Paid"
+msgstr ""
+
+msgid "Selected invoices has been marked as refunded"
+msgstr ""
+
+msgid "Selected Invoices Marked Unpaid"
+msgstr ""
+
+msgid "Refund Invoice"
+msgstr ""
+
+msgid "Mark Cancelled"
+msgstr ""
+
+msgid "Mark Paid"
+msgstr ""
+
+msgid "Mark Unpaid"
+msgstr ""
+
+msgid "Next invoice"
+msgstr ""
+
+msgid "This module doesn't support credit card charges"
+msgstr ""
+
+msgid "Occurrences"
+msgstr ""
+
+msgid "Credit balance"
+msgstr ""
+
+msgid "Pick one option"
+msgstr ""
+
+msgid "Recurring profile #"
+msgstr ""
+
+msgid "Recurring"
+msgstr ""
+
+msgid "Recurring has been turned OFF for this invoice"
+msgstr ""
+
+msgid "Recurring has been turned ON for this invoice"
+msgstr ""
+
+msgid "Refund"
+msgstr ""
+
+msgid "Add credit to client balance"
+msgstr ""
+
+msgid "Automated refund through gateway"
+msgstr ""
+
+msgid "Manual refund, just record"
+msgstr ""
+
+msgid "Related transactions"
+msgstr ""
+
+msgid "remaining"
+msgstr ""
+
+msgid "Send Invoice to client"
+msgstr ""
+
+msgid "Send Reminder to client"
+msgstr ""
+
+msgid "Click here to set client details on invoice with current client info"
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "First Invoice"
+msgstr ""
+
+msgid "Start date must be today or later"
+msgstr ""
+
+msgid "Tax L1"
+msgstr ""
+
+msgid "Tax L2"
+msgstr ""
+
+msgid "There are no clients"
+msgstr ""
+
+msgid "Transaction failed, check gateway log for details"
+msgstr ""
+
+msgid "Transaction #%s has been refunded"
+msgstr ""
+
+msgid "Transaction has been added to invoice"
+msgstr ""

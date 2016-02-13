@@ -1,0 +1,209 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "ADD NEW"
+msgstr ""
+
+msgid "days before domain expiration date"
+msgstr ""
+
+msgid "Manual"
+msgstr ""
+
+msgid "Add new pricing group"
+msgstr ""
+
+msgid "Add new TLD"
+msgstr ""
+
+msgid "Supplied TLD(s) exist(s)"
+msgstr ""
+
+msgid "Auto-Register domains"
+msgstr ""
+
+msgid "Auto-Renew domains"
+msgstr ""
+
+msgid "Auto-Transfer domains"
+msgstr ""
+
+msgid "To begin selling domains add one or more TLDs"
+msgstr ""
+
+msgid "Assign your TLDs to pricing groups"
+msgstr ""
+
+msgid ""
+"HostBill keeps TLDs organised into pricing groups. Pick period, TLDs to "
+"assign, set up pricing and you're ready to sell."
+msgstr ""
+
+msgid "Client can"
+msgstr ""
+
+msgid "Are you sure you want to remove this group?"
+msgstr ""
+
+msgid "Do you really want to delete this TLD?"
+msgstr ""
+
+msgid "Enter the amount you want to charge for DNS Record Management"
+msgstr ""
+
+msgid "Domain Automation"
+msgstr ""
+
+msgid ""
+"Domain registration transfer will be managed by domain registrar through "
+"HostBill module."
+msgstr ""
+
+msgid "Domain extension"
+msgstr ""
+
+msgid "Domain extension(s)"
+msgstr ""
+
+msgid ""
+"You will manually register domain and update details in HostBill afterwards."
+msgstr ""
+
+msgid "Domain Addons"
+msgstr ""
+
+msgid "Domain addons configuration updated"
+msgstr ""
+
+msgid "Expiring domain notification email"
+msgstr ""
+
+msgid "Domain related configuration updated"
+msgstr ""
+
+msgid "Successfull automatic domain renewal notification email"
+msgstr ""
+
+msgid "Domain transfer mail notification"
+msgstr ""
+
+msgid "Automatic Domain registration success notification mail"
+msgstr ""
+
+msgid "Upcoming domain renewal"
+msgstr ""
+
+msgid "Notify about expiring domain"
+msgstr ""
+
+msgid "Domain renewed"
+msgstr ""
+
+msgid "Domain transfer initiated"
+msgstr ""
+
+msgid "Edit pricing group"
+msgstr ""
+
+msgid "Edit TLD"
+msgstr ""
+
+msgid "Enter the amount you want to charge for Email Forwarding Services"
+msgstr ""
+
+msgid "Pricing group upgraded"
+msgstr ""
+
+msgid "Enter the amount you want to charge for ID Protection on Domains"
+msgstr ""
+
+msgid "Improper value in \"register\""
+msgstr ""
+
+msgid "Improper value in \"renew\""
+msgstr ""
+
+msgid "Improper value in \"tld\""
+msgstr ""
+
+msgid "Improper value in \"transfer\""
+msgstr ""
+
+msgid "Manage your TLDs"
+msgstr ""
+
+msgid "Attempt to register domains automatically after receiving payment"
+msgstr ""
+
+msgid ""
+"Generate invoice for domain renewals and renew domain automatically once "
+"paid."
+msgstr ""
+
+msgid "Attempt to transfer domains automatically after receiving payment"
+msgstr ""
+
+msgid "New group added"
+msgstr ""
+
+msgid "New Module"
+msgstr ""
+
+msgid "use own domain"
+msgstr ""
+
+msgid "/ year"
+msgstr ""
+
+msgid "Pricing group removed"
+msgstr ""
+
+msgid "You need to attach TLDs to group"
+msgstr ""
+
+msgid "register domain"
+msgstr ""
+
+msgid "Related Configuration"
+msgstr ""
+
+msgid "Require EPP for transfers"
+msgstr ""
+
+msgid "Simmilar group  exists"
+msgstr ""
+
+msgid "TLD added"
+msgstr ""
+
+msgid "TLD order changed"
+msgstr ""
+
+msgid "TLD removed"
+msgstr ""
+
+msgid "TLD %s updated"
+msgstr ""
+
+msgid "Example: .com, .org, .net. Tip: Add more separated by a comma \",\""
+msgstr ""
+
+msgid "transfer domain"
+msgstr ""
+
+msgid "use subdomain"
+msgstr ""
+
+msgid "Wrong module"
+msgstr ""
