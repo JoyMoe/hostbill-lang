@@ -250,7 +250,7 @@ msgstr ""
 msgid "Common name"
 msgstr ""
 
-msgid "The Common Name is a domain name like example.com"
+msgid "The Common Name is a domain name like example.com. To secure https://www.example.com your common name must be www.example.com"
 msgstr ""
 
 msgid "Common Name:"

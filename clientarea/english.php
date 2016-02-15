@@ -147,8 +147,7 @@ $lang['cart']['en_billcontact'] = 'Billing contact';
 $lang['cart']['en_billtech'] = 'Billing &amp; Tech contacts';
 $lang['cart']['en_certtype'] = 'Certificate Type';
 $lang['cart']['en_cn'] = 'Common name';
-$lang['cart']['en_comdesc'] = 'The Common Name is a domain name like example.com.
-To secure https://www.example.com your common name must be www.example.com';
+$lang['cart']['en_comdesc'] = 'The Common Name is a domain name like example.com. To secure https://www.example.com your common name must be www.example.com';
 $lang['cart']['en_commonname'] = 'Common Name:';
 $lang['cart']['en_contacts'] = 'Contacts';
 $lang['cart']['en_csr'] = 'CSR';

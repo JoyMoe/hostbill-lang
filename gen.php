@@ -21,7 +21,7 @@ function gen($client = true)
 
         foreach ($value as $skey => $svalue) {
             fwrite($fh, "\n");
-            $l = "\$lang['$key']['$skey'] = '" . _(addslashes($svalue)) . "';";
+            $l = "\$lang['$key']['$skey'] = '" . addslashes(_($svalue)) . "';";
             fwrite($fh, $l);
         }
     }

@@ -253,8 +253,12 @@ msgstr "证书类型"
 msgid "Common name"
 msgstr "通用名称"
 
-msgid "The Common Name is a domain name like example.com"
+msgid ""
+"The Common Name is a domain name like example.com. To secure https://www."
+"example.com your common name must be www.example.com"
 msgstr ""
+"通用名称即您的域名（比如 example.com）。 若您要保护 https://www.example.com，"
+"则您必须输入 www.example.com 而非 example.com"
 
 msgid "Common Name:"
 msgstr "通用名称："
