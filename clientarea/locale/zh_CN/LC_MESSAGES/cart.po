@@ -4,14 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HostBill\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-02-12 23:32+0800\n"
+"PO-Revision-Date: 2016-02-15 19:32+0800\n"
 "Last-Translator: kinosang <me@7in0.me>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/"
 "hostbill/language/zh_CN/)\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 1.8.4\n"
 
@@ -111,17 +111,17 @@ msgid "Notes / Additional Information"
 msgstr ""
 
 msgid "Cart summary"
-msgstr ""
+msgstr "购物车概要"
 
 msgid "Cart subtotal today: "
-msgstr ""
+msgstr "购物车今日小计："
 
 msgid "Processing Payment"
 msgstr ""
 
 msgid ""
-"Please wait while your payment is being processed, if you are not "
-"redirected in 5 seconds please refresh this page."
+"Please wait while your payment is being processed, if you are not redirected "
+"in 5 seconds please refresh this page."
 msgstr ""
 
 msgid "Change"
@@ -318,8 +318,8 @@ msgstr "技术联系人"
 msgid ""
 "The full legal name of your organization. Example: ExampleCorp, Inc.<br/> "
 "Enter details of the organization that owns the domain. If you are "
-"purchasing this certificate for another company, do not use your own "
-"company details here"
+"purchasing this certificate for another company, do not use your own company "
+"details here"
 msgstr ""
 
 msgid "The organization unit that you wish to register this certificate for."
@@ -343,16 +343,18 @@ msgid "to fill contact info with your details."
 msgstr ""
 
 msgid "What is a Certificate Signing Request (CSR)?"
-msgstr ""
+msgstr "什么是证书签发请求(CSR)？"
 
 msgid ""
-"Certificate signing request (also CSR or certification request) is a "
-"message sent from an applicant to a certificate authority in order to apply "
-"for a digital identity certificate.<br /><br /> It contains information "
-"that will be included in your certificate such as:<br /> - Organization "
-"name<br /> - Common name (domain name)<br /> - Location<br /> - Country "
-"<br />"
+"Certificate signing request (also CSR or certification request) is a message "
+"sent from an applicant to a certificate authority in order to apply for a "
+"digital identity certificate.<br /><br /> It contains information that will "
+"be included in your certificate such as:<br /> - Organization name<br /> - "
+"Common name (domain name)<br /> - Location<br /> - Country <br />"
 msgstr ""
+"证书签发请求(或称 CSR 或证书请求)是为了获取数字证书，从申请人向认证机构发送的"
+"消息。<br /><br />它包含将包括您的证书所需相关信息，如：<br /> - 机构名称"
+"<br /> - 通用名称(域名)(CN)<br /> - 位置<br /> - 国家<br />"
 
 msgid "Enter domain names you wish to transfer, 1 name per line"
 msgstr ""
@@ -496,7 +498,7 @@ msgid "optimal choice for"
 msgstr ""
 
 msgid "Option"
-msgstr ""
+msgstr "选项"
 
 msgid "Your order status is now Active"
 msgstr ""
@@ -523,7 +525,7 @@ msgid "Order steps"
 msgstr ""
 
 msgid "Order Summary"
-msgstr ""
+msgstr "订单概要"
 
 msgid "Order your plan"
 msgstr ""
@@ -538,7 +540,7 @@ msgid "Please provide your PayPal email"
 msgstr ""
 
 msgid "Choose billing cycle:"
-msgstr ""
+msgstr "选择账单周期："
 
 msgid "Plan Configuration"
 msgstr ""
@@ -568,10 +570,10 @@ msgid "Premade Packages"
 msgstr ""
 
 msgid "Pricing info"
-msgstr ""
+msgstr "定价信息"
 
 msgid "Product addons"
-msgstr ""
+msgstr "产品扩展"
 
 msgid ""
 "You are not allowed to order more of this product, please contact us to "
@@ -630,70 +632,70 @@ msgid "Please wait while you are redirected to the selected payment gateway."
 msgstr ""
 
 msgid "Register Domain"
-msgstr ""
+msgstr "注册域名"
 
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 msgid "Remove coupon"
-msgstr ""
+msgstr "移除优惠券"
 
 msgid "Remove discount code"
-msgstr ""
+msgstr "移除优惠码"
 
 msgid "Remove this addon"
-msgstr ""
+msgstr "移除该扩展"
 
 msgid "Remove this product"
-msgstr ""
+msgstr "移除该产品"
 
 msgid "Return to home"
-msgstr ""
+msgstr "返回首页"
 
 msgid "Returning customer?"
 msgstr ""
 
 msgid "see more options"
-msgstr ""
+msgstr "查看更多选项"
 
 msgid "Select 12 months or more and save!"
-msgstr ""
+msgstr "选择12个月或以上可享受优惠！"
 
 msgid "Select Domain Name"
-msgstr ""
+msgstr "选择域名"
 
 msgid "Select Category"
-msgstr ""
+msgstr "选择分类"
 
 msgid "Select this plan"
-msgstr ""
+msgstr "选择该计划"
 
 msgid "Select your plan"
-msgstr ""
+msgstr "选择你的计划"
 
 msgid "Server"
-msgstr ""
+msgstr "服务器"
 
 msgid "Server Addons"
-msgstr ""
+msgstr "服务器扩展"
 
 msgid "Server Configuration"
-msgstr ""
+msgstr "服务器配置"
 
 msgid "Server Details"
-msgstr ""
+msgstr "服务器信息"
 
 msgid "Server & Pricing"
-msgstr ""
+msgstr "服务器与定价"
 
 msgid "Service Configuration"
-msgstr ""
+msgstr "服务配置"
 
 msgid "Set billing cycle, addons and you're done!"
-msgstr ""
+msgstr "设置帐单周期和扩展，然后大功告成！"
 
 msgid "Setup Your"
-msgstr ""
+msgstr "设置你的"
 
 msgid "Sign Up"
 msgstr "注册"
@@ -702,7 +704,7 @@ msgid "Software"
 msgstr "软件"
 
 msgid "Starting at"
-msgstr ""
+msgstr "低至"
 
 msgid "Step"
 msgstr "步骤"
@@ -726,19 +728,19 @@ msgid "Submit your order"
 msgstr "提交订单"
 
 msgid "Sub-product"
-msgstr ""
+msgstr "子产品"
 
 msgid "Tell me more"
-msgstr ""
+msgstr "告诉我更多"
 
 msgid "Thank you for choosing"
-msgstr ""
+msgstr "感谢您选择"
 
 msgid "I have read and accepted"
-msgstr ""
+msgstr "我已阅读并认可"
 
 msgid "Terms of Service"
-msgstr ""
+msgstr "服务条款"
 
 msgid "Total price"
 msgstr "总价"
@@ -753,7 +755,7 @@ msgid "Use our default nameservers"
 msgstr "使用我们的默认 DNS"
 
 msgid "Use registrant information"
-msgstr ""
+msgstr "使用注册人信息"
 
 msgid "Why Us"
 msgstr ""
@@ -762,13 +764,13 @@ msgid "Year/s"
 msgstr ""
 
 msgid "Your cart is empty"
-msgstr ""
+msgstr "购物车为空"
 
 msgid "your cart total"
-msgstr ""
+msgstr "购物车总计"
 
 msgid "Your configuration"
-msgstr ""
+msgstr "您的配置"
 
 msgid "Your total price"
-msgstr ""
+msgstr "价格总计"
