@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HostBill\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-02-12 13:28+0800\n"
+"PO-Revision-Date: 2016-02-15 20:18+0800\n"
 "Last-Translator: \n"
 "Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/"
 "hostbill/language/zh_CN/)\n"
@@ -16,126 +16,126 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 
 msgid "Add new contact"
-msgstr ""
+msgstr "添加新联系人"
 
 msgid "Are you sure you want to delete this contact/profile?"
-msgstr ""
+msgstr "你确定删除该联系人/用户吗？"
 
 msgid "Add funds "
-msgstr ""
+msgstr "新增资金"
 
 msgid "View current balance"
-msgstr ""
+msgstr "查看当前余额"
 
 msgid "Edit Credit Card details"
-msgstr ""
+msgstr "编辑信用卡信息"
 
 msgid "Receive billing notifications"
-msgstr ""
+msgstr "接收账单提醒"
 
 msgid "Billing"
-msgstr ""
+msgstr "账单"
 
 msgid "Place new orders"
-msgstr ""
+msgstr "新订单"
 
 msgid "Allow to view/pay invoices"
-msgstr ""
+msgstr "允许查看/支付发票"
 
 msgid "Contact Details"
-msgstr ""
+msgstr "联系信息"
 
 msgid "Current contacts"
-msgstr ""
+msgstr "当前联系人"
 
 msgid "View basic details"
-msgstr ""
+msgstr "查看基础信息"
 
 msgid "Full control over domains"
-msgstr ""
+msgstr "域名完全控制"
 
 msgid "Modify nameservers"
-msgstr ""
+msgstr "修改 NS 服务器"
 
 msgid "Renew domain"
-msgstr ""
+msgstr "续费域名"
 
 msgid "Edit contact"
-msgstr ""
+msgstr "编辑联系人"
 
 msgid "Privileges cannot be empty"
-msgstr ""
+msgstr "权限不可为空"
 
 msgid "Login as this contact"
-msgstr ""
+msgstr "以该联系人身份登录"
 
 msgid "Access affiliates section"
-msgstr ""
+msgstr "访问合伙人信息"
 
 msgid "Edit allowed IP access"
-msgstr ""
+msgstr "编辑 IP 访问许可"
 
 msgid "Modify main profile details"
-msgstr ""
+msgstr "修改主帐号资料"
 
 msgid "View emails history"
-msgstr ""
+msgstr "查看邮件历史"
 
 msgid "Misc"
-msgstr ""
+msgstr "杂项"
 
 msgid "Add / Edit  contacts"
-msgstr ""
+msgstr "添加 / 编辑联系人"
 
 msgid "Pre-made privileges:"
-msgstr ""
+msgstr "预授权："
 
 msgid "Privileges"
-msgstr ""
+msgstr "权限"
 
 msgid "New contact / profile has been added"
-msgstr ""
+msgstr "新联系人/用户已被创建"
 
 msgid "Contact has been removed"
-msgstr ""
+msgstr "联系人已移除"
 
 msgid "Contact has been updated"
-msgstr ""
+msgstr "联系人已更新"
 
 msgid "Contact details"
-msgstr ""
+msgstr "联系信息"
 
 msgid ""
 "Enable access to your resources with us - allow to pay invoices, manage "
 "services &amp; more"
-msgstr ""
+msgstr "允许访问您在本站的资源 - 允许支付发票、管理服务以及其他权限"
 
 msgid "View billing info"
-msgstr ""
+msgstr "查看账单信息"
 
 msgid "Request cancellation"
-msgstr ""
+msgstr "请求取消"
 
 msgid "Full control over services"
-msgstr ""
+msgstr "服务完全控制"
 
 msgid "Receive related email notifications"
-msgstr ""
+msgstr "接收相关邮件提醒"
 
 msgid "Upgrade / Downgrade"
-msgstr ""
+msgstr "升级 / 降级"
 
 msgid "Close tickets"
-msgstr ""
+msgstr "关闭工单"
 
 msgid "Receive email notifications"
-msgstr ""
+msgstr "接收邮件提醒"
 
 msgid "Support"
-msgstr ""
+msgstr "支持"
 
 msgid "Open new tickets"
-msgstr ""
+msgstr "新工单"
 
 msgid "View current tickets"
-msgstr ""
+msgstr "查看当前工单"

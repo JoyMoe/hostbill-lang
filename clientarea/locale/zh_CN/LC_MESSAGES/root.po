@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HostBill\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-02-12 13:28+0800\n"
+"PO-Revision-Date: 2016-02-15 19:45+0800\n"
 "Last-Translator: \n"
 "Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/"
 "hostbill/language/zh_CN/)\n"
@@ -16,59 +16,59 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 
 msgid "View our latest news and announcements"
-msgstr ""
+msgstr "查看最新咨询和公告"
 
 msgid "View and update your account details"
-msgstr ""
+msgstr "查看并更新你的账户详情"
 
 msgid "Did you forget your password?"
-msgstr ""
+msgstr "忘记密码了吗？"
 
 msgid "Check the domain availability"
-msgstr ""
+msgstr "检查域名可用性"
 
 msgid "Browse and download useful files"
-msgstr ""
+msgstr "浏览并下载有用的文件"
 
 msgid "Enter your email address:"
-msgstr ""
+msgstr "填写你的电子邮箱地址："
 
 msgid ""
 "Enter your email address below to receive a password change confirmation "
 "email."
-msgstr ""
+msgstr "在下面填写你的电子邮箱地址以接收密码重置邮件。"
 
 msgid "Request password change"
-msgstr ""
+msgstr "请求修改密码"
 
 msgid "Browse our Knowledgebase for answers to FAQs"
-msgstr ""
+msgstr "查看我们的知识库以寻找解决方案"
 
 msgid "News Archive"
-msgstr ""
+msgstr "咨询存档"
 
 msgid "There is no active support departments at the moment"
-msgstr ""
+msgstr "当前无可用客服部门"
 
 msgid "That email is not in our database - please make sure it is correct."
-msgstr ""
+msgstr "找不到该电子邮件地址 - 请检查你的输入。"
 
 msgid "Submit a ticket"
-msgstr ""
+msgstr "提交工单"
 
 msgid "Place a new order"
-msgstr ""
+msgstr "新订单"
 
 msgid "A note about spam filters"
-msgstr ""
+msgstr "“垃圾邮件”提示"
 
 msgid ""
 "If you don't receive any email from us within the next 5 minutes, please "
 "check your spam filter."
-msgstr ""
+msgstr "若您五分钟内未收到我们发送的邮件，请检查“垃圾邮件”。"
 
 msgid "The email will be sent from"
-msgstr ""
+msgstr "发给您的邮件来自"
 
 msgid "Welcome to our Client Portal"
-msgstr ""
+msgstr "欢迎来到用户中心"

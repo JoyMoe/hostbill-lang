@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HostBill\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-02-13 23:00+0800\n"
+"PO-Revision-Date: 2016-02-15 20:49+0800\n"
 "Last-Translator: \n"
 "Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/"
 "hostbill/language/zh_CN/)\n"
@@ -64,16 +64,16 @@ msgid "Manual"
 msgstr "手动"
 
 msgid "Maximum Deposit"
-msgstr ""
+msgstr "最多存入"
 
 msgid "Minimum Deposit"
-msgstr ""
+msgstr "最少存入"
 
 msgid "List of my virtual machines"
-msgstr ""
+msgstr "我的虚拟机列表"
 
 msgid "You don't have any virtual machines created"
-msgstr ""
+msgstr "您未创建任何虚拟机"
 
 msgid "Register Nameservers"
 msgstr "注册 NS 服务器"
@@ -91,7 +91,7 @@ msgid "Addon has been terminated"
 msgstr ""
 
 msgid "Total due"
-msgstr "合计超额"
+msgstr "本次总计"
 
 msgid "Upgrade"
 msgstr "升级"
@@ -626,13 +626,13 @@ msgid "Creation date"
 msgstr ""
 
 msgid "Current status of your invoices and ballance status."
-msgstr ""
+msgstr "显示你的发票的当前状态。"
 
 msgid "Current IP Address:  "
 msgstr "当前的 IP 地址："
 
 msgid "Current package:"
-msgstr ""
+msgstr "当前包："
 
 msgid "Custom"
 msgstr "自定义"
@@ -650,16 +650,16 @@ msgid "Get your services renew automatically, add funds to your account"
 msgstr ""
 
 msgid "Provide additional access to your services and tickets"
-msgstr ""
+msgstr "提供访问您的服务和工单的附加权限"
 
 msgid "Restrict access to your services to certain IP addresses"
-msgstr ""
+msgstr "限制访问敏感资源的 IP 来源"
 
 msgid "Browse articles written by our staff members"
-msgstr ""
+msgstr "浏览由我们撰写的文章"
 
 msgid "Check our network/servers statuses"
-msgstr ""
+msgstr "检查网络和服务器状态"
 
 msgid "Database"
 msgstr "数据库"
@@ -677,13 +677,13 @@ msgid "Database User"
 msgstr "数据库用户名"
 
 msgid "Data Disk"
-msgstr ""
+msgstr "数据盘"
 
 msgid "Date sent"
-msgstr ""
+msgstr "发送日期"
 
 msgid "Date updated"
-msgstr ""
+msgstr "更新日期"
 
 msgid "1 Day Usage"
 msgstr "1 天用量"
@@ -1019,10 +1019,10 @@ msgid "Done"
 msgstr "完成"
 
 msgid "Download PDF"
-msgstr ""
+msgstr "下载 PDF"
 
 msgid "Download CA Bundle"
-msgstr ""
+msgstr "下载 CA 包"
 
 msgid "Downloading latest WordPress"
 msgstr ""
@@ -1295,31 +1295,31 @@ msgid "Invoice"
 msgstr "发票"
 
 msgid "Date of Invoice"
-msgstr ""
+msgstr "发票日期"
 
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 msgid "Date Paid: "
-msgstr ""
+msgstr "支付日期： "
 
 msgid "Due Date"
-msgstr ""
+msgstr "到期日期"
 
 msgid "From:"
-msgstr ""
+msgstr "从："
 
 msgid "Invoice ID"
-msgstr ""
+msgstr "发票号"
 
 msgid "Status:"
-msgstr ""
+msgstr "状态："
 
 msgid "Taxed"
-msgstr ""
+msgstr "已税"
 
 msgid "To:"
-msgstr ""
+msgstr "到："
 
 msgid "Invoices Panel"
 msgstr ""
@@ -1726,7 +1726,7 @@ msgid "Primary NS"
 msgstr "主 DNS 服务器"
 
 msgid "Print Invoice"
-msgstr ""
+msgstr "打印发票"
 
 msgid ""
 "Priority settings for mail exchanger record, the lower preference number is "

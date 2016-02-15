@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: HostBill\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-02-12 13:28+0800\n"
+"PO-Revision-Date: 2016-02-15 19:59+0800\n"
 "Last-Translator: \n"
 "Language-Team: Chinese (China) (http://www.transifex.com/hostbill-lang/"
 "hostbill/language/zh_CN/)\n"
@@ -16,163 +16,172 @@ msgstr ""
 "X-Generator: Poedit 1.8.4\n"
 
 msgid "Add another"
-msgstr ""
+msgstr "添加更多"
 
 msgid "Added"
-msgstr ""
+msgstr "已添加"
 
 msgid "(Allowed File Extension: %s)"
-msgstr ""
+msgstr "（允许的文件扩展名： %s）"
 
 msgid "All tickets"
-msgstr ""
+msgstr "全部工单"
 
 msgid "Add files..."
-msgstr ""
+msgstr "添加文件..."
 
 msgid "Attachments"
-msgstr ""
+msgstr "附件"
 
 msgid "This ticket cannot be opened due to blocked content"
-msgstr ""
+msgstr "因内容被禁止，当前工单无法打开"
 
 msgid "This ticket cannot be opened due to blocked subject"
-msgstr ""
+msgstr "因主题被禁止，当前工单无法打开"
 
 msgid "You can't close this ticket"
-msgstr ""
+msgstr "您不能关闭这个工单"
 
 msgid "You can't reopen this ticket"
-msgstr ""
+msgstr "您不能重新打开这个工单"
 
 msgid "Day(s)"
-msgstr ""
+msgstr "天"
 
 msgid "Current average response time for this department:"
-msgstr ""
+msgstr "当前部门平均响应时间："
 
 msgid "Drop files here to attach them"
-msgstr ""
+msgstr "拖动文件到这里添加附件"
 
 msgid "Support ticket message cannot be empty"
-msgstr ""
+msgstr "工单消息不可为空"
 
 msgid "Subject line cannot be empty"
-msgstr ""
+msgstr "主题不可为空"
 
 msgid "Search your tickets..."
-msgstr ""
+msgstr "搜索你的工单..."
 
 msgid "High"
-msgstr ""
+msgstr "高"
 
 msgid "Hour(s)"
-msgstr ""
+msgstr "小时"
 
 msgid "The articles listed below may contain a solution to your problem"
-msgstr ""
+msgstr "下面列出的文章可能包含您问题的解决方案"
 
 msgid "Lastest Answer"
-msgstr ""
+msgstr "最后答复"
 
 msgid "Low"
-msgstr ""
+msgstr "低"
 
 msgid "Match in: "
-msgstr ""
+msgstr "匹配到： "
 
 msgid "Medium"
-msgstr ""
+msgstr "中"
 
 msgid "Merged"
-msgstr ""
+msgstr "已合并"
 
 msgid "Message"
-msgstr ""
+msgstr "消息"
 
 msgid "Minute(s)"
-msgstr ""
+msgstr "分钟"
 
 msgid ""
 "Do you have a question or problem? The support ticket system allows us to "
 "respond to your inquiries. Submit a ticket and we will get back to you."
 msgstr ""
+"有任何问题或疑问？ 工单系统允许我们回应你的问题。 提交一个工单并与我们保持联"
+"系。"
 
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 msgid "New Ticket"
-msgstr ""
+msgstr "新工单"
 
 msgid ""
 "If you cannot find a solution to your problem in our <a href=\"?"
 "cmd=knowledgebase\">knowledgebase</a>, you can submit a ticket."
 msgstr ""
+"若您无法在我们的<a href=\"?cmd=knowledgebase\">知识库</a>找到问题的解决方"
+"案， 你可以提交一个工单。"
 
 msgid ""
 "You have not submitted a ticket yet.<br/> Try finding answer to your "
 "question in our <a href=\"?cmd=knowledgebase\">knowledgebase</a>"
 msgstr ""
+"您从未提交过工单。<br /> 尝试浏览我们的<a href=\"?cmd=knowledgebase\">知识库"
+"</a>寻找问题的解决方案。"
 
 msgid ""
 "Your issue is not yet resolved? Use button below to re-open this ticket."
-msgstr ""
+msgstr "您的问题未被解决？使用下面的按钮重新打开该工单。"
 
 msgid "Priority"
-msgstr ""
+msgstr "优先级"
 
 msgid "Rate my response"
-msgstr ""
+msgstr "评价我的回复"
 
 msgid "Re-Open Issue"
-msgstr ""
+msgstr "重新打开问题"
 
 msgid "Replies:"
-msgstr ""
+msgstr "回复："
 
 msgid "Reply:"
-msgstr ""
+msgstr "回复："
 
 msgid ""
 "Provide ticket details below. When reporting a problem make sure to provide "
 "as much relevant information as possible"
 msgstr ""
+"在下面填写工单详情。 当您填写时，请尽可能提供更详细的信息以帮助尽快解决问题"
 
 msgid "CLOSE ISSUE"
-msgstr ""
+msgstr "关闭问题"
 
 msgid ""
 "Your issue is already resolved? Click button below to close this ticket"
-msgstr ""
+msgstr "您的问题已解决？使用下面的按钮关闭该工单。"
 
 msgid "Search, create and delete tickets here."
-msgstr ""
+msgstr "在这里搜索、创建或删除工单。"
 
 msgid "Second(s)"
-msgstr ""
+msgstr "秒"
 
 msgid "Staff"
-msgstr ""
+msgstr "Staff"
 
 msgid "Submit reply"
-msgstr ""
+msgstr "提交回复"
 
 msgid ""
 "Your support ticket has been created. We will get back to you as soon as "
 "possible - you will receive notification on email address you've provided."
 msgstr ""
+"您的工单已创建。我们将会尽快处理你的问题 - 若有任何回应，您将通过您的电子邮"
+"箱收到提醒。"
 
 msgid "Ticket Created!"
-msgstr ""
+msgstr "工单已创建"
 
 msgid "Ticket created."
-msgstr ""
+msgstr "工单已创建"
 
 msgid "Tickets Panel"
-msgstr ""
+msgstr "工单面板"
 
 msgid "View Ticket"
-msgstr ""
+msgstr "查看工单"
 
 msgid "Years(s)"
-msgstr ""
+msgstr "年"
